@@ -1,0 +1,1001 @@
+id_consulta,fecha,cliente_id,cliente_nombre,cliente_tel,obra_social,plan_afiliado,producto_nombre,droga_generica,precio_lista,descuento_OS,metodo_pago,descuento_banco,banco_promocion,stock_disponible,categoria,convertida,requiere_receta,precio_final
+1,4/13/2026,9454545269,Martina García,920-347-5536,OSECAC,PMO,Vastarel,Droga Genérica,10468,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,57,Cardiología,,true,6281
+2,6/8/2025,7420350361,Jorge Sosa,798-732-9675,PAMI,PMO,Rosuvastatina Bagó,Droga Genérica,24983,0.9,Banco Provincia,0,Sin Promo,21,Otros,,false,2498
+3,1/13/2026,15032140742,Diego Flores,531-129-1547,PAMI,PMO,Vastarel,Droga Genérica,16104,0.9,Débito,0,Sin Promo,24,Cardiología,,true,1610
+4,12/5/2025,9813811566,Marcela Díaz,421-767-8326,OSECAC,PMO,Reliverán,Metoclopramida,17838,0.4,Macro,0.1,Macro - Beneficio Select,51,Otros,,false,9633
+5,2/3/2026,6885400362,Milagros Sosa,717-108-1701,Medicus,Plan General,Ibuevanol,Ibuprofeno,9604,0.4,Efectivo,0,Sin Promo,9,Analgésicos,,false,5762
+6,11/28/2025,14289824399,Marcela Ortiz,722-102-8439,OSIT,Plan General,Losartán,Droga Genérica,15601,0.4,Santander,0.2,Santander - Especial Farmacias,98,Otros,,false,7488
+7,9/11/2025,7599206223,Matías Romero,257-787-2077,ASE,Plan General,Optamox,Amoxicilina,44938,0.4,Débito,0,Sin Promo,98,Antibióticos,,true,26963
+8,2/5/2026,5352704133,Joaquín Pérez,283-267-4164,OSDEPYM,310,Vastarel,Droga Genérica,10016,0.4,Nación,0.25,BNA+ Semana Nación,12,Cardiología,,true,4507
+9,6/10/2025,13419463273,Horacio Gómez,606-726-5323,Swiss Medical,SMG20,Losartán,Droga Genérica,11749,0.4,Nación,0.25,BNA+ Semana Nación,92,Otros,,false,5287
+10,5/1/2025,14119621846,Diego Herrera,349-695-4051,Omint,Plan General,Ibuevanol,Ibuprofeno,13324,0.4,Débito,0,Sin Promo,15,Analgésicos,,false,7994
+11,6/3/2025,1104821683,Agustina Benítez,127-876-5088,Apross,Plan 360,Losartán,Droga Genérica,19778,0.4,Débito,0,Sin Promo,12,Otros,,false,11867
+12,10/13/2025,7154805679,Julián Díaz,638-174-5161,OSECAC,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,13564,0.4,Banco Provincia,0,Sin Promo,14,Otros,,false,8138
+13,2/4/2026,640982750,Leandro Ramos,269-320-4204,OSPOCE,Plan General,Sertal Compuesto,Droga Genérica,12486,0.4,Galicia,0.15,Galicia - Promo MODO,29,Gastrointestinal,,false,6368
+14,6/11/2025,8727400161,Micaela Pérez,278-252-7692,Apross,Plan General,Sertal Compuesto,Droga Genérica,14389,0.4,Santander,0.2,Santander - Especial Farmacias,55,Gastrointestinal,,false,6907
+15,12/15/2025,8411191238,Gustavo González,402-719-2863,OSECAC,PMO,Bagó+ Vital,Multivitamínico,42271,0.4,Débito,0,Sin Promo,57,Otros,,false,25363
+16,7/30/2025,4241831047,Micaela Álvarez,603-479-7532,OSPE,Plan General,Redoxon,Multivitamínico,12378,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,39,Vitaminas,,false,7427
+17,8/1/2025,2492111393,Gonzalo Fernández,299-224-1273,PAMI,PMO,Bagó+ Vital,Multivitamínico,54785,0.9,Banco Provincia,0,Sin Promo,98,Otros,,false,5478
+18,6/11/2025,15433739701,Sofía Acosta,391-112-3874,Jerárquicos Salud,Plan General,Diclofenac Casasco,Droga Genérica,19035,0.4,Nación,0.25,BNA+ Semana Nación,92,Otros,,false,8566
+19,9/4/2025,9955217770,Mirta Fernández,379-955-0799,Jerárquicos Salud,Plan General,Alprazolam,Droga Genérica,14073,0.4,Macro,0.1,Macro - Beneficio Select,46,Otros,,false,7599
+20,7/14/2025,11734589119,Matías Flores,645-802-1603,OSPJN,Plan General,Gadovist,Gadobutrol,27339,0.4,Débito,0,Sin Promo,18,Otros,,false,16403
+21,11/25/2025,12329736472,Antonella Gutiérrez,547-511-4151,Federada Salud,Plan General,Losartán,Droga Genérica,19124,0.4,Banco Provincia,0,Sin Promo,29,Otros,,false,11474
+22,3/3/2026,13475079571,Gustavo Ramírez,224-158-9638,OSDE,210,Optamox,Amoxicilina,26948,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,75,Antibióticos,,true,16169
+23,2/8/2026,1071550741,Oscar Rodríguez,760-233-6804,Swiss Medical,SMG20,Bagó+ Vital,Multivitamínico,31001,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,52,Otros,,false,18601
+24,6/13/2025,11587277761,Jorgelina González,875-243-3562,PAMI,PMO,Vastarel,Droga Genérica,19120,0.9,"",0,Sin Promo,7,Cardiología,,true,1912
+25,2/28/2026,2185136860,Antonella Quiroga,734-178-1237,OSDOP,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,11493,0.4,Débito,0,Sin Promo,96,Otros,,false,6896
+26,12/29/2025,14337832647,Florencia Quiroga,309-512-7494,Obras Sociales,Plan General,Graneodín,Droga Genérica,15120,0.4,Santander,0.2,Santander - Especial Farmacias,46,Otros,,false,7258
+27,1/1/2026,4033871890,Paola Fernández,709-401-6937,Boreal,Plan General,"",Droga Genérica,10347,0.4,Débito,0,Sin Promo,65,Otros,,false,6208
+28,8/18/2025,5979025290,Marcelo Herrera,583-919-2669,OSUTHGRA,Plan General,Actron 600,Ibuprofeno,8672,0.4,Efectivo,0,Sin Promo,26,Analgésicos,,false,5203
+29,9/11/2025,12320668305,Natalia Acosta,317-990-6996,OSECAC,PMO,Ibuevanol,Ibuprofeno,10280,0.4,Macro,0.1,Macro - Beneficio Select,69,Analgésicos,,false,5551
+30,7/7/2025,9889291136,Daniela Castro,670-122-0345,Swiss Medical,SMG70,Gadovist,Gadobutrol,27057,0.4,Débito,0,Sin Promo,69,Otros,,false,16234
+31,10/12/2025,3066883673,Marcelo Torres,503-174-4175,Mutual Médica Concordia,Plan General,Alprazolam,Droga Genérica,15203,0.4,Nación,0.25,BNA+ Semana Nación,43,Otros,,false,6841
+32,9/12/2025,12785146795,Ricardo Pereyra,158-779-3996,OSECAC,PMO,Graneodín,Droga Genérica,13301,0.4,Efectivo,0,Sin Promo,20,Otros,,false,7981
+33,8/7/2025,12696159582,Gonzalo Torres,201-609-3255,OSECAC,PMO,Vastarel,Droga Genérica,18230,0.4,Débito,0,Sin Promo,51,Cardiología,,true,10938
+34,8/19/2025,13350514137,Marcela Benítez,604-827-3709,Bramed,Plan General,Redoxon,Multivitamínico,18513,0.4,"",0,Sin Promo,67,Vitaminas,,false,11108
+35,1/24/2026,6502460276,Rodrigo Romero,101-516-0760,Apross,Plan General,Alprazolam,Droga Genérica,19181,0.4,Débito,0,Sin Promo,60,Otros,,false,11509
+36,5/19/2025,2871434851,Facundo Ramírez,933-460-5654,UOCRA,PMO,Meiact,Droga Genérica,36073,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,60,Otros,,false,21644
+37,12/6/2025,10942729282,Florencia Gómez,412-207-6159,Apross,Plan General,Bayaspirina,Droga Genérica,14778,0.4,Santander,0.2,Santander - Especial Farmacias,2,Analgésicos,,false,7093
+38,9/18/2025,13195789439,Joaquín Benítez,815-852-9107,OSPAT,Plan General,Gadovist,Gadobutrol,18704,0.4,"",0,Sin Promo,58,Otros,,false,11222
+39,1/24/2026,2981861854,Lucía Rojas,945-544-4851,OSAM,Plan General,Atenolol,Droga Genérica,16047,0.4,Galicia,0.15,Galicia - Promo MODO,87,Cardiología,,true,8184
+40,9/17/2025,1256244019,Morena Martínez,916-818-6868,OBSBA,Plan General,Rosuvastatina Bagó,Droga Genérica,20227,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,12,Otros,,false,12136
+41,11/27/2025,1217779524,Santiago Pérez,779-694-8819,PAMI,PMO,Ibuevanol,Ibuprofeno,8321,0.9,Macro,0.1,Macro - Beneficio Select,70,Analgésicos,,false,749
+42,4/15/2026,8419884311,Mirta Gómez,738-657-7507,OSPLYFC,Plan General,Losartán,Droga Genérica,14713,0.4,Macro,0.1,Macro - Beneficio Select,1,Otros,,false,7945
+43,9/26/2025,1110106076,Horacio Álvarez,216-170-7233,Obras Sociales,Plan General,Taural,Droga Genérica,12420,0.4,Galicia,0.15,Galicia - Promo MODO,99,Gastrointestinal,,false,6334
+44,1/19/2026,4113471636,Facundo Gómez,865-233-5200,Bramed,Plan General,Actron 600,Ibuprofeno,12563,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,40,Analgésicos,,false,7538
+45,12/13/2025,697977059,Julián Díaz,182-375-1028,OSITAC,Plan General,Optamox,Amoxicilina,28460,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,63,Antibióticos,,true,17076
+46,4/7/2026,13495273353,Jorge Quiroga,512-939-7972,Sipssa,P4MIL,Taural,Droga Genérica,16123,0.4,Banco Provincia,0,Sin Promo,27,Gastrointestinal,,false,9674
+47,1/31/2026,11652446292,Martina González,294-652-6140,PAMI,PMO,Optamox,Amoxicilina,39613,0.9,Santander,0.2,Santander - Especial Farmacias,80,Antibióticos,,true,3169
+48,2/26/2026,10944024085,Nicolás Gómez,151-677-4649,DASUTEN (UTN),Plan General,Sertal Compuesto,Droga Genérica,14595,0.4,Débito,0,Sin Promo,80,Gastrointestinal,,false,8757
+49,11/12/2025,14072716330,Ariel Aguirre,234-990-9474,OSUTHGRA,Plan General,Losartán,Droga Genérica,15360,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,39,Otros,,false,9216
+50,9/23/2025,8367155955,Valentina Ortiz,959-992-1709,OSDE,510,"",Droga Genérica,16535,0.4,Santander,0.2,Santander - Especial Farmacias,78,Otros,,false,7937
+51,6/30/2025,8198034744,Milagros Gómez,985-870-3158,Boreal,Plan General,Berocca,Droga Genérica,39031,0.4,Galicia,0.15,Galicia - Promo MODO,37,Vitaminas,,false,19906
+52,5/11/2025,9049651437,María Belén Quiroga,634-509-5843,DASUTEN (UTN),Plan General,"",Droga Genérica,17176,0.4,Macro,0.1,Macro - Beneficio Select,71,Otros,,false,9275
+53,2/12/2026,7513858007,Carina Ramírez,733-483-8366,Swiss Medical,SMG70,Enalapril Gador,Enalapril,21508,0.4,"",0,Sin Promo,74,Cardiología,,true,12905
+54,6/27/2025,7599569462,Ariel Díaz,402-326-3343,OSECAC,PMO,Actron 600,Ibuprofeno,13245,0.4,Débito,0,Sin Promo,85,Analgésicos,,false,7947
+55,7/9/2025,6544018837,Camila Romero,711-794-3222,OSSURRBAC,Plan General,Amoxidal,Amoxicilina,44615,0.4,Galicia,0.15,Galicia - Promo MODO,58,Antibióticos,,true,22754
+56,5/25/2025,1557941517,Martina Sosa,710-938-1507,Galeno,Oro 400,Clonazepam (Venta Bajo Receta),Droga Genérica,13022,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,9,Otros,,false,7813
+57,3/29/2026,14792211549,Graciela Martínez,600-167-3532,Omint,Plan General,Meiact,Droga Genérica,44756,0.4,Galicia,0.15,Galicia - Promo MODO,54,Otros,,false,22826
+58,3/14/2026,1218277422,Giuliana Ortiz,268-134-5233,Caja de Abogados de Córdoba,Plan General,Bagóhepato,Droga Genérica,18242,0.4,Galicia,0.15,Galicia - Promo MODO,9,Gastrointestinal,,false,9303
+59,4/25/2025,2263274536,Ricardo García,330-544-1462,OSDE,310,Buscapina,Droga Genérica,9903,0.4,"",0,Sin Promo,81,Gastrointestinal,,false,5942
+60,6/30/2025,7865775850,Rodrigo Sosa,632-375-4643,PAMI,PMO,Enalapril Gador,Enalapril,20289,0.9,Débito,0,Sin Promo,39,Cardiología,,true,2029
+61,11/23/2025,7308462621,Juan Carlos Ramos,831-429-9948,OSDE,310,Rosuvastatina Bagó,Droga Genérica,28046,0.4,Santander,0.2,Santander - Especial Farmacias,56,Otros,,false,13462
+62,4/12/2026,5101667859,Julián Fernández,324-459-6462,Unión Personal,Plan General,Graneodín,Droga Genérica,13340,0.4,Santander,0.2,Santander - Especial Farmacias,98,Otros,,false,6403
+63,12/31/2025,1389904873,Giuliana Gutiérrez,208-926-9951,Galeno,Oro 400,Tafirol,Paracetamol,10876,0.4,Galicia,0.15,Galicia - Promo MODO,73,Analgésicos,,false,5547
+64,9/3/2025,11669909628,Oscar Acosta,144-990-6117,OSECAC,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,16033,0.4,Efectivo,0,Sin Promo,9,Otros,,false,9620
+65,1/17/2026,6988662461,Agustina Sosa,509-207-7595,OSDOP,Plan General,Vastarel,Droga Genérica,17055,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,57,Cardiología,,true,10233
+66,1/18/2026,13987846842,Valentina Castro,520-478-6901,Swiss Medical,SMG20,Diclofenac Casasco,Droga Genérica,19575,0.4,Débito,0,Sin Promo,66,Otros,,false,11745
+67,2/7/2026,6947832634,Gustavo Ortiz,891-229-7065,Apross,Plan General,Mylanta,Droga Genérica,11280,0.4,Efectivo,0,Sin Promo,29,Gastrointestinal,,false,6768
+68,8/11/2025,4201323467,Milagros Ruiz,391-354-0825,GEA,Plan General,Losartán,Droga Genérica,12017,0.4,Galicia,0.15,Galicia - Promo MODO,55,Otros,,false,6129
+69,6/26/2025,10204632081,Roxana Quiroga,568-473-4315,OSIT,Plan General,Berocca,Droga Genérica,52922,0.4,Débito,0,Sin Promo,54,Vitaminas,,false,31753
+70,8/1/2025,2862834278,Matías Ruiz,349-318-4528,Apross,Plan General,Mylanta,Droga Genérica,19151,0.4,Santander,0.2,Santander - Especial Farmacias,93,Gastrointestinal,,false,9192
+71,6/26/2025,861778077,Jorgelina Torres,280-826-0123,OSPJN,Plan General,Alprazolam,Droga Genérica,10321,0.4,Macro,0.1,Macro - Beneficio Select,21,Otros,,false,5573
+72,2/15/2026,601905464,Gustavo Acosta,232-418-2495,PAMI,PMO,"",Droga Genérica,16717,0.9,Efectivo,0,Sin Promo,28,Otros,,false,1672
+73,1/28/2026,15214545347,Marcela Sánchez,484-667-5853,Particular,Plan General,Bayaspirina,Droga Genérica,12728,0,Banco Provincia,0,Sin Promo,75,Analgésicos,,false,12728
+74,12/20/2025,8174574762,Santiago Acosta,289-739-3720,Apross,Plan 360,Redoxon,Multivitamínico,18199,0.4,Galicia,0.15,Galicia - Promo MODO,46,Vitaminas,,false,9281
+75,12/2/2025,676194557,Bautista Ortiz,386-981-3042,OSPLYFC,Plan General,Actron 600,Ibuprofeno,12910,0.4,Débito,0,Sin Promo,90,Analgésicos,,false,7746
+76,1/26/2026,14716899476,Graciela Torres,788-661-7703,OSDE,210,Sertal Compuesto,Droga Genérica,14432,0.4,Banco Provincia,0,Sin Promo,27,Gastrointestinal,,false,8659
+77,3/21/2026,4862433686,Martina Álvarez,198-696-8168,OSPLYFC,Plan General,Ponstan,Droga Genérica,15419,0.4,Débito,0,Sin Promo,94,Otros,,false,9251
+78,8/23/2025,2974951069,Valentina Sánchez,792-218-8127,SIRELYF,Plan General,Atenolol,Droga Genérica,16422,0.4,Galicia,0.15,Galicia - Promo MODO,44,Cardiología,,true,8375
+79,6/15/2025,10381116151,Roxana Martínez,949-269-8005,OSPECOR,Plan General,Alprazolam,Droga Genérica,16116,0.4,Efectivo,0,Sin Promo,14,Otros,,false,9670
+80,11/11/2025,5274984892,Gonzalo García,729-206-1510,OSECAC,PMO,Bagó+ Vital,Multivitamínico,41287,0.4,Banco Provincia,0,Sin Promo,40,Otros,,false,24772
+81,9/24/2025,6124728105,,885-224-6577,SanCor Salud,4000,Bayaspirina,Droga Genérica,16803,0.4,Banco Provincia,0,Sin Promo,49,Analgésicos,,false,10082
+82,5/1/2025,12357106276,Estela Gómez,219-933-2787,Avalian,Plan General,Bagóhepato,Droga Genérica,17950,0.4,Efectivo,0,Sin Promo,78,Gastrointestinal,,false,10770
+83,6/17/2025,11097591996,Lucas Acosta,196-226-3343,Swiss Medical,SMG40,Ibupirac,Ibuprofeno,12680,0.4,Banco Provincia,0,Sin Promo,33,Analgésicos,,false,7608
+84,4/29/2025,5750290919,Nicolás Sánchez,909-956-9771,OSPE,Plan General,Actron 600,Ibuprofeno,9272,0.4,Débito,0,Sin Promo,7,Analgésicos,,false,5563
+85,2/8/2026,3763635106,Milagros Díaz,346-742-7873,Integral Salud,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,10419,0.4,Nación,0.25,BNA+ Semana Nación,20,Otros,,false,4689
+86,7/21/2025,12080222887,Jorge Pérez,898-111-2038,Apross,Plan 360,Sertal Compuesto,Droga Genérica,16512,0.4,Macro,0.1,Macro - Beneficio Select,98,Gastrointestinal,,false,8916
+87,6/12/2025,5577631679,Micaela Díaz,852-606-6642,Ensalud,Plan General,Mylanta,Droga Genérica,19364,0.4,Macro,0.1,Macro - Beneficio Select,84,Gastrointestinal,,false,10457
+88,11/5/2025,4425097659,Silvina Pereyra,448-979-6111,OSECAC,PMO,Losartán,Droga Genérica,16351,0.4,Galicia,0.15,Galicia - Promo MODO,45,Otros,,false,8339
+89,1/27/2026,1306680613,Marcelo García,572-682-7186,Medicus,Plan General,Buscapina,Droga Genérica,16069,0.4,"",0,Sin Promo,75,Gastrointestinal,,false,9641
+90,2/1/2026,618248367,Gustavo Gómez,741-187-9438,GEA,Plan General,Bagóhepato,Droga Genérica,15177,0.4,Débito,0,Sin Promo,70,Gastrointestinal,,false,9106
+91,7/18/2025,10393143332,Lucas Pérez,586-973-8204,PAMI,PMO,Ciriax,Droga Genérica,15122,0.9,Banco Provincia,0,Sin Promo,13,Otros,,false,1512
+92,6/25/2025,10438886988,Micaela González,848-542-3545,OSFE,Plan General,Alprazolam,Droga Genérica,12296,0.4,Banco Provincia,0,Sin Promo,96,Otros,,false,7378
+93,1/2/2026,5519242955,Ariel Sosa,788-357-1699,OSECAC,PMO,Mylanta,Droga Genérica,18001,0.4,Débito,0,Sin Promo,46,Gastrointestinal,,false,10801
+94,10/22/2025,14871595383,Lucas Medina,301-791-7912,IOMA,PMO,"",Droga Genérica,17775,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,58,Otros,,false,10665
+95,6/24/2025,3031567563,Estela Ramírez,946-434-6190,Hospital Privado,Plan General,Lotrial,Enalapril,18022,0.4,Santander,0.2,Santander - Especial Farmacias,92,Cardiología,,true,8651
+96,4/28/2025,12181096529,Nicolás Ramírez,863-832-4141,OSECAC,PMO,Bagó+ Vital,Multivitamínico,30637,0.4,Santander,0.2,Santander - Especial Farmacias,30,Otros,,false,14706
+97,9/19/2025,752088593,Florencia Torres,702-286-7181,Particular,Plan General,Sertal Compuesto,Droga Genérica,9355,0,Débito,0,Sin Promo,44,Gastrointestinal,,false,9355
+98,10/19/2025,8564691363,Mirta Torres,465-462-8851,Luis Pasteur,Plan General,Ibupirac,Ibuprofeno,12951,0.4,Efectivo,0,Sin Promo,6,Analgésicos,,false,7771
+99,12/24/2025,9015740107,María Belén Pérez,985-438-5500,Luis Pasteur,Plan General,Bayaspirina,Droga Genérica,19607,0.4,Santander,0.2,Santander - Especial Farmacias,51,Analgésicos,,false,9411
+100,3/11/2026,2287116825,Giuliana Ortiz,855-336-6570,SIRELYF,Plan General,Bayaspirina,Droga Genérica,18074,0.4,Efectivo,0,Sin Promo,51,Analgésicos,,false,10844
+101,3/5/2026,15082404921,Federico Rodríguez,705-570-5178,PAMI,PMO,Rosuvastatina Bagó,Droga Genérica,22230,0.9,"",0,Sin Promo,92,Otros,,false,2223
+102,5/16/2025,3847982008,Joaquín Rodríguez,334-576-4684,Apross,Plan General,Sertal Compuesto,Droga Genérica,17807,0.4,"",0,Sin Promo,96,Gastrointestinal,,false,10684
+103,2/11/2026,13724712766,Florencia Ortiz,862-982-0680,OSPE,Plan General,Actron 600,Ibuprofeno,8667,0.4,Efectivo,0,Sin Promo,50,Analgésicos,,false,5200
+104,9/14/2025,3981598441,Marcelo García,996-577-1837,OSECAC,PMO,Graneodín,Droga Genérica,15619,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,99,Otros,,false,9371
+105,8/9/2025,12987650710,Carina Martínez,826-952-3889,Parque Salud,Plan General,Amoxidal,Amoxicilina,35039,0.4,Banco Provincia,0,Sin Promo,96,Antibióticos,,true,21023
+106,1/15/2026,6754557414,Martina Castro,739-976-7729,Apross,Plan General,Alprazolam,Droga Genérica,17295,0.4,Banco Provincia,0,Sin Promo,65,Otros,,false,10377
+107,7/10/2025,8562285297,Fabián Gutiérrez,415-334-5175,OSECAC,PMO,Kitadol,Paracetamol,13347,0.4,"",0,Sin Promo,56,Otros,,false,8008
+108,8/5/2025,13371782210,Oscar Álvarez,963-729-1131,Apross,Plan 360,Bayaspirina,Droga Genérica,18429,0.4,Efectivo,0,Sin Promo,94,Analgésicos,,false,11057
+109,9/25/2025,5442087,José Luis Rodríguez,594-813-2748,Apross,Plan 360,Sertal Compuesto,Droga Genérica,14522,0.4,Banco Provincia,0,Sin Promo,53,Gastrointestinal,,false,8713
+110,2/28/2026,13047654394,Bautista González,785-401-9984,PAMI,PMO,Berocca,Droga Genérica,37397,0.9,"",0,Sin Promo,1,Vitaminas,,false,3740
+111,5/19/2025,1718843588,Morena Ruiz,242-683-2159,OSDE,210,Redoxon,Multivitamínico,15453,0.4,Galicia,0.15,Galicia - Promo MODO,1,Vitaminas,,false,7881
+112,9/23/2025,14600388910,Roxana Acosta,666-269-8010,OSPE,Plan General,Atenolol,Droga Genérica,15582,0.4,"",0,Sin Promo,33,Cardiología,,true,9349
+113,8/28/2025,12202001879,Diego Ramírez,433-286-2098,Medicus,Plan General,Tafirol,Paracetamol,8559,0.4,Macro,0.1,Macro - Beneficio Select,24,Analgésicos,,false,4622
+114,12/21/2025,11084930677,Romina Castro,659-800-1496,Ensalud,Plan General,Bagó+ Vital,Multivitamínico,34410,0.4,Efectivo,0,Sin Promo,53,Otros,,false,20646
+115,12/2/2025,13208321284,Juana Martínez,146-580-2150,OSDE,510,Rosuvastatina Bagó,Droga Genérica,18879,0.4,Santander,0.2,Santander - Especial Farmacias,31,Otros,,false,9062
+116,7/15/2025,12462701168,Yanina Pérez,737-738-7171,Swiss Medical,SMG40,Meiact,Droga Genérica,38595,0.4,Débito,0,Sin Promo,7,Otros,,false,23157
+117,1/28/2026,11239152051,Lourdes García,982-806-2448,OSECAC,PMO,Ibuevanol,Ibuprofeno,8395,0.4,Débito,0,Sin Promo,38,Analgésicos,,false,5037
+118,11/9/2025,7392129788,Giuliana Gutiérrez,340-247-7670,Ensalud,Plan General,Bayaspirina,Droga Genérica,13080,0.4,Macro,0.1,Macro - Beneficio Select,48,Analgésicos,,false,7063
+119,12/26/2025,3077827648,Milagros Ortiz,281-679-5885,Mutual Médica Concordia,Plan General,Meiact,Droga Genérica,32076,0.4,Banco Provincia,0,Sin Promo,99,Otros,,false,19246
+120,3/20/2026,2644444458,Oscar Rodríguez,722-595-5875,Swiss Medical,SMG20,Buscapina,Droga Genérica,16287,0.4,Macro,0.1,Macro - Beneficio Select,57,Gastrointestinal,,false,8795
+121,7/13/2025,15085416823,Oscar Herrera,531-825-9320,Caja de Abogados de Córdoba,Plan General,Alikal,Droga Genérica,10980,0.4,"",0,Sin Promo,77,Otros,,false,6588
+122,11/20/2025,271223839,Juan Carlos Ramos,466-284-8272,OSECAC,PMO,Amoxidal,Amoxicilina,29502,0.4,Débito,0,Sin Promo,11,Antibióticos,,true,17701
+123,10/28/2025,10323625060,Santiago González,658-789-5794,Nobis Salud,Plan General,Centrum,Multivitamínico,34920,0.4,Galicia,0.15,Galicia - Promo MODO,58,Vitaminas,,false,17809
+124,8/5/2025,5911598689,,376-231-2632,OSDE,310,Bagóhepato,Droga Genérica,15521,0.4,Galicia,0.15,Galicia - Promo MODO,48,Gastrointestinal,,false,7916
+125,4/14/2026,2629170729,Martina Pereyra,869-817-0016,Medicus,Plan General,Tafirol,Paracetamol,11620,0.4,"",0,Sin Promo,3,Analgésicos,,false,6972
+126,5/24/2025,8826471188,Ariel Ramírez,113-251-5958,OSPECOR,Plan General,Enalapril Gador,Enalapril,17533,0.4,Efectivo,0,Sin Promo,47,Cardiología,,true,10520
+127,2/15/2026,11559470588,Florencia Quiroga,200-402-8813,PAMI,PMO,Gadovist,Gadobutrol,28597,0.9,Galicia,0.15,Galicia - Promo MODO,53,Otros,,false,2431
+128,10/27/2025,12250937440,Agustina Ramírez,766-815-6713,CPCE Córdoba,Plan General,Ibupirac,Ibuprofeno,8738,0.4,Galicia,0.15,Galicia - Promo MODO,47,Analgésicos,,false,4456
+129,4/24/2025,12003836007,Estela Flores,152-888-7962,Caja Notarial de Córdoba,Plan General,Ibupirac,Ibuprofeno,12576,0.4,Santander,0.2,Santander - Especial Farmacias,89,Analgésicos,,false,6036
+130,3/24/2026,3817013147,Mirta Martínez,194-990-6192,CPCE Córdoba,Plan General,Optamox,Amoxicilina,28526,0.4,"",0,Sin Promo,1,Antibióticos,,true,17116
+131,8/18/2025,3269229775,Silvina Ramírez,143-976-1296,ANDAR,Plan General,Mylanta,Droga Genérica,18663,0.4,Débito,0,Sin Promo,40,Gastrointestinal,,false,11198
+132,4/3/2026,10553310225,Sofía Ruiz,119-146-0713,SanCor Salud,1000,Berocca,Droga Genérica,48143,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,86,Vitaminas,,false,28886
+133,10/25/2025,476192311,Natalia Aguirre,282-983-0523,ASE,Plan General,Redoxon,Multivitamínico,17785,0.4,Macro,0.1,Macro - Beneficio Select,97,Vitaminas,,false,9604
+134,2/19/2026,11397394349,Morena Romero,908-294-5476,OSIT,Plan General,Diclofenac Casasco,Droga Genérica,10861,0.4,Débito,0,Sin Promo,48,Otros,,false,6517
+135,10/25/2025,11975342425,,683-545-9102,Apross,Plan 360,Meiact,Droga Genérica,35175,0.4,Macro,0.1,Macro - Beneficio Select,90,Otros,,false,18995
+136,6/17/2025,12391791664,Milagros Torres,555-332-3915,Particular,Plan General,Kitadol,Paracetamol,10450,0,Banco Provincia,0,Sin Promo,18,Otros,,false,10450
+137,5/19/2025,471840752,Martina Ramírez,296-218-8465,OSPRERA,PMO,Meiact,Droga Genérica,39906,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,67,Otros,,false,23944
+138,10/31/2025,5420974034,Nahuel Pérez,217-873-4465,OSECAC,PMO,Lotrial,Enalapril,25890,0.4,Santander,0.2,Santander - Especial Farmacias,54,Cardiología,,true,12427
+139,8/27/2025,6525440109,Lucas Pérez,830-963-0711,Medifé,Plan General,Optamox,Amoxicilina,31837,0.4,Efectivo,0,Sin Promo,55,Antibióticos,,true,19102
+140,10/13/2025,1809044866,Romina Benítez,949-711-1774,PAMI,PMO,Atenolol,Droga Genérica,28210,0.9,Débito,0,Sin Promo,81,Cardiología,,true,2821
+141,5/28/2025,13751379575,Antonella Castro,235-464-7424,OSECAC,PMO,Bagóhepato,Droga Genérica,17236,0.4,Macro,0.1,Macro - Beneficio Select,40,Gastrointestinal,,false,9307
+142,5/3/2025,1825461849,Micaela Pereyra,852-794-3356,Sipssa,PMIL,Ibupirac,Ibuprofeno,8081,0.4,Débito,0,Sin Promo,40,Analgésicos,,false,4849
+143,11/2/2025,8114274127,Paola González,689-199-0197,OSECAC,PMO,Amoxidal,Amoxicilina,35693,0.4,Santander,0.2,Santander - Especial Farmacias,92,Antibióticos,,true,17133
+144,3/11/2026,12690413723,María Belén Sosa,438-485-3768,Apross,Plan 360,Graneodín,Droga Genérica,18292,0.4,Galicia,0.15,Galicia - Promo MODO,72,Otros,,false,9329
+145,12/1/2025,14762417641,Solange Quiroga,549-370-1557,OSPRERA,PMO,Berocca,Droga Genérica,54396,0.4,Banco Provincia,0,Sin Promo,44,Vitaminas,,false,32638
+146,12/6/2025,3657385860,Matías Pereyra,714-567-0721,OSDE,210,Diclofenac Casasco,Droga Genérica,13478,0.4,Galicia,0.15,Galicia - Promo MODO,3,Otros,,false,6874
+147,2/10/2026,10655238269,José Luis Gutiérrez,160-323-7395,Particular,Plan General,Bayaspirina,Droga Genérica,17533,0,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,36,Analgésicos,,false,17533
+148,1/12/2026,7310440626,Romina García,701-316-3493,Mutual Médica Concordia,Plan General,Diclofenac Casasco,Droga Genérica,16719,0.4,Santander,0.2,Santander - Especial Farmacias,82,Otros,,false,8025
+149,12/31/2025,8098966954,Silvina López,253-735-4584,OSPE,Plan General,Tafirol,Paracetamol,9905,0.4,Nación,0.25,BNA+ Semana Nación,78,Analgésicos,,false,4457
+150,11/21/2025,5936485880,Jorge Pérez,348-983-8117,Swiss Medical,SMG70,Meiact,Droga Genérica,38917,0.4,Débito,0,Sin Promo,90,Otros,,false,23350
+151,9/13/2025,646369544,Roberto Rodríguez,966-955-7117,OSDOP,Plan General,Redoxon,Multivitamínico,10390,0.4,Débito,0,Sin Promo,24,Vitaminas,,false,6234
+152,11/18/2025,11253094679,Camila García,355-628-5639,Ensalud,Plan General,Gadovist,Gadobutrol,22347,0.4,Efectivo,0,Sin Promo,26,Otros,,false,13408
+153,9/16/2025,11973047903,Bautista Benítez,781-834-8054,Swiss Medical,SMG40,Diclofenac Casasco,Droga Genérica,17525,0.4,Nación,0.25,BNA+ Semana Nación,74,Otros,,false,7886
+154,2/7/2026,8454002891,Nahuel Ortiz,206-440-5899,PAMI,PMO,Gadovist,Gadobutrol,22282,0.9,Banco Provincia,0,Sin Promo,33,Otros,,false,2228
+155,3/7/2026,211749821,Romina Ramírez,637-366-9195,Integral Salud,Plan General,Sertal Compuesto,Droga Genérica,16723,0.4,Galicia,0.15,Galicia - Promo MODO,41,Gastrointestinal,,false,8529
+156,3/11/2026,11560676530,Juan Carlos Acosta,570-239-6493,OSDEPYM,410,Ciriax,Droga Genérica,18319,0.4,Banco Provincia,0,Sin Promo,42,Otros,,false,10991
+157,5/29/2025,3563468104,Sofía García,177-326-0153,OSECAC,PMO,"",Droga Genérica,10899,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,58,Otros,,false,6539
+158,11/21/2025,8016356948,Jorge Romero,306-331-5638,OSECAC,PMO,Amoxidal,Amoxicilina,35977,0.4,Macro,0.1,Macro - Beneficio Select,72,Antibióticos,,true,19428
+159,2/4/2026,11428886241,Nahuel Flores,973-186-3014,OBSBA,Plan General,Ibuevanol,Ibuprofeno,8944,0.4,Santander,0.2,Santander - Especial Farmacias,8,Analgésicos,,false,4293
+160,5/25/2025,5016000011,Marcela Herrera,318-173-9844,Bramed,Plan General,Enalapril Gador,Enalapril,28729,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,66,Cardiología,,true,17237
+161,10/18/2025,7189488325,Sergio Flores,723-557-0056,Medifé,Plan General,Centrum,Multivitamínico,33789,0.4,Macro,0.1,Macro - Beneficio Select,97,Vitaminas,,false,18246
+162,5/22/2025,8288144772,Claudio Giménez,347-407-1833,OSDE,210,Bayaspirina,Droga Genérica,12082,0.4,Banco Provincia,0,Sin Promo,41,Analgésicos,,false,7249
+163,7/4/2025,6214483661,Juana Flores,614-458-2602,Apross,Plan General,Alprazolam,Droga Genérica,19825,0.4,Nación,0.25,BNA+ Semana Nación,74,Otros,,false,8921
+164,9/20/2025,14624233442,Micaela Fernández,936-953-4027,OSECAC,PMO,Actron 600,Ibuprofeno,14945,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,38,Analgésicos,,false,8967
+165,2/23/2026,11619192214,Solange Díaz,235-151-1950,Omint,Plan General,Redoxon,Multivitamínico,16160,0.4,Débito,0,Sin Promo,51,Vitaminas,,false,9696
+166,3/10/2026,3544859799,Bautista Ortiz,425-715-5666,SIRELYF,Plan General,Graneodín,Droga Genérica,12112,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,80,Otros,,false,7267
+167,10/14/2025,12379869063,Rodrigo García,219-322-4481,Omint,Plan General,Mylanta,Droga Genérica,12730,0.4,Nación,0.25,BNA+ Semana Nación,19,Gastrointestinal,,false,5729
+168,2/4/2026,10330239480,Facundo Gutiérrez,813-956-5474,DASPU,Plan General,Diclofenac Casasco,Droga Genérica,19643,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,99,Otros,,false,11786
+169,11/8/2025,12356464841,Lucía Sánchez,401-853-8139,PAMI,PMO,Mylanta,Droga Genérica,18255,0.9,Banco Provincia,0,Sin Promo,48,Gastrointestinal,,false,1825
+170,6/28/2025,14279493989,Daniela Flores,544-290-5252,Apross,Plan 360,Redoxon,Multivitamínico,15211,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,45,Vitaminas,,false,9127
+171,6/24/2025,10097513365,Diego Sánchez,319-355-9818,Particular,Plan General,Alikal,Droga Genérica,10157,0,Macro,0.1,Macro - Beneficio Select,55,Otros,,false,9141
+172,3/18/2026,7806103799,Matías Ramos,366-307-4197,OSITAC,Plan General,Ibuevanol,Ibuprofeno,13026,0.4,Banco Provincia,0,Sin Promo,2,Analgésicos,,false,7816
+173,5/29/2025,11700773871,Marcela Quiroga,497-583-8932,PAMI,PMO,Ibuevanol,Ibuprofeno,13007,0.9,Santander,0.2,Santander - Especial Farmacias,61,Analgésicos,,false,1041
+174,4/6/2026,12934289026,Ariel Benítez,296-961-4176,Swiss Medical,SMG70,Sertal Compuesto,Droga Genérica,11877,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,77,Gastrointestinal,,false,7126
+175,1/17/2026,13148798580,Daniela Fernández,315-627-3237,Swiss Medical,SMG40,Taural,Droga Genérica,10463,0.4,Nación,0.25,BNA+ Semana Nación,72,Gastrointestinal,,false,4708
+176,6/14/2025,13720500398,Daniela Giménez,655-187-2049,Ensalud,Plan General,Buscapina,Droga Genérica,12866,0.4,Banco Provincia,0,Sin Promo,100,Gastrointestinal,,false,7720
+177,4/25/2025,15368449765,Graciela Sánchez,732-894-0102,Nobis,Plan General,Alikal,Droga Genérica,15823,0.4,Débito,0,Sin Promo,94,Otros,,false,9494
+178,11/21/2025,4199528116,Jorgelina Álvarez,149-276-9402,CPCE Córdoba,Plan General,Bagóhepato,Droga Genérica,17038,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,30,Gastrointestinal,,false,10223
+179,12/27/2025,12569233826,Juana Rodríguez,797-610-9761,OSFE,Plan General,Redoxon,Multivitamínico,11563,0.4,Galicia,0.15,Galicia - Promo MODO,83,Vitaminas,,false,5897
+180,2/25/2026,3702055676,Roberto Pérez,670-609-2234,Integral Salud,Plan General,Tafirol,Paracetamol,10038,0.4,Santander,0.2,Santander - Especial Farmacias,49,Analgésicos,,false,4818
+181,8/26/2025,6823992755,Jorgelina Benítez,379-676-9509,Apross,Plan 360,Vastarel,Droga Genérica,11222,0.4,Banco Provincia,0,Sin Promo,3,Cardiología,,true,6733
+182,4/6/2026,353492243,Sergio Pereyra,680-820-0867,Medicus,Plan General,Atenolol,Droga Genérica,26400,0.4,Banco Provincia,0,Sin Promo,23,Cardiología,,true,15840
+183,1/6/2026,10864835568,María Belén Giménez,727-630-2951,SIRELYF,Plan General,Amoxidal,Amoxicilina,25577,0.4,Macro,0.1,Macro - Beneficio Select,49,Antibióticos,,true,13812
+184,6/5/2025,11571173262,Santiago Ortiz,845-331-4154,OSDE,310,Reliverán,Metoclopramida,10377,0.4,Santander,0.2,Santander - Especial Farmacias,84,Otros,,false,4981
+185,10/8/2025,8106970301,Florencia Castro,633-345-5094,Apross,Plan General,Mylanta,Droga Genérica,18784,0.4,Macro,0.1,Macro - Beneficio Select,5,Gastrointestinal,,false,10143
+186,3/22/2026,11961446415,Romina Acosta,417-990-5362,OSAM,Plan General,Losartán,Droga Genérica,17208,0.4,Galicia,0.15,Galicia - Promo MODO,67,Otros,,false,8776
+187,4/5/2026,7043359303,Camila Sosa,183-265-0020,PAMI,PMO,Centrum,Multivitamínico,41138,0.9,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,24,Vitaminas,,false,4114
+188,6/27/2025,5860252468,Gustavo Sosa,358-505-3802,OSDEPYM,310,Lotrial,Enalapril,17168,0.4,Efectivo,0,Sin Promo,26,Cardiología,,true,10301
+189,1/8/2026,8064312836,Ricardo Sánchez,559-615-2598,Omint,Plan General,Vastarel,Droga Genérica,16500,0.4,Nación,0.25,BNA+ Semana Nación,48,Cardiología,,true,7425
+190,3/11/2026,11988405229,Horacio Rojas,879-520-4175,DASUTEN (UTN),Plan General,Ibuevanol,Ibuprofeno,11402,0.4,Banco Provincia,0,Sin Promo,14,Analgésicos,,false,6841
+191,12/23/2025,12643202985,Joaquín Acosta,136-877-4169,PAMI,PMO,Diclofenac Casasco,Droga Genérica,18859,0.9,Macro,0.1,Macro - Beneficio Select,84,Otros,,false,1697
+192,10/1/2025,3850466134,Oscar Pérez,613-288-1274,OSECAC,PMO,Losartán,Droga Genérica,12485,0.4,Galicia,0.15,Galicia - Promo MODO,4,Otros,,false,6367
+193,1/30/2026,11956632657,Lucía Rodríguez,912-441-9693,OSFE,Plan General,Bagó+ Vital,Multivitamínico,44457,0.4,Galicia,0.15,Galicia - Promo MODO,35,Otros,,false,22673
+194,10/13/2025,9830116863,Daniela Sánchez,920-531-2248,PAMI,PMO,Bagóhepato,Droga Genérica,15743,0.9,"",0,Sin Promo,21,Gastrointestinal,,false,1574
+195,4/21/2026,11489419583,Marcela Rojas,876-363-5823,Swiss Medical,SMG40,Rosuvastatina Bagó,Droga Genérica,15887,0.4,Nación,0.25,BNA+ Semana Nación,17,Otros,,false,7149
+196,8/21/2025,477217877,Sofía Torres,188-917-7423,OSPOCE,Plan General,Amoxidal,Amoxicilina,29844,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,44,Antibióticos,,true,17906
+197,6/19/2025,7400045918,Nahuel Ramos,903-937-6201,Sipssa,P4MIL,Tafirol,Paracetamol,14358,0.4,Nación,0.25,BNA+ Semana Nación,76,Analgésicos,,false,6461
+198,9/3/2025,11684394496,Sergio López,656-945-1668,Nobis,Plan General,Actron 600,Ibuprofeno,11578,0.4,Macro,0.1,Macro - Beneficio Select,50,Analgésicos,,false,6252
+199,2/14/2026,4887942159,Martina Ortiz,714-237-0113,Swiss Medical,SMG70,Ibuevanol,Ibuprofeno,12977,0.4,Galicia,0.15,Galicia - Promo MODO,69,Analgésicos,,false,6618
+200,5/7/2025,15281022908,Agustina González,396-651-9965,DASUTEN (UTN),Plan General,Tafirol,Paracetamol,10919,0.4,"",0,Sin Promo,52,Analgésicos,,false,6551
+201,7/25/2025,14786330785,Bautista Rodríguez,384-944-2576,GEA,Plan General,Redoxon,Multivitamínico,16822,0.4,Santander,0.2,Santander - Especial Farmacias,53,Vitaminas,,false,8075
+202,1/5/2026,2764871605,José Luis Ruiz,117-787-5710,Swiss Medical,SMG70,Enalapril Gador,Enalapril,29187,0.4,Nación,0.25,BNA+ Semana Nación,6,Cardiología,,true,13134
+203,9/29/2025,13160731374,Silvina Quiroga,580-645-3309,Apross,Plan General,"",Droga Genérica,14335,0.4,Débito,0,Sin Promo,50,Otros,,false,8601
+204,5/23/2025,4078509714,Juan Carlos Pérez,918-379-2281,DASPU,Plan General,Sertal Compuesto,Droga Genérica,12812,0.4,Nación,0.25,BNA+ Semana Nación,28,Gastrointestinal,,false,5765
+205,8/3/2025,2614863897,Nahuel Ruiz,617-527-7200,Apross,Plan General,Alprazolam,Droga Genérica,16674,0.4,"",0,Sin Promo,26,Otros,,false,10004
+206,6/30/2025,12095843482,Ricardo Rodríguez,853-882-6814,OSDOP,Plan General,Alprazolam,Droga Genérica,19073,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,28,Otros,,false,11444
+207,8/11/2025,4362895973,Martina García,179-367-1544,Parque Salud,Plan General,Actron 600,Ibuprofeno,9751,0.4,Efectivo,0,Sin Promo,7,Analgésicos,,false,5851
+208,7/3/2025,15138343797,José Luis González,148-580-4243,Nobis Salud,Plan General,Meiact,Droga Genérica,34402,0.4,Banco Provincia,0,Sin Promo,72,Otros,,false,20641
+209,1/13/2026,9334975033,Joaquín Ortiz,743-697-6715,DASUTEN (UTN),Plan General,Reliverán,Metoclopramida,10963,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,66,Otros,,false,6578
+210,8/27/2025,9358940523,Carina Medina,238-170-8266,OBSBA,Plan General,Sertal Compuesto,Droga Genérica,13353,0.4,Galicia,0.15,Galicia - Promo MODO,24,Gastrointestinal,,false,6810
+211,12/26/2025,12372722677,Mirta Pérez,459-434-5999,PAMI,PMO,Centrum,Multivitamínico,50569,0.9,Débito,0,Sin Promo,54,Vitaminas,,false,5057
+212,2/10/2026,15428575014,Martina Martínez,364-177-1803,Swiss Medical,SMG70,Ibupirac,Ibuprofeno,9916,0.4,Banco Provincia,0,Sin Promo,13,Analgésicos,,false,5950
+213,4/21/2026,3040751518,Natalia Giménez,988-205-4451,Caja Notarial de Córdoba,Plan General,Alprazolam,Droga Genérica,18378,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,83,Otros,,false,11027
+214,7/5/2025,7292581575,Estela Ramos,291-977-7584,OSPJN,Plan General,Redoxon,Multivitamínico,18185,0.4,Nación,0.25,BNA+ Semana Nación,2,Vitaminas,,false,8183
+215,6/28/2025,9728725810,Ricardo Benítez,406-773-5327,OSDE,510,Vastarel,Droga Genérica,11168,0.4,Santander,0.2,Santander - Especial Farmacias,28,Cardiología,,true,5361
+216,11/19/2025,14406682396,Alejandro Sosa,311-455-6703,Jerárquicos Salud,Plan General,Taural,Droga Genérica,11122,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,39,Gastrointestinal,,false,6673
+217,2/13/2026,9677449366,Sofía López,453-356-0024,IOMA,PMO,Meiact,Droga Genérica,30374,0.4,Galicia,0.15,Galicia - Promo MODO,62,Otros,,false,15491
+218,12/13/2025,5938783379,Matías González,307-987-7970,Prevención Salud,Plan General,Ibuevanol,Ibuprofeno,12439,0.4,Santander,0.2,Santander - Especial Farmacias,74,Analgésicos,,false,5971
+219,11/2/2025,8979549414,Leandro Benítez,446-447-1387,OSDOP,Plan General,Meiact,Droga Genérica,33244,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,35,Otros,,false,19946
+220,5/10/2025,14033890380,Romina Herrera,326-280-7786,Jerárquicos Salud,Plan General,Ibupirac,Ibuprofeno,8852,0.4,Macro,0.1,Macro - Beneficio Select,66,Analgésicos,,false,4780
+221,2/9/2026,5757421788,Romina Rojas,703-265-4288,Apross,Plan 360,Optamox,Amoxicilina,36749,0.4,Débito,0,Sin Promo,63,Antibióticos,,true,22049
+222,6/17/2025,6092183602,Daniela Torres,691-381-6340,OSPE,Plan General,Amoxidal,Amoxicilina,28376,0.4,"",0,Sin Promo,90,Antibióticos,,true,17026
+223,2/18/2026,4059811131,Graciela Giménez,443-247-8906,IOMA,PMO,Ibupirac,Ibuprofeno,12639,0.4,Santander,0.2,Santander - Especial Farmacias,5,Analgésicos,,false,6067
+224,7/20/2025,6395341035,Jorgelina Ramos,942-690-1671,Ensalud,Plan General,Losartán,Droga Genérica,17924,0.4,Débito,0,Sin Promo,23,Otros,,false,10754
+225,10/23/2025,14646038492,Juana Rojas,932-429-4666,Swiss Medical,SMG40,Rosuvastatina Bagó,Droga Genérica,20637,0.4,"",0,Sin Promo,15,Otros,,false,12382
+226,5/3/2025,1897884736,Lourdes Quiroga,932-238-6158,Unión Personal,Plan General,Kitadol,Paracetamol,18230,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,6,Otros,,false,10938
+227,2/8/2026,5249739876,Jorge Gómez,778-466-5439,OSSURRBAC,Plan General,Reliverán,Metoclopramida,13516,0.4,Macro,0.1,Macro - Beneficio Select,60,Otros,,false,7299
+228,6/1/2025,2676756778,Nahuel Acosta,647-502-6868,Unión Personal,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,15141,0.4,Banco Provincia,0,Sin Promo,80,Otros,,false,9085
+229,1/10/2026,13241720719,Emiliano Benítez,548-958-8581,PAMI,PMO,Ponstan,Droga Genérica,14567,0.9,Efectivo,0,Sin Promo,18,Otros,,false,1457
+230,12/23/2025,660608490,Silvina Benítez,703-238-6876,OSAM,Plan General,Enalapril Gador,Enalapril,17483,0.4,Galicia,0.15,Galicia - Promo MODO,75,Cardiología,,true,8916
+231,7/16/2025,7862538252,Marcela Quiroga,461-243-5742,Swiss Medical,SMG70,Enalapril Gador,Enalapril,28474,0.4,Efectivo,0,Sin Promo,57,Cardiología,,true,17084
+232,3/4/2026,9171186523,Marcelo Fernández,517-497-3885,DASUTEN (UTN),Plan General,Atenolol,Droga Genérica,18163,0.4,"",0,Sin Promo,82,Cardiología,,true,10898
+233,4/28/2025,2166013365,Paola Sosa,187-143-8574,Swiss Medical,SMG70,Ibuevanol,Ibuprofeno,8106,0.4,Galicia,0.15,Galicia - Promo MODO,17,Analgésicos,,false,4134
+234,6/28/2025,11323074572,María Belén Romero,830-379-9072,Hospital Privado,Plan General,Ciriax,Droga Genérica,14527,0.4,Banco Provincia,0,Sin Promo,79,Otros,,false,8716
+235,11/5/2025,8779534812,Jorge Sánchez,111-461-7398,Mutual Médica Concordia,Plan General,Meiact,Droga Genérica,40535,0.4,Nación,0.25,BNA+ Semana Nación,96,Otros,,false,18241
+236,11/25/2025,5080905618,Victoria Pereyra,128-677-1966,Medifé,Plan General,Bagóhepato,Droga Genérica,19925,0.4,Nación,0.25,BNA+ Semana Nación,54,Gastrointestinal,,false,8966
+237,10/15/2025,9728458524,Joaquín Romero,672-907-2327,Medicus,Plan General,Losartán,Droga Genérica,10873,0.4,Galicia,0.15,Galicia - Promo MODO,77,Otros,,false,5545
+238,7/8/2025,7890438004,Lourdes Torres,481-583-0495,OSSURRBAC,Plan General,Mylanta,Droga Genérica,11033,0.4,Nación,0.25,BNA+ Semana Nación,7,Gastrointestinal,,false,4965
+239,12/17/2025,9651727842,Natalia Pereyra,596-674-8742,OSDOP,Plan General,Diclofenac Casasco,Droga Genérica,13806,0.4,"",0,Sin Promo,36,Otros,,false,8284
+240,5/31/2025,9352523852,Giuliana Castro,259-723-8433,PAMI,PMO,Ibuevanol,Ibuprofeno,13287,0.9,Efectivo,0,Sin Promo,22,Analgésicos,,false,1329
+241,8/9/2025,10189098214,Agustina Torres,203-837-6057,Hospital Privado,Plan General,Berocca,Droga Genérica,37352,0.4,Macro,0.1,Macro - Beneficio Select,8,Vitaminas,,false,20170
+242,11/27/2025,2390650678,Nahuel Aguirre,648-506-9153,OSPRERA,PMO,Taural,Droga Genérica,12460,0.4,Débito,0,Sin Promo,71,Gastrointestinal,,false,7476
+243,10/7/2025,9185616733,Sergio Ruiz,452-166-5896,OSPECOR,Plan General,Mylanta,Droga Genérica,10562,0.4,Efectivo,0,Sin Promo,15,Gastrointestinal,,false,6337
+244,9/27/2025,10434386210,Paola Sosa,716-601-5232,Swiss Medical,SMG20,Alprazolam,Droga Genérica,14223,0.4,Galicia,0.15,Galicia - Promo MODO,18,Otros,,false,7254
+245,8/16/2025,9405197565,Giuliana Benítez,635-335-7127,OSECAC,PMO,Alikal,Droga Genérica,14624,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,14,Otros,,false,8774
+246,11/16/2025,12537946102,Sergio Fernández,392-766-4563,Galeno,Oro 400,Graneodín,Droga Genérica,13693,0.4,Nación,0.25,BNA+ Semana Nación,28,Otros,,false,6162
+247,7/31/2025,9525726043,Graciela Álvarez,864-694-7081,OSAM,Plan General,Tafirol,Paracetamol,8539,0.4,Macro,0.1,Macro - Beneficio Select,73,Analgésicos,,false,4611
+248,12/6/2025,2314527679,Romina Pérez,239-571-4771,Apross,Plan 360,Ibuevanol,Ibuprofeno,12430,0.4,Nación,0.25,BNA+ Semana Nación,76,Analgésicos,,false,5594
+249,8/18/2025,2255745649,Agustina Sosa,974-132-1715,Nobis Salud,Plan General,Taural,Droga Genérica,17047,0.4,Efectivo,0,Sin Promo,76,Gastrointestinal,,false,10228
+250,4/12/2026,1022405330,Silvina Romero,617-250-4791,OSPOCE,Plan General,Ibuevanol,Ibuprofeno,14201,0.4,Nación,0.25,BNA+ Semana Nación,56,Analgésicos,,false,6390
+251,7/6/2025,5429343512,Oscar Pereyra,893-892-7144,OSPE,Plan General,Vastarel,Droga Genérica,13838,0.4,Santander,0.2,Santander - Especial Farmacias,44,Cardiología,,true,6642
+252,6/4/2025,6987254500,Sergio Acosta,347-890-9141,Caja de Abogados de Córdoba,Plan General,Buscapina,Droga Genérica,12873,0.4,Galicia,0.15,Galicia - Promo MODO,67,Gastrointestinal,,false,6565
+253,10/11/2025,12800668715,Juan Carlos Ortiz,782-514-2209,Mutual Médica Concordia,Plan General,Rosuvastatina Bagó,Droga Genérica,24714,0.4,Macro,0.1,Macro - Beneficio Select,54,Otros,,false,13346
+254,11/10/2025,6950258561,Carina Pereyra,510-950-6720,Nobis,Plan General,Vastarel,Droga Genérica,14667,0.4,Efectivo,0,Sin Promo,24,Cardiología,,true,8800
+255,4/7/2026,1679450027,Florencia Flores,527-187-1956,OSDE,210,Gadovist,Gadobutrol,28415,0.4,"",0,Sin Promo,74,Otros,,false,17049
+256,9/16/2025,13246160966,Roxana Gómez,458-124-7095,OSMATA,PMO,Enalapril Gador,Enalapril,21873,0.4,Banco Provincia,0,Sin Promo,76,Cardiología,,true,13124
+257,5/5/2025,6319082481,Martina Quiroga,795-185-5201,Particular,Plan General,Amoxidal,Amoxicilina,42115,0,"",0,Sin Promo,7,Antibióticos,,true,42115
+258,9/25/2025,6103960882,,596-431-0744,OSECAC,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,16688,0.4,Nación,0.25,BNA+ Semana Nación,7,Otros,,false,7510
+259,11/14/2025,2261347928,Carina Sosa,246-100-1739,SanCor Salud,1000,Diclofenac Casasco,Droga Genérica,15269,0.4,Nación,0.25,BNA+ Semana Nación,74,Otros,,false,6871
+260,8/11/2025,6900848653,Lucas Martínez,213-906-8923,Prevención Salud,Plan General,Buscapina,Droga Genérica,9625,0.4,Nación,0.25,BNA+ Semana Nación,16,Gastrointestinal,,false,4331
+261,10/16/2025,1683693875,Carina Fernández,456-619-1324,OSDE,310,Ibupirac,Ibuprofeno,10571,0.4,Santander,0.2,Santander - Especial Farmacias,94,Analgésicos,,false,5074
+262,5/17/2025,9000548707,Giuliana Ruiz,825-416-9515,OSSURRBAC,Plan General,Atenolol,Droga Genérica,18421,0.4,Nación,0.25,BNA+ Semana Nación,67,Cardiología,,true,8289
+263,1/22/2026,4100452062,Bautista Romero,553-283-2142,OBSBA,Plan General,Sertal Compuesto,Droga Genérica,10826,0.4,Nación,0.25,BNA+ Semana Nación,52,Gastrointestinal,,false,4872
+264,10/26/2025,11608574798,Yanina Rodríguez,218-130-7574,Boreal,Plan General,Gadovist,Gadobutrol,18863,0.4,Nación,0.25,BNA+ Semana Nación,41,Otros,,false,8488
+265,1/23/2026,8395202107,Fabián Gutiérrez,219-161-3325,Apross,Plan 360,Ibuevanol,Ibuprofeno,12133,0.4,Efectivo,0,Sin Promo,74,Analgésicos,,false,7280
+266,7/17/2025,23818888,Jorge Ramírez,321-727-4469,Particular,Plan General,Enalapril Gador,Enalapril,23580,0,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,42,Cardiología,,true,23580
+267,10/1/2025,12003290898,Yanina Álvarez,232-926-8176,Medifé,Plan General,Graneodín,Droga Genérica,14399,0.4,Efectivo,0,Sin Promo,65,Otros,,false,8639
+268,12/11/2025,8037644799,Agustina Sosa,333-709-3545,Nobis,Plan General,Bayaspirina,Droga Genérica,18168,0.4,Nación,0.25,BNA+ Semana Nación,65,Analgésicos,,false,8176
+269,8/24/2025,12882987491,Micaela Sosa,886-595-5772,OSDE,410,Rosuvastatina Bagó,Droga Genérica,17801,0.4,Efectivo,0,Sin Promo,90,Otros,,false,10681
+270,3/3/2026,726367395,Rodrigo Rojas,870-173-2157,Apross,Plan 360,Tafirol,Paracetamol,13234,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,36,Analgésicos,,false,7940
+271,2/6/2026,2810003809,,536-248-2506,Medicus,Plan General,Berocca,Droga Genérica,37470,0.4,Débito,0,Sin Promo,96,Vitaminas,,false,22482
+272,2/24/2026,2833623775,Lucas Álvarez,393-411-8836,SanCor Salud,4000,Actron 600,Ibuprofeno,9144,0.4,Efectivo,0,Sin Promo,52,Analgésicos,,false,5486
+273,7/7/2025,785896909,Sofía Pereyra,358-568-8093,PAMI,PMO,Optamox,Amoxicilina,40496,0.9,Banco Provincia,0,Sin Promo,43,Antibióticos,,true,4050
+274,4/7/2026,1347986105,Paola Medina,895-529-0069,OSECAC,PMO,Kitadol,Paracetamol,12905,0.4,Macro,0.1,Macro - Beneficio Select,100,Otros,,false,6969
+275,1/24/2026,4336983999,Marcelo Álvarez,576-194-9249,CPCE Córdoba,Plan General,Meiact,Droga Genérica,32191,0.4,"",0,Sin Promo,74,Otros,,false,19315
+276,3/3/2026,13065352118,Nicolás Ortiz,802-529-3718,Galeno,Plata 300,Ciriax,Droga Genérica,11769,0.4,Macro,0.1,Macro - Beneficio Select,17,Otros,,false,6355
+277,9/10/2025,11756252374,Federico Castro,583-818-5396,OSECAC,PMO,Graneodín,Droga Genérica,13509,0.4,Banco Provincia,0,Sin Promo,84,Otros,,false,8105
+278,4/17/2026,338796713,Diego Benítez,725-833-2065,OSITAC,Plan General,Ibuevanol,Ibuprofeno,14317,0.4,Banco Provincia,0,Sin Promo,83,Analgésicos,,false,8590
+279,4/25/2025,1236050851,Maximiliano Torres,361-242-9679,OSPLYFC,Plan General,Vastarel,Droga Genérica,12101,0.4,Santander,0.2,Santander - Especial Farmacias,93,Cardiología,,true,5808
+280,11/22/2025,8748448858,Gustavo Sánchez,946-294-4185,DASPU,Plan General,Amoxidal,Amoxicilina,26710,0.4,Macro,0.1,Macro - Beneficio Select,42,Antibióticos,,true,14423
+281,3/15/2026,5100045255,Estela Medina,247-171-2414,Apross,Plan General,Meiact,Droga Genérica,39597,0.4,"",0,Sin Promo,61,Otros,,false,23758
+282,6/11/2025,10129941035,Valentina García,749-460-0457,UOCRA,PMO,Ibupirac,Ibuprofeno,13211,0.4,Nación,0.25,BNA+ Semana Nación,65,Analgésicos,,false,5945
+283,6/25/2025,5590807015,Federico Medina,824-821-2113,OSDE,510,Diclofenac Casasco,Droga Genérica,13560,0.4,Santander,0.2,Santander - Especial Farmacias,11,Otros,,false,6509
+284,11/30/2025,11839919503,Silvina Ramos,493-543-5669,OSPJN,Plan General,Optamox,Amoxicilina,30421,0.4,Débito,0,Sin Promo,45,Antibióticos,,true,18253
+285,5/8/2025,7530939319,Victoria Pereyra,305-384-7220,Apross,Plan General,Kitadol,Paracetamol,11594,0.4,Efectivo,0,Sin Promo,52,Otros,,false,6956
+286,6/23/2025,113127493,Diego García,513-326-5864,Swiss Medical,SMG70,Bayaspirina,Droga Genérica,12640,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,79,Analgésicos,,false,7584
+287,9/22/2025,5012246916,Emiliano Sánchez,297-488-6975,Medicus,Plan General,Amoxidal,Amoxicilina,29543,0.4,Débito,0,Sin Promo,88,Antibióticos,,true,17726
+288,1/17/2026,2031764581,Nicolás López,260-755-8916,OSCHOCA,Plan General,Rosuvastatina Bagó,Droga Genérica,19626,0.4,Banco Provincia,0,Sin Promo,48,Otros,,false,11776
+289,5/27/2025,10622340154,Natalia Aguirre,355-144-0686,Boreal,Plan General,Berocca,Droga Genérica,53563,0.4,Galicia,0.15,Galicia - Promo MODO,34,Vitaminas,,false,27317
+290,11/7/2025,3355532877,Facundo Sánchez,930-931-8208,Nobis Salud,Plan General,Bagó+ Vital,Multivitamínico,41817,0.4,Macro,0.1,Macro - Beneficio Select,82,Otros,,false,22581
+291,4/30/2025,1855118315,Oscar Giménez,554-598-1089,Prevención Salud,Plan General,Alikal,Droga Genérica,17792,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,58,Otros,,false,10675
+292,1/29/2026,11681180441,Santiago Torres,782-519-9908,Sipssa,P2MIL,Actron 600,Ibuprofeno,12307,0.4,Efectivo,0,Sin Promo,55,Analgésicos,,false,7384
+293,9/2/2025,8894909263,Sergio Rodríguez,656-989-4443,Federada Salud,Plan General,Meiact,Droga Genérica,41005,0.4,"",0,Sin Promo,36,Otros,,false,24603
+294,3/5/2026,1991402580,Martina Sosa,790-621-5943,Hospital Privado,Plan General,Actron 600,Ibuprofeno,12274,0.4,Galicia,0.15,Galicia - Promo MODO,12,Analgésicos,,false,6260
+295,9/9/2025,6027515827,María Belén Quiroga,313-904-9496,OSPLYFC,Plan General,Gadovist,Gadobutrol,17365,0.4,Efectivo,0,Sin Promo,15,Otros,,false,10419
+296,7/21/2025,14154789844,Antonella Sosa,217-944-1749,Mutual Médica Concordia,Plan General,Ibuevanol,Ibuprofeno,9240,0.4,Banco Provincia,0,Sin Promo,7,Analgésicos,,false,5544
+297,4/19/2026,5419928407,Camila García,474-162-5480,OSECAC,PMO,Optamox,Amoxicilina,25525,0.4,"",0,Sin Promo,24,Antibióticos,,true,15315
+298,11/5/2025,1658630720,Leandro Ruiz,370-247-1752,Omint,Plan General,Ibupirac,Ibuprofeno,11724,0.4,Santander,0.2,Santander - Especial Farmacias,100,Analgésicos,,false,5628
+299,11/17/2025,1844022313,Gustavo Ortiz,624-777-0145,OSDE,510,Lotrial,Enalapril,17406,0.4,Débito,0,Sin Promo,99,Cardiología,,true,10444
+300,4/27/2025,8444717886,Martina Gómez,910-783-9572,Swiss Medical,SMG70,Vastarel,Droga Genérica,13788,0.4,Nación,0.25,BNA+ Semana Nación,45,Cardiología,,true,6205
+301,5/6/2025,5272036433,Antonella Sánchez,230-542-9589,OSPOCE,Plan General,Kitadol,Paracetamol,14488,0.4,Nación,0.25,BNA+ Semana Nación,34,Otros,,false,6520
+302,10/7/2025,9667212115,Diego Herrera,185-456-7768,Swiss Medical,SMG70,Vastarel,Droga Genérica,12037,0.4,Galicia,0.15,Galicia - Promo MODO,66,Cardiología,,true,6139
+303,7/16/2025,10020311847,Antonella Flores,985-321-5274,Particular,Plan General,Sertal Compuesto,Droga Genérica,15996,0,Banco Provincia,0,Sin Promo,15,Gastrointestinal,,false,15996
+304,7/7/2025,3870176019,Milagros Romero,686-972-1691,DASUTEN (UTN),Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,16706,0.4,Macro,0.1,Macro - Beneficio Select,38,Otros,,false,9021
+305,9/26/2025,3005550017,Silvina Aguirre,357-238-1454,OSDEPYM,410,Bayaspirina,Droga Genérica,11839,0.4,Nación,0.25,BNA+ Semana Nación,76,Analgésicos,,false,5328
+306,9/5/2025,8200114540,Rodrigo Ramírez,197-423-9063,GEA,Plan General,Alprazolam,Droga Genérica,12398,0.4,Débito,0,Sin Promo,48,Otros,,false,7439
+307,12/31/2025,6816969444,Valentina Torres,107-745-6662,Caja Notarial de Córdoba,Plan General,Ibuevanol,Ibuprofeno,12194,0.4,Macro,0.1,Macro - Beneficio Select,40,Analgésicos,,false,6585
+308,6/9/2025,4820430863,Rodrigo Fernández,704-374-5792,Particular,Plan General,Buscapina,Droga Genérica,13823,0,Santander,0.2,Santander - Especial Farmacias,91,Gastrointestinal,,false,11058
+309,7/20/2025,7471458037,Julián Gómez,948-564-2128,OSDE,210,Losartán,Droga Genérica,16198,0.4,Banco Provincia,0,Sin Promo,66,Otros,,false,9719
+310,9/5/2025,8201424875,Camila Pereyra,526-704-0474,Caja Notarial de Córdoba,Plan General,Gadovist,Gadobutrol,22782,0.4,Macro,0.1,Macro - Beneficio Select,42,Otros,,false,12302
+311,9/20/2025,8039374871,Jorge Pereyra,460-526-8414,Unión Personal,Plan General,Sertal Compuesto,Droga Genérica,15066,0.4,Macro,0.1,Macro - Beneficio Select,52,Gastrointestinal,,false,8136
+312,5/7/2025,174807596,Alejandro Gutiérrez,313-889-4902,PAMI,PMO,Centrum,Multivitamínico,45948,0.9,Banco Provincia,0,Sin Promo,56,Vitaminas,,false,4595
+313,7/12/2025,3410201573,Leandro Quiroga,374-386-3479,OSPJN,Plan General,Alikal,Droga Genérica,19300,0.4,Macro,0.1,Macro - Beneficio Select,23,Otros,,false,10422
+314,11/21/2025,4376394611,Carina Rodríguez,904-948-0970,Omint,Plan General,Optamox,Amoxicilina,39317,0.4,Banco Provincia,0,Sin Promo,51,Antibióticos,,true,23590
+315,5/30/2025,10651408610,Alejandro González,966-298-0985,OBSBA,Plan General,Kitadol,Paracetamol,13588,0.4,Santander,0.2,Santander - Especial Farmacias,83,Otros,,false,6522
+316,1/30/2026,13537510674,Lourdes Rodríguez,197-422-0359,DASUTEN (UTN),Plan General,Graneodín,Droga Genérica,18144,0.4,Banco Provincia,0,Sin Promo,46,Otros,,false,10886
+317,2/28/2026,906015162,Daniela López,991-513-4620,Prevención Salud,Plan General,Tafirol,Paracetamol,13363,0.4,Macro,0.1,Macro - Beneficio Select,70,Analgésicos,,false,7216
+318,6/20/2025,6289917741,Leandro Flores,527-555-9190,PAMI,PMO,Optamox,Amoxicilina,27328,0.9,Macro,0.1,Macro - Beneficio Select,52,Antibióticos,,true,2460
+319,10/26/2025,14775278480,Solange Álvarez,934-704-0340,PAMI,PMO,Amoxidal,Amoxicilina,33529,0.9,Santander,0.2,Santander - Especial Farmacias,4,Antibióticos,,true,2682
+320,11/12/2025,13163697729,Gustavo Gómez,256-158-5665,PAMI,PMO,Ponstan,Droga Genérica,14278,0.9,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,24,Otros,,false,1428
+321,3/23/2026,2189594718,Florencia Torres,357-781-6974,Obras Sociales,Plan General,Ponstan,Droga Genérica,12267,0.4,Galicia,0.15,Galicia - Promo MODO,57,Otros,,false,6256
+322,2/4/2026,6140257356,Solange Ruiz,548-606-1928,OSDOP,Plan General,Reliverán,Metoclopramida,16880,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,51,Otros,,false,10128
+323,6/25/2025,11810193226,Martina Díaz,145-273-9981,Swiss Medical,SMG40,Alikal,Droga Genérica,10166,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,61,Otros,,false,6100
+324,12/12/2025,10539765935,Santiago Díaz,306-357-4388,OSPLYFC,Plan General,Mylanta,Droga Genérica,11883,0.4,Galicia,0.15,Galicia - Promo MODO,33,Gastrointestinal,,false,6060
+325,7/12/2025,15082094295,,916-681-3190,DASPU,Plan General,Optamox,Amoxicilina,31469,0.4,Efectivo,0,Sin Promo,75,Antibióticos,,true,18881
+326,3/17/2026,1422137873,María Belén Sosa,143-488-4971,OSDOP,Plan General,Actron 600,Ibuprofeno,10436,0.4,Nación,0.25,BNA+ Semana Nación,94,Analgésicos,,false,4696
+327,12/25/2025,1923506597,Horacio Flores,705-450-8610,Nobis,Plan General,Alprazolam,Droga Genérica,13979,0.4,"",0,Sin Promo,12,Otros,,false,8387
+328,9/20/2025,12627109267,Sofía Torres,192-217-7587,Medifé,Plan General,Ponstan,Droga Genérica,19419,0.4,Macro,0.1,Macro - Beneficio Select,18,Otros,,false,10486
+329,2/11/2026,7204632705,Lucía Díaz,805-827-1601,Swiss Medical,SMG40,Clonazepam (Venta Bajo Receta),Droga Genérica,16669,0.4,Santander,0.2,Santander - Especial Farmacias,99,Otros,,false,8001
+330,2/15/2026,14455504716,Victoria Gutiérrez,616-699-1404,OSDE,410,Ciriax,Droga Genérica,17285,0.4,Macro,0.1,Macro - Beneficio Select,83,Otros,,false,9334
+331,1/17/2026,6872522129,Agustina Ramos,769-603-3131,Bramed,Plan General,Atenolol,Droga Genérica,29031,0.4,Macro,0.1,Macro - Beneficio Select,86,Cardiología,,true,15677
+332,2/10/2026,2736280411,José Luis Torres,278-400-3832,OSECAC,PMO,Kitadol,Paracetamol,19419,0.4,Nación,0.25,BNA+ Semana Nación,69,Otros,,false,8739
+333,5/2/2025,5663383478,Emiliano González,664-558-9574,Nobis,Plan General,"",Droga Genérica,17454,0.4,Nación,0.25,BNA+ Semana Nación,1,Otros,,false,7854
+334,10/28/2025,8764982529,José Luis Quiroga,496-198-4851,IOMA,PMO,Sertal Compuesto,Droga Genérica,15048,0.4,Banco Provincia,0,Sin Promo,99,Gastrointestinal,,false,9029
+335,9/3/2025,9203681753,Juan Carlos Torres,971-369-9793,Swiss Medical,SMG40,Bayaspirina,Droga Genérica,12150,0.4,Galicia,0.15,Galicia - Promo MODO,68,Analgésicos,,false,6197
+336,5/20/2025,7381810537,Lucía Gómez,932-241-4174,Nobis Salud,Plan General,Ponstan,Droga Genérica,17668,0.4,Macro,0.1,Macro - Beneficio Select,91,Otros,,false,9541
+337,5/25/2025,7659386173,Solange Martínez,696-451-9521,OSDE,210,Bagó+ Vital,Multivitamínico,52593,0.4,Santander,0.2,Santander - Especial Farmacias,3,Otros,,false,25245
+338,9/9/2025,15598418134,Maximiliano Giménez,251-847-1698,OSIT,Plan General,Reliverán,Metoclopramida,9122,0.4,"",0,Sin Promo,11,Otros,,false,5473
+339,6/7/2025,7101167978,Natalia Pérez,352-118-2911,OSECAC,PMO,"",Droga Genérica,19411,0.4,Banco Provincia,0,Sin Promo,100,Otros,,false,11647
+340,2/21/2026,7828357261,Roberto Aguirre,510-670-2761,PAMI,PMO,Diclofenac Casasco,Droga Genérica,11221,0.9,Santander,0.2,Santander - Especial Farmacias,99,Otros,,false,898
+341,4/2/2026,2829016257,Emiliano Ruiz,252-888-0071,OSDE,310,Centrum,Multivitamínico,54671,0.4,Galicia,0.15,Galicia - Promo MODO,91,Vitaminas,,false,27882
+342,9/16/2025,1528661632,Federico González,362-706-8970,OSUTHGRA,Plan General,Optamox,Amoxicilina,38738,0.4,Galicia,0.15,Galicia - Promo MODO,17,Antibióticos,,true,19756
+343,1/11/2026,6869780907,Santiago Fernández,370-771-7839,OSECAC,PMO,Bagóhepato,Droga Genérica,12846,0.4,"",0,Sin Promo,34,Gastrointestinal,,false,7708
+344,11/9/2025,1277718939,Ricardo Flores,284-413-4666,Nobis,Plan General,Ciriax,Droga Genérica,19379,0.4,Nación,0.25,BNA+ Semana Nación,72,Otros,,false,8721
+345,9/19/2025,11969832727,Milagros Sánchez,731-614-3868,OSDE,310,Redoxon,Multivitamínico,10001,0.4,Santander,0.2,Santander - Especial Farmacias,35,Vitaminas,,false,4800
+346,9/4/2025,13174155960,Roberto Acosta,976-565-6587,DASPU,Plan General,Buscapina,Droga Genérica,13648,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,54,Gastrointestinal,,false,8189
+347,3/15/2026,9384226849,Juana Fernández,699-489-1778,IOSFA,Plan General,"",Droga Genérica,14526,0.4,Macro,0.1,Macro - Beneficio Select,32,Otros,,false,7844
+348,1/24/2026,1658976149,Lucas Ortiz,427-776-2308,Swiss Medical,SMG20,Diclofenac Casasco,Droga Genérica,12153,0.4,"",0,Sin Promo,51,Otros,,false,7292
+349,7/11/2025,10468966517,Graciela Martínez,725-168-3070,Nobis Salud,Plan General,Optamox,Amoxicilina,26689,0.4,Débito,0,Sin Promo,44,Antibióticos,,true,16013
+350,8/30/2025,9310501488,Marcelo Romero,512-152-8276,Bramed,Plan General,Sertal Compuesto,Droga Genérica,11399,0.4,Macro,0.1,Macro - Beneficio Select,21,Gastrointestinal,,false,6155
+351,12/30/2025,9965799014,Valentina Gómez,762-413-0912,OSECAC,PMO,Rosuvastatina Bagó,Droga Genérica,26597,0.4,"",0,Sin Promo,3,Otros,,false,15958
+352,10/12/2025,14178611188,Graciela Pérez,551-746-5203,OSCHOCA,Plan General,Bagóhepato,Droga Genérica,15983,0.4,Efectivo,0,Sin Promo,49,Gastrointestinal,,false,9590
+353,4/23/2025,15902463,Santiago Romero,219-720-6712,OSAM,Plan General,Taural,Droga Genérica,17987,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,42,Gastrointestinal,,false,10792
+354,6/27/2025,1424750340,Daniela Giménez,231-898-9877,OSECAC,PMO,Buscapina,Droga Genérica,9272,0.4,Efectivo,0,Sin Promo,17,Gastrointestinal,,false,5563
+355,9/12/2025,7817091149,Santiago Benítez,160-541-3674,OBSBA,Plan General,Gadovist,Gadobutrol,16324,0.4,Galicia,0.15,Galicia - Promo MODO,44,Otros,,false,8325
+356,11/14/2025,641138286,Lucas Gómez,948-299-1981,Apross,Plan General,Ciriax,Droga Genérica,15214,0.4,"",0,Sin Promo,90,Otros,,false,9128
+357,1/7/2026,12310248914,Milagros Álvarez,368-874-3698,Jerárquicos Salud,Plan General,Buscapina,Droga Genérica,15811,0.4,Débito,0,Sin Promo,43,Gastrointestinal,,false,9487
+358,9/9/2025,13692326942,Romina Rodríguez,571-344-1506,PAMI,PMO,Reliverán,Metoclopramida,17956,0.9,Débito,0,Sin Promo,72,Otros,,false,1796
+359,6/15/2025,9522143916,Bautista López,965-330-3929,OSDOP,Plan General,Reliverán,Metoclopramida,15313,0.4,Efectivo,0,Sin Promo,40,Otros,,false,9188
+360,7/16/2025,14960990180,,447-720-8765,OSDE,510,Bagó+ Vital,Multivitamínico,39772,0.4,Macro,0.1,Macro - Beneficio Select,71,Otros,,false,21477
+361,2/1/2026,1701605730,Mirta Herrera,704-389-8431,Apross,Plan General,Ibupirac,Ibuprofeno,13136,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,65,Analgésicos,,false,7882
+362,9/20/2025,1337698914,Claudio Ortiz,237-659-1919,Swiss Medical,SMG70,Redoxon,Multivitamínico,20000,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,38,Vitaminas,,false,12000
+363,8/13/2025,13543499581,Natalia Gómez,561-987-7680,ANDAR,Plan General,Ibupirac,Ibuprofeno,11152,0.4,Nación,0.25,BNA+ Semana Nación,53,Analgésicos,,false,5018
+364,9/30/2025,4079250975,Yanina García,303-363-8155,OSSURRBAC,Plan General,Gadovist,Gadobutrol,29676,0.4,Efectivo,0,Sin Promo,95,Otros,,false,17806
+365,2/10/2026,15004187543,Roberto Martínez,176-251-2921,OSECAC,PMO,Buscapina,Droga Genérica,13818,0.4,Efectivo,0,Sin Promo,13,Gastrointestinal,,false,8291
+366,2/9/2026,13336076385,Nicolás Giménez,768-853-3667,PAMI,PMO,Ponstan,Droga Genérica,12297,0.9,Banco Provincia,0,Sin Promo,9,Otros,,false,1230
+367,6/30/2025,11342616303,Sofía González,107-243-8205,OSECAC,PMO,Sertal Compuesto,Droga Genérica,16358,0.4,Efectivo,0,Sin Promo,99,Gastrointestinal,,false,9815
+368,4/30/2025,4664524830,Lourdes Giménez,554-813-8507,Apross,Plan 360,Centrum,Multivitamínico,46896,0.4,Nación,0.25,BNA+ Semana Nación,37,Vitaminas,,false,21103
+369,12/7/2025,10337414003,Gonzalo Rojas,847-101-1303,Bramed,Plan General,Vastarel,Droga Genérica,12469,0.4,"",0,Sin Promo,3,Cardiología,,true,7481
+370,10/20/2025,6654902566,Oscar Gómez,186-146-0006,Federada Salud,Plan General,Losartán,Droga Genérica,17120,0.4,Santander,0.2,Santander - Especial Farmacias,77,Otros,,false,8218
+371,9/9/2025,12551765073,Bautista Díaz,958-410-5126,OSPE,Plan General,Losartán,Droga Genérica,10402,0.4,Nación,0.25,BNA+ Semana Nación,46,Otros,,false,4681
+372,10/7/2025,5961080962,Julián Medina,922-710-1472,SIRELYF,Plan General,Sertal Compuesto,Droga Genérica,12301,0.4,Santander,0.2,Santander - Especial Farmacias,36,Gastrointestinal,,false,5904
+373,8/8/2025,13517344052,Oscar Rodríguez,403-764-4381,OSDE,510,Amoxidal,Amoxicilina,41988,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,31,Antibióticos,,true,25193
+374,4/29/2025,6892440064,Natalia Acosta,207-180-2206,OSPRERA,PMO,Losartán,Droga Genérica,19790,0.4,Efectivo,0,Sin Promo,89,Otros,,false,11874
+375,1/4/2026,15058499092,Leandro Gutiérrez,639-784-2004,OSITAC,Plan General,Redoxon,Multivitamínico,16194,0.4,Galicia,0.15,Galicia - Promo MODO,65,Vitaminas,,false,8259
+376,1/12/2026,7838712636,Ariel Quiroga,192-572-4481,Apross,Plan 360,Diclofenac Casasco,Droga Genérica,12468,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,65,Otros,,false,7481
+377,5/28/2025,12688455947,Camila Ortiz,666-979-8816,Sipssa,P2MIL,Alprazolam,Droga Genérica,19051,0.4,Galicia,0.15,Galicia - Promo MODO,7,Otros,,false,9716
+378,3/11/2026,8654982392,Gonzalo Fernández,576-672-2138,OSPJN,Plan General,Berocca,Droga Genérica,35425,0.4,Débito,0,Sin Promo,24,Vitaminas,,false,21255
+379,4/4/2026,13997780213,Emiliano González,503-953-5453,Mutual Médica Concordia,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,10534,0.4,Macro,0.1,Macro - Beneficio Select,66,Otros,,false,5688
+380,11/26/2025,10870563245,Nahuel Martínez,660-723-2946,OSUTHGRA,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,17020,0.4,Efectivo,0,Sin Promo,19,Otros,,false,10212
+381,7/30/2025,2346189380,Horacio Rodríguez,589-868-6168,ASE,Plan General,Ibuevanol,Ibuprofeno,9017,0.4,Efectivo,0,Sin Promo,10,Analgésicos,,false,5410
+382,8/21/2025,12873089381,Carina García,452-232-9010,OSDEPYM,210,Bagóhepato,Droga Genérica,13308,0.4,Efectivo,0,Sin Promo,52,Gastrointestinal,,false,7985
+383,3/10/2026,13656102251,Victoria Ortiz,454-970-9974,Apross,Plan 360,Clonazepam (Venta Bajo Receta),Droga Genérica,11266,0.4,Macro,0.1,Macro - Beneficio Select,93,Otros,,false,6084
+384,12/26/2025,1269268285,Roberto Rojas,660-723-8344,OSDEPYM,310,Optamox,Amoxicilina,38739,0.4,Débito,0,Sin Promo,61,Antibióticos,,true,23243
+385,1/25/2026,3564943841,,724-604-0827,Luis Pasteur,Plan General,Redoxon,Multivitamínico,14976,0.4,Débito,0,Sin Promo,61,Vitaminas,,false,8986
+386,8/12/2025,14222706646,Gonzalo Sánchez,749-536-3422,DASPU,Plan General,Taural,Droga Genérica,13624,0.4,Efectivo,0,Sin Promo,88,Gastrointestinal,,false,8174
+387,4/28/2025,11737044248,Jorgelina Pérez,764-472-6330,OSUTHGRA,Plan General,Atenolol,Droga Genérica,25112,0.4,"",0,Sin Promo,40,Cardiología,,true,15067
+388,3/27/2026,5448687757,Juan Carlos Martínez,150-565-5969,OSPRERA,PMO,Gadovist,Gadobutrol,20848,0.4,"",0,Sin Promo,95,Otros,,false,12509
+389,8/18/2025,12266925382,Nahuel García,864-112-4354,OSPRERA,PMO,Redoxon,Multivitamínico,10159,0.4,Santander,0.2,Santander - Especial Farmacias,97,Vitaminas,,false,4876
+390,4/10/2026,11470030383,Jorge Álvarez,524-302-7895,PAMI,PMO,Ibupirac,Ibuprofeno,10330,0.9,Macro,0.1,Macro - Beneficio Select,28,Analgésicos,,false,930
+391,3/31/2026,9678047080,Victoria Rojas,621-147-8860,Swiss Medical,SMG40,Reliverán,Metoclopramida,10030,0.4,Efectivo,0,Sin Promo,82,Otros,,false,6018
+392,4/14/2026,3312166021,Marcela Sánchez,762-144-4665,Particular,Plan General,Atenolol,Droga Genérica,24809,0,Galicia,0.15,Galicia - Promo MODO,34,Cardiología,,true,21088
+393,7/19/2025,2850733292,Sofía Pereyra,676-445-3032,OSPECOR,Plan General,Diclofenac Casasco,Droga Genérica,14907,0.4,Macro,0.1,Macro - Beneficio Select,7,Otros,,false,8050
+394,1/1/2026,10063666509,Micaela Sánchez,539-113-2727,OSECAC,PMO,Mylanta,Droga Genérica,15134,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,3,Gastrointestinal,,false,9080
+395,9/25/2025,6956102732,Micaela Gómez,858-233-0371,OSIT,Plan General,Ciriax,Droga Genérica,15668,0.4,Nación,0.25,BNA+ Semana Nación,4,Otros,,false,7051
+396,11/23/2025,6467200145,Florencia Giménez,334-769-2353,PAMI,PMO,Tafirol,Paracetamol,11493,0.9,Banco Provincia,0,Sin Promo,56,Analgésicos,,false,1149
+397,7/20/2025,14983972879,Gonzalo Medina,147-807-7473,Swiss Medical,SMG20,Sertal Compuesto,Droga Genérica,16608,0.4,Macro,0.1,Macro - Beneficio Select,100,Gastrointestinal,,false,8968
+398,5/19/2025,9273077767,Mirta Rojas,809-626-8899,Hospital Privado,Plan General,Sertal Compuesto,Droga Genérica,13633,0.4,"",0,Sin Promo,76,Gastrointestinal,,false,8180
+399,8/24/2025,12538975056,Diego Rojas,436-985-1174,Medicus,Plan General,Actron 600,Ibuprofeno,9490,0.4,Santander,0.2,Santander - Especial Farmacias,78,Analgésicos,,false,4555
+400,11/15/2025,5099369536,Daniela Sánchez,550-798-8460,Swiss Medical,SMG40,Kitadol,Paracetamol,11065,0.4,Macro,0.1,Macro - Beneficio Select,56,Otros,,false,5975
+401,10/19/2025,14789240394,Juana Giménez,850-902-4555,Swiss Medical,SMG20,Atenolol,Droga Genérica,24869,0.4,Santander,0.2,Santander - Especial Farmacias,84,Cardiología,,true,11937
+402,8/2/2025,4370470253,Ricardo Ruiz,750-965-4076,Prevención Salud,Plan General,Centrum,Multivitamínico,48530,0.4,Santander,0.2,Santander - Especial Farmacias,53,Vitaminas,,false,23294
+403,4/6/2026,4554437773,Natalia Flores,394-648-7607,Swiss Medical,SMG40,Optamox,Amoxicilina,32035,0.4,Débito,0,Sin Promo,70,Antibióticos,,true,19221
+404,11/26/2025,5629200143,Juan Carlos Aguirre,949-840-7517,OSPECOR,Plan General,Taural,Droga Genérica,11401,0.4,Débito,0,Sin Promo,87,Gastrointestinal,,false,6841
+405,7/30/2025,4876436709,Matías Romero,327-301-8949,Nobis Salud,Plan General,Rosuvastatina Bagó,Droga Genérica,15270,0.4,Macro,0.1,Macro - Beneficio Select,78,Otros,,false,8246
+406,7/23/2025,5395435072,Juana López,441-923-0436,Nobis Salud,Plan General,Actron 600,Ibuprofeno,10276,0.4,Macro,0.1,Macro - Beneficio Select,82,Analgésicos,,false,5549
+407,4/10/2026,11016373936,Rodrigo Romero,165-206-3138,Apross,Plan 360,Bagóhepato,Droga Genérica,13534,0.4,Santander,0.2,Santander - Especial Farmacias,1,Gastrointestinal,,false,6496
+408,1/21/2026,2219878848,Lucas López,971-336-1016,Ensalud,Plan General,Lotrial,Enalapril,16933,0.4,Macro,0.1,Macro - Beneficio Select,68,Cardiología,,true,9144
+409,3/27/2026,7179479550,Lucas Ramos,813-255-4205,Swiss Medical,SMG40,Alprazolam,Droga Genérica,15247,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,98,Otros,,false,9148
+410,11/7/2025,3634637994,Julián Pereyra,569-106-7145,PAMI,PMO,Berocca,Droga Genérica,48057,0.9,Galicia,0.15,Galicia - Promo MODO,69,Vitaminas,,false,4085
+411,3/20/2026,10686153677,Yanina Flores,734-752-9770,DASUTEN (UTN),Plan General,"",Droga Genérica,12250,0.4,Nación,0.25,BNA+ Semana Nación,14,Otros,,false,5513
+412,3/2/2026,10759960263,Martina Fernández,666-303-4901,Obras Sociales,Plan General,Actron 600,Ibuprofeno,13994,0.4,"",0,Sin Promo,31,Analgésicos,,false,8396
+413,2/2/2026,2817565607,Sergio Pérez,894-163-0417,Apross,Plan General,Enalapril Gador,Enalapril,28732,0.4,Macro,0.1,Macro - Beneficio Select,10,Cardiología,,true,15515
+414,3/2/2026,11412115268,María Belén Castro,669-518-3640,ANDAR,Plan General,Taural,Droga Genérica,18192,0.4,Galicia,0.15,Galicia - Promo MODO,73,Gastrointestinal,,false,9278
+415,11/2/2025,6448549133,Martina Pérez,306-437-5091,PAMI,PMO,Bagóhepato,Droga Genérica,11099,0.9,Efectivo,0,Sin Promo,37,Gastrointestinal,,false,1110
+416,8/9/2025,11928976038,Matías Rodríguez,317-763-8501,Swiss Medical,SMG40,Bagó+ Vital,Multivitamínico,37346,0.4,Débito,0,Sin Promo,85,Otros,,false,22408
+417,10/9/2025,5658201926,Gonzalo Rodríguez,144-964-0772,Obras Sociales,Plan General,Sertal Compuesto,Droga Genérica,16463,0.4,Galicia,0.15,Galicia - Promo MODO,17,Gastrointestinal,,false,8396
+418,2/23/2026,6897889521,Alejandro Aguirre,959-573-9508,Particular,Plan General,Buscapina,Droga Genérica,9570,0,Galicia,0.15,Galicia - Promo MODO,72,Gastrointestinal,,false,8135
+419,12/21/2025,14972691894,Rodrigo Fernández,271-900-1381,OSUTHGRA,Plan General,Alikal,Droga Genérica,13639,0.4,Santander,0.2,Santander - Especial Farmacias,52,Otros,,false,6547
+420,9/21/2025,5008322287,Roberto Aguirre,174-463-7027,Medifé,Plan General,Losartán,Droga Genérica,19774,0.4,Macro,0.1,Macro - Beneficio Select,42,Otros,,false,10678
+421,10/1/2025,823669171,Milagros Gutiérrez,732-237-4005,Met,One,Alikal,Droga Genérica,13866,0.4,"",0,Sin Promo,8,Otros,,false,8320
+422,3/26/2026,7704630145,Juan Carlos Romero,424-694-5685,Swiss Medical,SMG20,Centrum,Multivitamínico,41809,0.4,Nación,0.25,BNA+ Semana Nación,38,Vitaminas,,false,18814
+423,3/8/2026,6260536768,,372-626-4002,Parque Salud,Plan General,Diclofenac Casasco,Droga Genérica,12910,0.4,Santander,0.2,Santander - Especial Farmacias,59,Otros,,false,6197
+424,7/1/2025,9883387706,Claudio Herrera,650-102-1223,Galeno,Plata 300,Atenolol,Droga Genérica,16904,0.4,"",0,Sin Promo,2,Cardiología,,true,10142
+425,5/25/2025,9799256513,Romina Rodríguez,748-132-8952,CPCE Córdoba,Plan General,Diclofenac Casasco,Droga Genérica,13327,0.4,"",0,Sin Promo,34,Otros,,false,7996
+426,5/24/2025,11056726799,Jorgelina Ortiz,196-980-2618,Parque Salud,Plan General,Redoxon,Multivitamínico,13416,0.4,Efectivo,0,Sin Promo,62,Vitaminas,,false,8050
+427,6/2/2025,13657167723,Marcela Gutiérrez,419-285-6844,OSDE,310,Losartán,Droga Genérica,15796,0.4,Efectivo,0,Sin Promo,80,Otros,,false,9478
+428,1/31/2026,2569301363,Santiago Medina,538-737-1970,OSPJN,Plan General,Tafirol,Paracetamol,12786,0.4,Macro,0.1,Macro - Beneficio Select,20,Analgésicos,,false,6904
+429,6/11/2025,632276204,Facundo Aguirre,167-282-5470,Apross,Plan 360,Kitadol,Paracetamol,17829,0.4,Efectivo,0,Sin Promo,36,Otros,,false,10697
+430,3/9/2026,9179637997,Gonzalo Quiroga,611-380-3297,OSPOCE,Plan General,Ciriax,Droga Genérica,13930,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,53,Otros,,false,8358
+431,8/7/2025,70152635,Juan Carlos García,343-442-0364,PAMI,PMO,Reliverán,Metoclopramida,17455,0.9,Santander,0.2,Santander - Especial Farmacias,78,Otros,,false,1396
+432,5/31/2025,9270300791,Jorgelina Aguirre,257-490-4626,Apross,Plan General,Enalapril Gador,Enalapril,19538,0.4,Banco Provincia,0,Sin Promo,44,Cardiología,,true,11723
+433,12/13/2025,7545541007,Nahuel López,395-912-3516,Boreal,Plan General,Rosuvastatina Bagó,Droga Genérica,18033,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,30,Otros,,false,10820
+434,3/29/2026,10292948229,Gustavo Benítez,757-522-1120,OSECAC,PMO,Enalapril Gador,Enalapril,26832,0.4,Banco Provincia,0,Sin Promo,100,Cardiología,,true,16099
+435,10/27/2025,13881069495,Gonzalo Flores,935-861-7427,OSUTHGRA,Plan General,Ibupirac,Ibuprofeno,10152,0.4,Nación,0.25,BNA+ Semana Nación,10,Analgésicos,,false,4568
+436,3/6/2026,1492542247,Graciela Fernández,763-359-0663,OSMATA,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,10459,0.4,Nación,0.25,BNA+ Semana Nación,69,Otros,,false,4707
+437,7/8/2025,2747119301,Rodrigo Fernández,557-136-1658,Nobis,Plan General,Actron 600,Ibuprofeno,9700,0.4,"",0,Sin Promo,92,Analgésicos,,false,5820
+438,5/29/2025,14830300247,Marcelo Sánchez,461-364-7441,OSIT,Plan General,Ibupirac,Ibuprofeno,13371,0.4,Nación,0.25,BNA+ Semana Nación,79,Analgésicos,,false,6017
+439,1/20/2026,414775916,Yanina Sosa,291-657-4212,Federada Salud,Plan General,Centrum,Multivitamínico,30232,0.4,Débito,0,Sin Promo,12,Vitaminas,,false,18139
+440,4/13/2026,3356455606,Lourdes Martínez,726-717-8258,UOCRA,PMO,Optamox,Amoxicilina,44854,0.4,Macro,0.1,Macro - Beneficio Select,99,Antibióticos,,true,24221
+441,5/7/2025,14924283983,Horacio Álvarez,243-126-7718,OSPE,Plan General,Taural,Droga Genérica,12016,0.4,Nación,0.25,BNA+ Semana Nación,41,Gastrointestinal,,false,5407
+442,8/1/2025,5166121722,Paola Sánchez,675-917-3429,Galeno,Plata 300,Buscapina,Droga Genérica,12630,0.4,Nación,0.25,BNA+ Semana Nación,93,Gastrointestinal,,false,5684
+443,12/13/2025,991397918,Mirta Flores,742-481-4400,OSPE,Plan General,Sertal Compuesto,Droga Genérica,11818,0.4,Nación,0.25,BNA+ Semana Nación,31,Gastrointestinal,,false,5318
+444,2/26/2026,3233109612,Estela Quiroga,247-511-1204,OSECAC,PMO,Ibupirac,Ibuprofeno,12584,0.4,Santander,0.2,Santander - Especial Farmacias,58,Analgésicos,,false,6040
+445,12/26/2025,5385232762,Leandro Giménez,375-823-4791,OSPRERA,PMO,Vastarel,Droga Genérica,19430,0.4,"",0,Sin Promo,46,Cardiología,,true,11658
+446,2/2/2026,1108953628,María Belén Ortiz,403-100-4028,PAMI,PMO,Bagó+ Vital,Multivitamínico,52304,0.9,Nación,0.25,BNA+ Semana Nación,91,Otros,,false,3923
+447,6/10/2025,5512106109,Camila Rojas,468-914-0056,Apross,Plan General,Bagóhepato,Droga Genérica,15764,0.4,Galicia,0.15,Galicia - Promo MODO,56,Gastrointestinal,,false,8040
+448,12/23/2025,7776047285,José Luis Álvarez,277-571-4836,OSECAC,PMO,Graneodín,Droga Genérica,17465,0.4,Galicia,0.15,Galicia - Promo MODO,30,Otros,,false,8907
+449,2/10/2026,4586491436,Horacio Álvarez,990-330-0188,OSECAC,PMO,Vastarel,Droga Genérica,11487,0.4,"",0,Sin Promo,53,Cardiología,,true,6892
+450,7/22/2025,3443571659,Antonella Gutiérrez,146-987-2585,OSECAC,PMO,Graneodín,Droga Genérica,14611,0.4,"",0,Sin Promo,18,Otros,,false,8767
+451,11/9/2025,2851170814,Bautista Castro,943-506-4615,OSUTHGRA,Plan General,Reliverán,Metoclopramida,13269,0.4,Galicia,0.15,Galicia - Promo MODO,16,Otros,,false,6767
+452,9/12/2025,5816896171,Martina Romero,973-596-8104,OSPECOR,Plan General,"",Droga Genérica,18491,0.4,Débito,0,Sin Promo,8,Otros,,false,11095
+453,10/1/2025,10925068724,Rodrigo Giménez,361-712-9806,Apross,Plan General,Vastarel,Droga Genérica,13435,0.4,Santander,0.2,Santander - Especial Farmacias,19,Cardiología,,true,6449
+454,5/31/2025,8230161475,Juana Giménez,342-166-8285,Swiss Medical,SMG70,Meiact,Droga Genérica,26283,0.4,Macro,0.1,Macro - Beneficio Select,72,Otros,,false,14193
+455,6/24/2025,686285248,Juan Carlos Giménez,424-825-6625,Unión Personal,Plan General,Sertal Compuesto,Droga Genérica,10904,0.4,Banco Provincia,0,Sin Promo,7,Gastrointestinal,,false,6542
+456,12/5/2025,5044395813,Matías Flores,782-513-5446,GEA,Plan General,Bagó+ Vital,Multivitamínico,44817,0.4,"",0,Sin Promo,17,Otros,,false,26890
+457,12/10/2025,12210392486,Oscar Gutiérrez,660-596-3571,OSDEPYM,310,"",Droga Genérica,16221,0.4,Santander,0.2,Santander - Especial Farmacias,70,Otros,,false,7786
+458,9/8/2025,6369897960,Victoria Pérez,150-779-2890,Caja de Abogados de Córdoba,Plan General,Ibupirac,Ibuprofeno,13472,0.4,"",0,Sin Promo,60,Analgésicos,,false,8083
+459,3/22/2026,5209300266,Valentina Rojas,318-466-5196,Prevención Salud,Plan General,Losartán,Droga Genérica,11756,0.4,Efectivo,0,Sin Promo,97,Otros,,false,7054
+460,9/3/2025,14494010354,Ricardo Castro,904-679-9333,OSDE,210,Vastarel,Droga Genérica,11609,0.4,Santander,0.2,Santander - Especial Farmacias,88,Cardiología,,true,5572
+461,6/20/2025,6645772016,Claudio Rojas,535-905-2165,OSPECOR,Plan General,Reliverán,Metoclopramida,15619,0.4,"",0,Sin Promo,49,Otros,,false,9371
+462,8/28/2025,10882941493,Roberto Flores,117-106-4266,Swiss Medical,SMG20,Rosuvastatina Bagó,Droga Genérica,29270,0.4,Santander,0.2,Santander - Especial Farmacias,33,Otros,,false,14050
+463,10/30/2025,11154444156,,478-373-4018,OSECAC,PMO,Enalapril Gador,Enalapril,26789,0.4,Nación,0.25,BNA+ Semana Nación,78,Cardiología,,true,12055
+464,8/11/2025,6457381096,Nicolás Sánchez,499-798-8195,Ensalud,Plan General,Vastarel,Droga Genérica,10932,0.4,Débito,0,Sin Promo,19,Cardiología,,true,6559
+465,8/10/2025,13627205495,Silvina Castro,137-530-6611,Federada Salud,Plan General,Tafirol,Paracetamol,8318,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,23,Analgésicos,,false,4991
+466,12/10/2025,6035742792,Martina López,684-611-9590,PAMI,PMO,Kitadol,Paracetamol,12757,0.9,Efectivo,0,Sin Promo,38,Otros,,false,1276
+467,3/24/2026,1758336247,Juan Carlos Flores,236-586-3226,Sipssa,P4MIL,Alikal,Droga Genérica,10121,0.4,"",0,Sin Promo,81,Otros,,false,6073
+468,6/18/2025,15444998673,Juan Carlos Flores,390-697-8651,OSDE,510,Ibupirac,Ibuprofeno,9936,0.4,Banco Provincia,0,Sin Promo,24,Analgésicos,,false,5962
+469,3/7/2026,9835857365,Santiago Romero,605-492-2082,Parque Salud,Plan General,Enalapril Gador,Enalapril,28835,0.4,Galicia,0.15,Galicia - Promo MODO,77,Cardiología,,true,14706
+470,6/26/2025,10645657865,Daniela Benítez,860-180-1787,OSECAC,PMO,Alprazolam,Droga Genérica,12448,0.4,Macro,0.1,Macro - Beneficio Select,32,Otros,,false,6722
+471,1/12/2026,9498112382,Ariel García,455-655-3907,OSPECOR,Plan General,Losartán,Droga Genérica,10730,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,77,Otros,,false,6438
+472,3/10/2026,3982843079,Graciela Ramos,106-717-2335,OSECAC,PMO,Losartán,Droga Genérica,14970,0.4,Santander,0.2,Santander - Especial Farmacias,62,Otros,,false,7186
+473,10/25/2025,3600170426,Graciela Álvarez,610-105-5791,Swiss Medical,SMG20,Ibupirac,Ibuprofeno,9534,0.4,Banco Provincia,0,Sin Promo,64,Analgésicos,,false,5720
+474,12/5/2025,14464511836,Lucas Ramírez,219-803-6812,Particular,Plan General,Bayaspirina,Droga Genérica,14407,0,Galicia,0.15,Galicia - Promo MODO,12,Analgésicos,,false,12246
+475,9/29/2025,399706901,Marcela Ramos,190-585-9451,SanCor Salud,3000,Bayaspirina,Droga Genérica,10897,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,96,Analgésicos,,false,6538
+476,4/28/2025,1787265490,Morena Quiroga,173-879-2035,OSPOCE,Plan General,Bagóhepato,Droga Genérica,14921,0.4,Galicia,0.15,Galicia - Promo MODO,43,Gastrointestinal,,false,7610
+477,3/22/2026,6598310788,Martina Díaz,211-754-6851,ASE,Plan General,Optamox,Amoxicilina,36055,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,19,Antibióticos,,true,21633
+478,4/3/2026,15409530600,María Belén Fernández,976-702-3826,Swiss Medical,SMG70,Bagóhepato,Droga Genérica,19294,0.4,"",0,Sin Promo,71,Gastrointestinal,,false,11576
+479,8/15/2025,2531297390,Emiliano Flores,933-360-4082,Sipssa,P4MIL,Buscapina,Droga Genérica,16407,0.4,"",0,Sin Promo,5,Gastrointestinal,,false,9844
+480,9/1/2025,4697859600,Jorgelina Medina,592-470-6712,OSPOCE,Plan General,Bayaspirina,Droga Genérica,17942,0.4,Galicia,0.15,Galicia - Promo MODO,58,Analgésicos,,false,9150
+481,1/7/2026,8340321284,Silvina Rodríguez,106-548-6069,OSPE,Plan General,Graneodín,Droga Genérica,11124,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,42,Otros,,false,6674
+482,11/10/2025,15194891087,Roberto Ortiz,162-488-0385,DASUTEN (UTN),Plan General,Bagó+ Vital,Multivitamínico,38453,0.4,Débito,0,Sin Promo,53,Otros,,false,23072
+483,7/6/2025,4345221569,María Belén Fernández,585-734-7012,Sipssa,PMIL,Tafirol,Paracetamol,8771,0.4,Efectivo,0,Sin Promo,73,Analgésicos,,false,5263
+484,3/21/2026,7108914342,Solange González,113-916-4643,OSSURRBAC,Plan General,Gadovist,Gadobutrol,16411,0.4,Galicia,0.15,Galicia - Promo MODO,38,Otros,,false,8370
+485,12/18/2025,11327054828,Juana Rodríguez,593-407-0034,Apross,Plan General,Reliverán,Metoclopramida,17229,0.4,Efectivo,0,Sin Promo,74,Otros,,false,10337
+486,2/16/2026,2137799820,Sergio Quiroga,822-303-2200,OSFE,Plan General,Lotrial,Enalapril,24355,0.4,Macro,0.1,Macro - Beneficio Select,96,Cardiología,,true,13152
+487,4/4/2026,8000392409,Victoria González,692-861-6730,Avalian,Plan General,Buscapina,Droga Genérica,12918,0.4,Macro,0.1,Macro - Beneficio Select,49,Gastrointestinal,,false,6976
+488,1/23/2026,12573629601,Victoria Acosta,423-352-0798,OSPLAD,Plan General,Bagóhepato,Droga Genérica,11222,0.4,Macro,0.1,Macro - Beneficio Select,71,Gastrointestinal,,false,6060
+489,4/29/2025,6490456190,Florencia Benítez,280-479-6959,Prevención Salud,Plan General,Taural,Droga Genérica,12409,0.4,Débito,0,Sin Promo,65,Gastrointestinal,,false,7445
+490,4/13/2026,531438389,Alejandro Gutiérrez,954-549-9007,OSITAC,Plan General,Kitadol,Paracetamol,17778,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,43,Otros,,false,10667
+491,11/14/2025,14122187842,Daniela Pereyra,499-751-2327,Met,Gold,Gadovist,Gadobutrol,25089,0.4,Débito,0,Sin Promo,91,Otros,,false,15053
+492,7/12/2025,7422266434,Jorge Medina,939-340-6326,OSDOP,Plan General,Actron 600,Ibuprofeno,13932,0.4,Galicia,0.15,Galicia - Promo MODO,38,Analgésicos,,false,7105
+493,5/14/2025,8954821185,Nicolás Aguirre,241-900-4636,Integral Salud,Plan General,Taural,Droga Genérica,18075,0.4,Débito,0,Sin Promo,99,Gastrointestinal,,false,10845
+494,5/1/2025,3123376156,Federico López,782-447-1989,Obras Sociales,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,14988,0.4,Banco Provincia,0,Sin Promo,29,Otros,,false,8993
+495,8/14/2025,52633922,Ariel Rojas,366-816-2947,IOSFA,Plan General,Amoxidal,Amoxicilina,44659,0.4,Santander,0.2,Santander - Especial Farmacias,73,Antibióticos,,true,21436
+496,4/11/2026,3069053103,Santiago Ramos,686-994-0211,Apross,Plan General,Lotrial,Enalapril,28959,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,90,Cardiología,,true,17375
+497,2/21/2026,288355345,Matías Torres,555-549-7585,Bramed,Plan General,Ibupirac,Ibuprofeno,11276,0.4,Santander,0.2,Santander - Especial Farmacias,98,Analgésicos,,false,5412
+498,11/8/2025,1019811670,Agustina Romero,442-765-4473,Medicus,Plan General,Graneodín,Droga Genérica,19364,0.4,Débito,0,Sin Promo,23,Otros,,false,11618
+499,9/2/2025,1473651761,Julián Aguirre,254-925-4138,Medifé,Plan General,Bagó+ Vital,Multivitamínico,44542,0.4,Banco Provincia,0,Sin Promo,12,Otros,,false,26725
+500,3/27/2026,693550428,Mirta Gómez,850-554-7733,IOMA,PMO,Diclofenac Casasco,Droga Genérica,17869,0.4,Nación,0.25,BNA+ Semana Nación,84,Otros,,false,8041
+501,1/15/2026,5751599536,Maximiliano Pérez,441-576-5481,GEA,Plan General,"",Droga Genérica,14304,0.4,Nación,0.25,BNA+ Semana Nación,69,Otros,,false,6437
+502,9/19/2025,1475905206,Antonella Medina,849-395-9971,Apross,Plan General,Buscapina,Droga Genérica,11704,0.4,Débito,0,Sin Promo,28,Gastrointestinal,,false,7022
+503,2/3/2026,13822058289,Yanina Flores,563-169-8272,OSPE,Plan General,Reliverán,Metoclopramida,15931,0.4,Galicia,0.15,Galicia - Promo MODO,51,Otros,,false,8125
+504,11/26/2025,8975274782,Antonella Sánchez,297-414-4581,Swiss Medical,SMG20,Vastarel,Droga Genérica,12058,0.4,Débito,0,Sin Promo,95,Cardiología,,true,7235
+505,7/30/2025,3393021933,Sofía Torres,412-416-2399,Jerárquicos Salud,Plan General,Optamox,Amoxicilina,28303,0.4,"",0,Sin Promo,63,Antibióticos,,true,16982
+506,2/10/2026,6867258813,Alejandro Ortiz,988-997-6912,Sipssa,P2MIL,Diclofenac Casasco,Droga Genérica,19568,0.4,Galicia,0.15,Galicia - Promo MODO,35,Otros,,false,9980
+507,3/17/2026,13377947928,Carina Gutiérrez,309-240-6619,OSDE,210,Reliverán,Metoclopramida,11271,0.4,Macro,0.1,Macro - Beneficio Select,26,Otros,,false,6086
+508,9/12/2025,2292194479,Milagros López,835-612-9333,PAMI,PMO,Ibupirac,Ibuprofeno,9695,0.9,Galicia,0.15,Galicia - Promo MODO,24,Analgésicos,,false,824
+509,5/4/2025,3176785760,María Belén Fernández,865-362-6342,Swiss Medical,SMG40,Mylanta,Droga Genérica,16892,0.4,Banco Provincia,0,Sin Promo,34,Gastrointestinal,,false,10135
+510,1/9/2026,6342098295,Carina Benítez,601-316-3646,Swiss Medical,SMG20,Redoxon,Multivitamínico,16514,0.4,Efectivo,0,Sin Promo,96,Vitaminas,,false,9908
+511,5/25/2025,3440108776,Victoria López,315-768-4836,SIRELYF,Plan General,Ibuevanol,Ibuprofeno,14777,0.4,Efectivo,0,Sin Promo,11,Analgésicos,,false,8866
+512,12/18/2025,5144421797,Emiliano Rojas,953-134-5524,Swiss Medical,SMG20,Berocca,Droga Genérica,50615,0.4,Macro,0.1,Macro - Beneficio Select,6,Vitaminas,,false,27332
+513,6/26/2025,15135854479,Marcela Romero,427-218-8924,Luis Pasteur,Plan General,Ibuevanol,Ibuprofeno,14900,0.4,Macro,0.1,Macro - Beneficio Select,88,Analgésicos,,false,8046
+514,5/10/2025,8705288096,Horacio Sánchez,405-516-9035,Apross,Plan 360,Taural,Droga Genérica,12024,0.4,Santander,0.2,Santander - Especial Farmacias,71,Gastrointestinal,,false,5772
+515,1/29/2026,6967162836,Marcelo Torres,596-126-3091,OSDEPYM,410,Taural,Droga Genérica,17816,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,50,Gastrointestinal,,false,10690
+516,8/4/2025,8046794893,Bautista Rodríguez,762-447-2955,Particular,Plan General,Lotrial,Enalapril,26476,0,Galicia,0.15,Galicia - Promo MODO,88,Cardiología,,true,22505
+517,2/17/2026,1830403945,Diego Sosa,528-743-0257,Nobis,Plan General,Centrum,Multivitamínico,47806,0.4,Débito,0,Sin Promo,33,Vitaminas,,false,28684
+518,3/30/2026,6609187720,Carina Torres,570-315-9907,OSDEPYM,510,Kitadol,Paracetamol,13579,0.4,Macro,0.1,Macro - Beneficio Select,78,Otros,,false,7333
+519,2/21/2026,6698360466,Jorge Pérez,683-109-2436,PAMI,PMO,Berocca,Droga Genérica,51487,0.9,Banco Provincia,0,Sin Promo,12,Vitaminas,,false,5149
+520,2/25/2026,2166765074,Maximiliano Pereyra,704-522-0649,OSPECOR,Plan General,Lotrial,Enalapril,26379,0.4,Santander,0.2,Santander - Especial Farmacias,39,Cardiología,,true,12662
+521,5/4/2025,10859988475,Alejandro Sánchez,622-361-4696,Unión Personal,Plan General,Taural,Droga Genérica,12182,0.4,"",0,Sin Promo,98,Gastrointestinal,,false,7309
+522,4/2/2026,4737933300,Lourdes Ruiz,783-122-3468,Boreal,Plan General,Graneodín,Droga Genérica,15906,0.4,"",0,Sin Promo,40,Otros,,false,9544
+523,4/13/2026,8801799232,María Belén Ramos,712-935-0566,Hospital Privado,Plan General,Vastarel,Droga Genérica,11746,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,66,Cardiología,,true,7048
+524,2/26/2026,13918462708,Ricardo Gutiérrez,306-356-2702,OSMATA,PMO,Centrum,Multivitamínico,53542,0.4,Débito,0,Sin Promo,30,Vitaminas,,false,32125
+525,11/17/2025,6594114398,Claudio Torres,911-806-0226,Nobis Salud,Plan General,Sertal Compuesto,Droga Genérica,10606,0.4,Santander,0.2,Santander - Especial Farmacias,14,Gastrointestinal,,false,5091
+526,8/13/2025,15614091546,Santiago Álvarez,582-534-7016,Caja Notarial de Córdoba,Plan General,Tafirol,Paracetamol,8273,0.4,Débito,0,Sin Promo,44,Analgésicos,,false,4964
+527,4/16/2026,7208390286,Florencia Sánchez,920-596-9038,Apross,Plan General,Ponstan,Droga Genérica,13501,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,52,Otros,,false,8101
+528,6/17/2025,4486128607,Nahuel Rodríguez,286-109-2529,PAMI,PMO,Kitadol,Paracetamol,13135,0.9,Galicia,0.15,Galicia - Promo MODO,30,Otros,,false,1116
+529,6/13/2025,4407949908,Lourdes Ruiz,634-290-9833,OSPRERA,PMO,Alikal,Droga Genérica,17648,0.4,Macro,0.1,Macro - Beneficio Select,80,Otros,,false,9530
+530,5/5/2025,1525402224,Lucas Rojas,489-256-0850,Obras Sociales,Plan General,Ibupirac,Ibuprofeno,13407,0.4,Macro,0.1,Macro - Beneficio Select,58,Analgésicos,,false,7240
+531,5/24/2025,14646870864,Horacio Gutiérrez,607-440-2641,GEA,Plan General,Meiact,Droga Genérica,40039,0.4,Galicia,0.15,Galicia - Promo MODO,76,Otros,,false,20420
+532,6/5/2025,3270359766,Valentina Gómez,167-816-5934,Medifé,Plan General,Buscapina,Droga Genérica,12867,0.4,Macro,0.1,Macro - Beneficio Select,32,Gastrointestinal,,false,6948
+533,1/2/2026,14421295053,Camila Pérez,486-956-4880,Avalian,Plan General,Berocca,Droga Genérica,50972,0.4,"",0,Sin Promo,19,Vitaminas,,false,30583
+534,4/4/2026,11266380489,Maximiliano Medina,543-779-3444,ASE,Plan General,Atenolol,Droga Genérica,17243,0.4,Nación,0.25,BNA+ Semana Nación,97,Cardiología,,true,7759
+535,4/9/2026,6082289284,Solange Quiroga,611-457-1751,OSECAC,PMO,Bayaspirina,Droga Genérica,15557,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,25,Analgésicos,,false,9334
+536,1/1/2026,15059004530,Ariel Sosa,581-864-9717,Particular,Plan General,Actron 600,Ibuprofeno,8416,0,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,40,Analgésicos,,false,8416
+537,1/19/2026,9406913586,Fabián Ruiz,970-368-2656,Swiss Medical,SMG40,Rosuvastatina Bagó,Droga Genérica,19787,0.4,Efectivo,0,Sin Promo,97,Otros,,false,11872
+538,6/28/2025,12098190073,,756-188-3663,Swiss Medical,SMG20,Lotrial,Enalapril,16158,0.4,Banco Provincia,0,Sin Promo,63,Cardiología,,true,9695
+539,2/10/2026,14819954781,Bautista Gómez,903-564-2018,Nobis,Plan General,Ciriax,Droga Genérica,12538,0.4,Nación,0.25,BNA+ Semana Nación,25,Otros,,false,5642
+540,3/20/2026,2030673603,Oscar Ortiz,263-361-0339,Swiss Medical,SMG70,Enalapril Gador,Enalapril,22985,0.4,Efectivo,0,Sin Promo,2,Cardiología,,true,13791
+541,3/2/2026,11688367,Diego Ramírez,680-194-3545,OBSBA,Plan General,Graneodín,Droga Genérica,10876,0.4,Macro,0.1,Macro - Beneficio Select,17,Otros,,false,5873
+542,6/5/2025,4499878883,Juan Carlos Sosa,121-301-5332,Nobis Salud,Plan General,Graneodín,Droga Genérica,15629,0.4,Efectivo,0,Sin Promo,82,Otros,,false,9377
+543,2/7/2026,3101346207,Graciela Fernández,318-514-4099,PAMI,PMO,Vastarel,Droga Genérica,17136,0.9,Débito,0,Sin Promo,7,Cardiología,,true,1714
+544,5/26/2025,10576373356,Claudio Giménez,644-659-5254,Apross,Plan General,Ibupirac,Ibuprofeno,10861,0.4,Santander,0.2,Santander - Especial Farmacias,43,Analgésicos,,false,5213
+545,7/12/2025,15201643370,Valentina Pérez,176-668-8563,Particular,Plan General,Losartán,Droga Genérica,11705,0,Banco Provincia,0,Sin Promo,22,Otros,,false,11705
+546,6/1/2025,1004598776,Juan Carlos Ruiz,115-148-8568,OSITAC,Plan General,Lotrial,Enalapril,20572,0.4,Efectivo,0,Sin Promo,20,Cardiología,,true,12343
+547,5/12/2025,5121140449,Giuliana Flores,614-105-4294,Nobis,Plan General,Redoxon,Multivitamínico,18993,0.4,Macro,0.1,Macro - Beneficio Select,74,Vitaminas,,false,10256
+548,6/21/2025,9239495236,Alejandro Rodríguez,713-552-5892,PAMI,PMO,Rosuvastatina Bagó,Droga Genérica,18873,0.9,Nación,0.25,BNA+ Semana Nación,25,Otros,,false,1415
+549,3/16/2026,10860001451,María Belén Flores,469-623-3967,OSDE,310,Taural,Droga Genérica,13254,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,13,Gastrointestinal,,false,7952
+550,3/25/2026,5567958803,Juana Fernández,510-232-3629,Jerárquicos Salud,Plan General,Rosuvastatina Bagó,Droga Genérica,28630,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,71,Otros,,false,17178
+551,9/6/2025,2589378713,Federico Flores,883-246-6274,OSPOCE,Plan General,Amoxidal,Amoxicilina,33059,0.4,Nación,0.25,BNA+ Semana Nación,22,Antibióticos,,true,14877
+552,4/12/2026,7027381168,Maximiliano Flores,253-402-5775,PAMI,PMO,Actron 600,Ibuprofeno,10238,0.9,Nación,0.25,BNA+ Semana Nación,2,Analgésicos,,false,768
+553,6/10/2025,7980208737,Gonzalo Torres,541-250-7719,OSECAC,PMO,Alikal,Droga Genérica,14131,0.4,"",0,Sin Promo,86,Otros,,false,8479
+554,1/17/2026,2705459472,Ariel Díaz,964-617-2206,Nobis,Plan General,Ibuevanol,Ibuprofeno,11912,0.4,Nación,0.25,BNA+ Semana Nación,28,Analgésicos,,false,5360
+555,6/24/2025,3302904973,Romina Herrera,548-478-4639,OSECAC,PMO,Bagóhepato,Droga Genérica,18737,0.4,Galicia,0.15,Galicia - Promo MODO,48,Gastrointestinal,,false,9556
+556,10/16/2025,8463007859,Roxana Gómez,460-560-6485,Sipssa,P2MIL,Graneodín,Droga Genérica,19188,0.4,Santander,0.2,Santander - Especial Farmacias,44,Otros,,false,9210
+557,12/24/2025,8239324261,Federico Ruiz,803-284-1878,OSCHOCA,Plan General,Graneodín,Droga Genérica,11719,0.4,"",0,Sin Promo,70,Otros,,false,7031
+558,8/25/2025,6923140589,Lucas Medina,358-411-8677,Apross,Plan 360,Bagóhepato,Droga Genérica,14376,0.4,Débito,0,Sin Promo,36,Gastrointestinal,,false,8626
+559,4/24/2025,7052534916,Ricardo Medina,288-835-9662,OSPRERA,PMO,Bagóhepato,Droga Genérica,14044,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,80,Gastrointestinal,,false,8426
+560,11/8/2025,12244979192,Nicolás Sosa,439-489-0378,Apross,Plan 360,Atenolol,Droga Genérica,20162,0.4,Débito,0,Sin Promo,48,Cardiología,,true,12097
+561,3/7/2026,2485995527,Facundo Pérez,330-789-9731,OSECAC,PMO,Berocca,Droga Genérica,34296,0.4,Banco Provincia,0,Sin Promo,95,Vitaminas,,false,20578
+562,11/21/2025,5926283811,Yanina Fernández,130-102-8727,OSDE,310,Clonazepam (Venta Bajo Receta),Droga Genérica,19495,0.4,Banco Provincia,0,Sin Promo,24,Otros,,false,11697
+563,2/5/2026,3954545155,Lucas González,895-162-8882,OSECAC,PMO,Enalapril Gador,Enalapril,18025,0.4,Efectivo,0,Sin Promo,2,Cardiología,,true,10815
+564,2/24/2026,9609232026,Leandro Ruiz,680-260-4997,Parque Salud,Plan General,Mylanta,Droga Genérica,11036,0.4,Banco Provincia,0,Sin Promo,31,Gastrointestinal,,false,6622
+565,6/9/2025,15359635716,Victoria Giménez,691-422-5463,Mutual Médica Concordia,Plan General,Optamox,Amoxicilina,43736,0.4,"",0,Sin Promo,90,Antibióticos,,true,26242
+566,1/5/2026,7555021739,Julián Sosa,227-161-3969,OSDE,410,Diclofenac Casasco,Droga Genérica,19059,0.4,Santander,0.2,Santander - Especial Farmacias,15,Otros,,false,9148
+567,9/15/2025,3931181495,Sergio Giménez,617-386-0118,OSDE,510,Meiact,Droga Genérica,38591,0.4,Nación,0.25,BNA+ Semana Nación,9,Otros,,false,17366
+568,3/9/2026,9866214589,Romina Sánchez,148-458-1723,Medicus,Plan General,"",Droga Genérica,12303,0.4,Banco Provincia,0,Sin Promo,96,Otros,,false,7382
+569,11/3/2025,2881189842,Natalia Acosta,515-738-2288,SIRELYF,Plan General,Alikal,Droga Genérica,12365,0.4,Banco Provincia,0,Sin Promo,61,Otros,,false,7419
+570,9/24/2025,14223991799,Maximiliano Fernández,886-657-3819,OSSURRBAC,Plan General,Ciriax,Droga Genérica,14983,0.4,Galicia,0.15,Galicia - Promo MODO,80,Otros,,false,7641
+571,12/3/2025,3450409262,Daniela López,396-536-8346,Omint,Plan General,Ciriax,Droga Genérica,12992,0.4,Nación,0.25,BNA+ Semana Nación,100,Otros,,false,5846
+572,5/5/2025,2937031578,Romina Díaz,362-166-1181,Medifé,Plan General,"",Droga Genérica,14908,0.4,Débito,0,Sin Promo,9,Otros,,false,8945
+573,3/2/2026,14207155830,Estela Gutiérrez,785-821-7063,Ensalud,Plan General,Buscapina,Droga Genérica,11262,0.4,Macro,0.1,Macro - Beneficio Select,85,Gastrointestinal,,false,6081
+574,3/28/2026,4636747362,Federico Sánchez,462-740-4772,OSPE,Plan General,Ponstan,Droga Genérica,19864,0.4,Débito,0,Sin Promo,41,Otros,,false,11918
+575,10/16/2025,1439083707,Paola Ortiz,996-352-9614,Apross,Plan General,Tafirol,Paracetamol,14064,0.4,Santander,0.2,Santander - Especial Farmacias,40,Analgésicos,,false,6751
+576,7/11/2025,1068967783,Natalia Fernández,903-197-6420,Caja de Abogados de Córdoba,Plan General,Ponstan,Droga Genérica,10909,0.4,Efectivo,0,Sin Promo,35,Otros,,false,6545
+577,11/28/2025,12995582490,Leandro Díaz,136-119-6067,OSECAC,PMO,Atenolol,Droga Genérica,17304,0.4,Macro,0.1,Macro - Beneficio Select,55,Cardiología,,true,9344
+578,7/9/2025,8278392871,Roxana Álvarez,613-859-0113,OSPLYFC,Plan General,Atenolol,Droga Genérica,29534,0.4,Galicia,0.15,Galicia - Promo MODO,70,Cardiología,,true,15062
+579,2/23/2026,3213914331,Carina Acosta,786-880-1339,OSPOCE,Plan General,Ponstan,Droga Genérica,13762,0.4,Macro,0.1,Macro - Beneficio Select,11,Otros,,false,7431
+580,8/19/2025,6140491889,Roberto Quiroga,121-933-7646,Swiss Medical,SMG20,Rosuvastatina Bagó,Droga Genérica,20668,0.4,Banco Provincia,0,Sin Promo,28,Otros,,false,12401
+581,11/12/2025,13047870018,Jorgelina Romero,534-218-3702,Particular,Plan General,Ciriax,Droga Genérica,10990,0,Macro,0.1,Macro - Beneficio Select,95,Otros,,false,9891
+582,12/9/2025,3441399936,Claudio Sosa,569-879-2652,Swiss Medical,SMG70,Vastarel,Droga Genérica,15118,0.4,Nación,0.25,BNA+ Semana Nación,87,Cardiología,,true,6803
+583,10/31/2025,3365573005,Santiago Fernández,504-760-7098,Jerárquicos Salud,Plan General,Reliverán,Metoclopramida,12385,0.4,Efectivo,0,Sin Promo,27,Otros,,false,7431
+584,4/14/2026,14328023956,Ricardo Herrera,576-187-1941,Unión Personal,Plan General,Kitadol,Paracetamol,17899,0.4,Macro,0.1,Macro - Beneficio Select,65,Otros,,false,9665
+585,2/18/2026,3560310138,Yanina Giménez,155-878-3873,Caja Notarial de Córdoba,Plan General,Enalapril Gador,Enalapril,24947,0.4,Banco Provincia,0,Sin Promo,36,Cardiología,,true,14968
+586,10/22/2025,8155827392,Lucía Ramírez,930-938-4531,Apross,Plan General,Lotrial,Enalapril,26399,0.4,Galicia,0.15,Galicia - Promo MODO,59,Cardiología,,true,13463
+587,6/2/2025,3012489896,Ricardo Ramos,143-844-0681,Particular,Plan General,Losartán,Droga Genérica,10097,0,Galicia,0.15,Galicia - Promo MODO,34,Otros,,false,8582
+588,10/17/2025,1630711706,Juan Carlos Quiroga,922-119-9389,OSDE,310,Atenolol,Droga Genérica,27514,0.4,Macro,0.1,Macro - Beneficio Select,69,Cardiología,,true,14858
+589,5/26/2025,13816321033,Maximiliano Medina,831-288-8893,OSDE,210,Meiact,Droga Genérica,26708,0.4,Macro,0.1,Macro - Beneficio Select,36,Otros,,false,14422
+590,5/1/2025,9351930324,Carina López,984-709-2237,OSDE,410,Bagó+ Vital,Multivitamínico,50796,0.4,Efectivo,0,Sin Promo,81,Otros,,false,30478
+591,10/26/2025,1652272881,José Luis Ramírez,388-490-1021,Met,Gold,Atenolol,Droga Genérica,16882,0.4,Nación,0.25,BNA+ Semana Nación,44,Cardiología,,true,7597
+592,5/2/2025,6645367762,Paola Benítez,359-748-5720,OSPE,Plan General,Graneodín,Droga Genérica,10987,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,16,Otros,,false,6592
+593,6/23/2025,15380110700,Sofía Flores,241-888-8875,Caja de Abogados de Córdoba,Plan General,Kitadol,Paracetamol,19213,0.4,Banco Provincia,0,Sin Promo,60,Otros,,false,11528
+594,8/6/2025,5485075876,Fabián Torres,947-708-3977,OSECAC,PMO,Alprazolam,Droga Genérica,10000,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,37,Otros,,false,6000
+595,6/3/2025,7639774510,Marcelo Pereyra,450-494-7286,OBSBA,Plan General,Ciriax,Droga Genérica,18228,0.4,"",0,Sin Promo,88,Otros,,false,10937
+596,11/23/2025,14520864140,Solange Pereyra,775-290-1342,Swiss Medical,SMG20,Reliverán,Metoclopramida,10864,0.4,Macro,0.1,Macro - Beneficio Select,7,Otros,,false,5867
+597,12/16/2025,11440883322,Ricardo Ruiz,676-344-6861,OSMATA,PMO,Berocca,Droga Genérica,36418,0.4,Macro,0.1,Macro - Beneficio Select,53,Vitaminas,,false,19666
+598,3/28/2026,4420967897,Roxana Álvarez,449-392-4094,Nobis Salud,Plan General,Reliverán,Metoclopramida,13829,0.4,Galicia,0.15,Galicia - Promo MODO,42,Otros,,false,7053
+599,11/30/2025,8186777718,Marcelo Díaz,711-195-5800,Ensalud,Plan General,Gadovist,Gadobutrol,16391,0.4,Santander,0.2,Santander - Especial Farmacias,27,Otros,,false,7868
+600,1/10/2026,674350135,Florencia López,345-459-7549,PAMI,PMO,Centrum,Multivitamínico,51379,0.9,"",0,Sin Promo,4,Vitaminas,,false,5138
+601,7/17/2025,12187715369,Lucas Fernández,107-798-7865,UOCRA,PMO,Berocca,Droga Genérica,32347,0.4,Débito,0,Sin Promo,43,Vitaminas,,false,19408
+602,10/3/2025,4224868083,Facundo Giménez,659-913-9780,Mutual Médica Concordia,Plan General,Amoxidal,Amoxicilina,39485,0.4,Débito,0,Sin Promo,42,Antibióticos,,true,23691
+603,1/18/2026,12157854343,Martina Benítez,334-470-5628,OSDEPYM,210,Diclofenac Casasco,Droga Genérica,10580,0.4,Débito,0,Sin Promo,92,Otros,,false,6348
+604,1/28/2026,656356844,María Belén Romero,163-287-6804,Apross,Plan 360,Alikal,Droga Genérica,13505,0.4,Efectivo,0,Sin Promo,26,Otros,,false,8103
+605,6/24/2025,315323377,Fabián Álvarez,390-370-6672,Jerárquicos Salud,Plan General,Rosuvastatina Bagó,Droga Genérica,23208,0.4,Débito,0,Sin Promo,63,Otros,,false,13925
+606,12/12/2025,691606143,Claudio Sánchez,923-960-3688,OSPAT,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,18638,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,15,Otros,,false,11183
+607,11/11/2025,777991883,Nicolás Castro,796-326-6941,Parque Salud,Plan General,Enalapril Gador,Enalapril,17256,0.4,Banco Provincia,0,Sin Promo,90,Cardiología,,true,10354
+608,11/19/2025,4688750506,Nahuel Sánchez,597-258-8915,OSECAC,PMO,Berocca,Droga Genérica,53157,0.4,Galicia,0.15,Galicia - Promo MODO,10,Vitaminas,,false,27110
+609,12/26/2025,7985255971,Roxana García,212-898-8881,Medifé,Plan General,Actron 600,Ibuprofeno,8762,0.4,Nación,0.25,BNA+ Semana Nación,12,Analgésicos,,false,3943
+610,2/6/2026,6979762257,Emiliano Pérez,981-437-6550,Apross,Plan 360,Bagóhepato,Droga Genérica,14914,0.4,Macro,0.1,Macro - Beneficio Select,11,Gastrointestinal,,false,8054
+611,5/2/2025,10166990382,Yanina Pérez,770-528-8434,Galeno,Azul 200,Ibuevanol,Ibuprofeno,12966,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,37,Analgésicos,,false,7780
+612,2/8/2026,5521879245,Jorge Rojas,236-255-2007,GEA,Plan General,Bagó+ Vital,Multivitamínico,49313,0.4,Santander,0.2,Santander - Especial Farmacias,41,Otros,,false,23670
+613,2/19/2026,1524417117,Lucas Ramos,971-714-5367,Nobis,Plan General,Actron 600,Ibuprofeno,14252,0.4,Nación,0.25,BNA+ Semana Nación,5,Analgésicos,,false,6413
+614,8/13/2025,7517374921,Sergio Flores,403-684-0329,OSPRERA,PMO,Lotrial,Enalapril,22792,0.4,Santander,0.2,Santander - Especial Farmacias,58,Cardiología,,true,10940
+615,11/12/2025,11786140754,Camila López,471-704-5846,OSECAC,PMO,Enalapril Gador,Enalapril,27111,0.4,"",0,Sin Promo,96,Cardiología,,true,16267
+616,11/10/2025,4600641217,Natalia Pereyra,422-499-8787,PAMI,PMO,Tafirol,Paracetamol,11540,0.9,Nación,0.25,BNA+ Semana Nación,87,Analgésicos,,false,865
+617,4/1/2026,11509247274,Micaela López,817-753-6641,OSECAC,PMO,"",Droga Genérica,19397,0.4,Banco Provincia,0,Sin Promo,53,Otros,,false,11638
+618,1/29/2026,2217728423,María Belén Castro,531-825-7995,PAMI,PMO,"",Droga Genérica,15712,0.9,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,72,Otros,,false,1571
+619,3/27/2026,4569378652,,816-467-9792,OSDOP,Plan General,Taural,Droga Genérica,15768,0.4,Débito,0,Sin Promo,63,Gastrointestinal,,false,9461
+620,6/28/2025,5733524382,Diego López,793-637-9243,OSECAC,PMO,Berocca,Droga Genérica,49370,0.4,Banco Provincia,0,Sin Promo,31,Vitaminas,,false,29622
+621,1/22/2026,14385169102,Lucía Sosa,198-409-2422,OSDE,510,Meiact,Droga Genérica,36816,0.4,Macro,0.1,Macro - Beneficio Select,78,Otros,,false,19881
+622,8/22/2025,9708792957,Oscar Pereyra,273-182-0937,IOMA,PMO,Rosuvastatina Bagó,Droga Genérica,18152,0.4,Efectivo,0,Sin Promo,8,Otros,,false,10891
+623,5/20/2025,8806208719,Gonzalo Romero,106-922-3859,PAMI,PMO,Atenolol,Droga Genérica,20423,0.9,Banco Provincia,0,Sin Promo,89,Cardiología,,true,2042
+624,4/20/2026,775648118,Julián Sosa,505-942-6662,Sipssa,PMIL,Actron 600,Ibuprofeno,14653,0.4,Efectivo,0,Sin Promo,100,Analgésicos,,false,8792
+625,3/2/2026,6877774127,Lucas Acosta,232-198-6938,OSMATA,PMO,Rosuvastatina Bagó,Droga Genérica,16529,0.4,Efectivo,0,Sin Promo,32,Otros,,false,9917
+626,5/7/2025,3304179653,Milagros Quiroga,191-238-5836,OSDE,510,Enalapril Gador,Enalapril,24683,0.4,Banco Provincia,0,Sin Promo,18,Cardiología,,true,14810
+627,1/18/2026,10573333441,Lourdes Pérez,982-521-2224,SIRELYF,Plan General,Bagóhepato,Droga Genérica,16137,0.4,"",0,Sin Promo,50,Gastrointestinal,,false,9682
+628,12/22/2025,13005952594,Nicolás Fernández,780-397-3444,Boreal,Plan General,Redoxon,Multivitamínico,17630,0.4,Nación,0.25,BNA+ Semana Nación,90,Vitaminas,,false,7934
+629,2/16/2026,4320667302,Gonzalo Rodríguez,607-484-3118,OSPAT,Plan General,Actron 600,Ibuprofeno,13087,0.4,Nación,0.25,BNA+ Semana Nación,16,Analgésicos,,false,5889
+630,10/6/2025,9666100179,Maximiliano Benítez,304-773-7979,CPCE Córdoba,Plan General,Enalapril Gador,Enalapril,16050,0.4,Débito,0,Sin Promo,59,Cardiología,,true,9630
+631,6/24/2025,499529997,Claudio Flores,141-981-9277,OSPECOR,Plan General,Buscapina,Droga Genérica,9040,0.4,Nación,0.25,BNA+ Semana Nación,34,Gastrointestinal,,false,4068
+632,2/17/2026,13718181176,Agustina Martínez,715-835-4766,Apross,Plan General,Bagó+ Vital,Multivitamínico,47190,0.4,Galicia,0.15,Galicia - Promo MODO,41,Otros,,false,24067
+633,1/31/2026,4315436757,Juan Carlos Díaz,813-601-1061,OSECAC,PMO,Lotrial,Enalapril,15379,0.4,Galicia,0.15,Galicia - Promo MODO,77,Cardiología,,true,7843
+634,12/3/2025,13470463154,Joaquín Sosa,256-980-5691,OSPLYFC,Plan General,Mylanta,Droga Genérica,16231,0.4,Galicia,0.15,Galicia - Promo MODO,90,Gastrointestinal,,false,8278
+635,6/30/2025,1868508714,Carina Ruiz,874-902-1365,OSECAC,PMO,Centrum,Multivitamínico,43224,0.4,Macro,0.1,Macro - Beneficio Select,52,Vitaminas,,false,23341
+636,9/3/2025,2789163787,Victoria Gómez,184-360-0383,OSPAT,Plan General,Centrum,Multivitamínico,39792,0.4,Débito,0,Sin Promo,49,Vitaminas,,false,23875
+637,1/3/2026,5074306056,Daniela Herrera,469-666-8652,OSIT,Plan General,Bagó+ Vital,Multivitamínico,37819,0.4,Débito,0,Sin Promo,100,Otros,,false,22691
+638,5/6/2025,3004626886,Gustavo Ramos,960-728-5296,OSPECOR,Plan General,Atenolol,Droga Genérica,28951,0.4,Efectivo,0,Sin Promo,43,Cardiología,,true,17371
+639,11/15/2025,10364020152,Juana González,487-125-5162,OSITAC,Plan General,Amoxidal,Amoxicilina,41241,0.4,Santander,0.2,Santander - Especial Farmacias,41,Antibióticos,,true,19796
+640,11/9/2025,3876890095,Oscar Martínez,348-907-2784,UOCRA,PMO,Alprazolam,Droga Genérica,16798,0.4,Nación,0.25,BNA+ Semana Nación,80,Otros,,false,7559
+641,7/26/2025,4627049625,Mirta López,805-343-6046,Particular,Plan General,Meiact,Droga Genérica,44482,0,Débito,0,Sin Promo,20,Otros,,false,44482
+642,7/21/2025,4077967885,Joaquín Gutiérrez,968-509-4343,Omint,Plan General,Mylanta,Droga Genérica,13126,0.4,Galicia,0.15,Galicia - Promo MODO,55,Gastrointestinal,,false,6694
+643,3/6/2026,4359928382,Daniela Fernández,611-681-2990,OSUTHGRA,Plan General,Ponstan,Droga Genérica,12892,0.4,Macro,0.1,Macro - Beneficio Select,45,Otros,,false,6962
+644,12/31/2025,5388342820,Bautista García,355-657-9793,Omint,Plan General,Ibupirac,Ibuprofeno,12357,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,9,Analgésicos,,false,7414
+645,7/7/2025,1195273099,Ariel Pérez,850-141-2856,OSIT,Plan General,"",Droga Genérica,11302,0.4,Banco Provincia,0,Sin Promo,92,Otros,,false,6781
+646,9/18/2025,9663204671,Ariel Medina,409-536-6003,Federada Salud,Plan General,Redoxon,Multivitamínico,12384,0.4,Galicia,0.15,Galicia - Promo MODO,80,Vitaminas,,false,6316
+647,2/2/2026,951686074,Morena Medina,779-528-2165,Omint,Plan General,Reliverán,Metoclopramida,14540,0.4,Galicia,0.15,Galicia - Promo MODO,51,Otros,,false,7415
+648,11/17/2025,9319485150,Facundo Ruiz,750-142-4254,Swiss Medical,SMG70,Rosuvastatina Bagó,Droga Genérica,24234,0.4,"",0,Sin Promo,65,Otros,,false,14540
+649,2/24/2026,15165110993,Fabián Rojas,898-268-0620,Mutual Médica Concordia,Plan General,Buscapina,Droga Genérica,13344,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,69,Gastrointestinal,,false,8006
+650,7/13/2025,8488509531,Maximiliano Giménez,406-621-4836,OSPLAD,Plan General,Kitadol,Paracetamol,10549,0.4,Banco Provincia,0,Sin Promo,80,Otros,,false,6329
+651,3/4/2026,6912649975,Nicolás Rojas,361-819-0953,Swiss Medical,SMG40,Berocca,Droga Genérica,35641,0.4,Banco Provincia,0,Sin Promo,53,Vitaminas,,false,21385
+652,2/15/2026,8895702363,Mirta García,981-874-6728,PAMI,PMO,Losartán,Droga Genérica,14777,0.9,Santander,0.2,Santander - Especial Farmacias,17,Otros,,false,1182
+653,5/27/2025,11155406270,Gonzalo Fernández,198-258-5813,Federada Salud,Plan General,Optamox,Amoxicilina,41581,0.4,Débito,0,Sin Promo,49,Antibióticos,,true,24949
+654,2/10/2026,5668976726,Paola López,601-671-8380,Particular,Plan General,Alikal,Droga Genérica,11249,0,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,63,Otros,,false,11249
+655,4/10/2026,11201575042,Natalia Martínez,683-532-9999,Jerárquicos Salud,Plan General,Ibuevanol,Ibuprofeno,13119,0.4,Débito,0,Sin Promo,99,Analgésicos,,false,7871
+656,9/19/2025,6508139844,Roxana Rojas,168-411-6084,PAMI,PMO,Gadovist,Gadobutrol,19533,0.9,Banco Provincia,0,Sin Promo,98,Otros,,false,1953
+657,11/3/2025,10597166373,Florencia Acosta,542-502-5208,OSAM,Plan General,Reliverán,Metoclopramida,16766,0.4,"",0,Sin Promo,41,Otros,,false,10060
+658,11/23/2025,6418256654,Santiago Gutiérrez,879-621-1180,Luis Pasteur,Plan General,Actron 600,Ibuprofeno,12167,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,15,Analgésicos,,false,7300
+659,6/2/2025,14911058907,Maximiliano Pereyra,414-508-0592,Swiss Medical,SMG40,Bagóhepato,Droga Genérica,18526,0.4,Efectivo,0,Sin Promo,36,Gastrointestinal,,false,11116
+660,7/2/2025,6486537783,Estela González,356-473-4657,Hospital Privado,Plan General,Centrum,Multivitamínico,46723,0.4,Macro,0.1,Macro - Beneficio Select,68,Vitaminas,,false,25230
+661,4/26/2025,6196439338,Florencia Díaz,555-633-8452,OSDE,410,Ponstan,Droga Genérica,17664,0.4,Efectivo,0,Sin Promo,16,Otros,,false,10598
+662,2/14/2026,6192276381,Milagros Gutiérrez,664-532-3809,PAMI,PMO,Atenolol,Droga Genérica,24907,0.9,Banco Provincia,0,Sin Promo,57,Cardiología,,true,2491
+663,11/4/2025,6186336456,Juan Carlos Acosta,886-393-8293,Swiss Medical,SMG20,Bayaspirina,Droga Genérica,17358,0.4,Galicia,0.15,Galicia - Promo MODO,13,Analgésicos,,false,8853
+664,6/30/2025,3431498991,Agustina González,219-632-0584,OSPRERA,PMO,Rosuvastatina Bagó,Droga Genérica,21322,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,3,Otros,,false,12793
+665,6/6/2025,7636062885,Agustina Rojas,824-295-8660,SanCor Salud,3000,Tafirol,Paracetamol,10968,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,66,Analgésicos,,false,6581
+666,4/12/2026,6334426178,Oscar Fernández,391-201-7513,IOSFA,Plan General,Bagó+ Vital,Multivitamínico,46871,0.4,Macro,0.1,Macro - Beneficio Select,63,Otros,,false,25310
+667,8/21/2025,11141352441,Gustavo Gutiérrez,423-532-4803,OSPE,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,10309,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,24,Otros,,false,6185
+668,7/20/2025,14832216422,Valentina Torres,642-175-1507,ANDAR,Plan General,Amoxidal,Amoxicilina,42603,0.4,Nación,0.25,BNA+ Semana Nación,97,Antibióticos,,true,19171
+669,12/27/2025,12698192936,Marcelo Gómez,230-972-5785,OSPECOR,Plan General,Gadovist,Gadobutrol,20837,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,71,Otros,,false,12502
+670,7/31/2025,14263537603,Jorgelina Sosa,715-916-6539,ASE,Plan General,Bagóhepato,Droga Genérica,13387,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,24,Gastrointestinal,,false,8032
+671,9/25/2025,13647002497,Valentina Giménez,394-478-0779,Sipssa,P2MIL,Amoxidal,Amoxicilina,43816,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,34,Antibióticos,,true,26290
+672,8/23/2025,976078561,Joaquín López,844-834-6823,Nobis Salud,Plan General,Amoxidal,Amoxicilina,33485,0.4,"",0,Sin Promo,86,Antibióticos,,true,20091
+673,9/14/2025,9856407182,Julián Díaz,926-968-5066,OSFE,Plan General,Gadovist,Gadobutrol,21315,0.4,Macro,0.1,Macro - Beneficio Select,50,Otros,,false,11510
+674,2/19/2026,6398486855,Julián Benítez,504-825-4786,OSDE,510,Losartán,Droga Genérica,19644,0.4,Galicia,0.15,Galicia - Promo MODO,5,Otros,,false,10018
+675,10/16/2025,10470449806,Alejandro Torres,338-514-9220,Prevención Salud,Plan General,Enalapril Gador,Enalapril,18207,0.4,Efectivo,0,Sin Promo,15,Cardiología,,true,10924
+676,3/30/2026,14650900597,Lucas Álvarez,937-518-6636,Nobis Salud,Plan General,Alprazolam,Droga Genérica,12449,0.4,"",0,Sin Promo,64,Otros,,false,7469
+677,5/20/2025,11247396260,María Belén Quiroga,462-756-6922,Apross,Plan General,Ponstan,Droga Genérica,16085,0.4,Efectivo,0,Sin Promo,32,Otros,,false,9651
+678,7/8/2025,7857734750,Romina Sánchez,165-610-2561,OSPLAD,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,19175,0.4,"",0,Sin Promo,16,Otros,,false,11505
+679,12/11/2025,14896045269,Florencia Acosta,117-719-4411,CPCE Córdoba,Plan General,Bagóhepato,Droga Genérica,11029,0.4,Macro,0.1,Macro - Beneficio Select,84,Gastrointestinal,,false,5956
+680,5/10/2025,14548042415,Gustavo Aguirre,584-610-9187,Particular,Plan General,Lotrial,Enalapril,15662,0,Galicia,0.15,Galicia - Promo MODO,33,Cardiología,,true,13313
+681,8/7/2025,1986585796,Horacio Rodríguez,534-126-7846,OSECAC,PMO,"",Droga Genérica,19306,0.4,Santander,0.2,Santander - Especial Farmacias,46,Otros,,false,9267
+682,9/26/2025,668667536,Yanina González,130-540-3527,OSDEPYM,410,Kitadol,Paracetamol,13316,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,86,Otros,,false,7990
+683,2/11/2026,14115041854,Rodrigo Pereyra,905-347-3249,OSDE,510,Bagó+ Vital,Multivitamínico,38596,0.4,Macro,0.1,Macro - Beneficio Select,95,Otros,,false,20842
+684,3/12/2026,705309387,Joaquín Gómez,576-433-6418,OSIT,Plan General,Berocca,Droga Genérica,46826,0.4,Nación,0.25,BNA+ Semana Nación,84,Vitaminas,,false,21072
+685,1/21/2026,5130266847,Yanina Pérez,446-212-3371,Hospital Privado,Plan General,Mylanta,Droga Genérica,11533,0.4,"",0,Sin Promo,20,Gastrointestinal,,false,6920
+686,3/25/2026,3126398016,Marcela Quiroga,140-892-5447,ASE,Plan General,Optamox,Amoxicilina,38189,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,50,Antibióticos,,true,22913
+687,4/16/2026,11753582403,Alejandro Torres,802-572-0903,PAMI,PMO,Optamox,Amoxicilina,36170,0.9,Efectivo,0,Sin Promo,59,Antibióticos,,true,3617
+688,4/21/2026,11754033840,Martina Sánchez,714-731-1774,OSECAC,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,14451,0.4,Banco Provincia,0,Sin Promo,32,Otros,,false,8671
+689,10/13/2025,2578574155,Horacio Martínez,990-284-7857,OSUTHGRA,Plan General,Centrum,Multivitamínico,42849,0.4,Nación,0.25,BNA+ Semana Nación,31,Vitaminas,,false,19282
+690,9/30/2025,7146570157,Agustina Gutiérrez,697-657-4171,ANDAR,Plan General,Vastarel,Droga Genérica,19998,0.4,Banco Provincia,0,Sin Promo,38,Cardiología,,true,11999
+691,5/27/2025,13346629498,Lucas Martínez,883-622-3917,Sipssa,P4MIL,Ibuevanol,Ibuprofeno,11965,0.4,Galicia,0.15,Galicia - Promo MODO,26,Analgésicos,,false,6102
+692,12/5/2025,12901772341,José Luis Romero,781-374-1322,PAMI,PMO,Ibupirac,Ibuprofeno,9232,0.9,Santander,0.2,Santander - Especial Farmacias,41,Analgésicos,,false,739
+693,8/17/2025,109418407,Juan Carlos Martínez,116-904-3716,ASE,Plan General,Centrum,Multivitamínico,36829,0.4,Macro,0.1,Macro - Beneficio Select,94,Vitaminas,,false,19888
+694,7/6/2025,13659547856,Micaela Flores,472-691-7177,OSECAC,PMO,Ciriax,Droga Genérica,11910,0.4,Nación,0.25,BNA+ Semana Nación,54,Otros,,false,5360
+695,5/7/2025,4442597749,Florencia Ramos,271-917-6911,Apross,Plan 360,Vastarel,Droga Genérica,16448,0.4,Débito,0,Sin Promo,94,Cardiología,,true,9869
+696,10/23/2025,12224277033,Diego Ortiz,566-221-7261,OSDE,410,Actron 600,Ibuprofeno,13368,0.4,Macro,0.1,Macro - Beneficio Select,56,Analgésicos,,false,7219
+697,8/1/2025,15330525679,Leandro Castro,267-805-0098,Met,One,Gadovist,Gadobutrol,20466,0.4,Santander,0.2,Santander - Especial Farmacias,57,Otros,,false,9824
+698,10/21/2025,5197585089,María Belén Ramos,701-832-0483,OSSURRBAC,Plan General,Alprazolam,Droga Genérica,19597,0.4,"",0,Sin Promo,23,Otros,,false,11758
+699,1/13/2026,4697402747,Lucas Gutiérrez,376-648-9737,OSDE,510,Alikal,Droga Genérica,15971,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,70,Otros,,false,9583
+700,11/24/2025,12174312451,Ariel Flores,732-383-2689,Swiss Medical,SMG40,Clonazepam (Venta Bajo Receta),Droga Genérica,16897,0.4,Nación,0.25,BNA+ Semana Nación,46,Otros,,false,7604
+701,1/19/2026,3337468,Silvina Álvarez,495-808-4529,Ensalud,Plan General,Alikal,Droga Genérica,14845,0.4,Efectivo,0,Sin Promo,71,Otros,,false,8907
+702,12/8/2025,14328520512,Martina Pérez,224-116-9235,OSPRERA,PMO,Vastarel,Droga Genérica,14425,0.4,"",0,Sin Promo,77,Cardiología,,true,8655
+703,12/10/2025,757593048,Romina Pérez,956-371-9697,ANDAR,Plan General,Taural,Droga Genérica,11254,0.4,Galicia,0.15,Galicia - Promo MODO,66,Gastrointestinal,,false,5740
+704,12/4/2025,3831750421,Paola Benítez,980-284-3236,Swiss Medical,SMG70,Reliverán,Metoclopramida,9788,0.4,Efectivo,0,Sin Promo,86,Otros,,false,5873
+705,8/20/2025,7309351407,José Luis Ortiz,144-752-1879,Parque Salud,Plan General,Ibuevanol,Ibuprofeno,9032,0.4,Macro,0.1,Macro - Beneficio Select,84,Analgésicos,,false,4877
+706,7/8/2025,1517903771,Federico Díaz,379-445-8344,OSAM,Plan General,Ibupirac,Ibuprofeno,8992,0.4,Débito,0,Sin Promo,20,Analgésicos,,false,5395
+707,10/8/2025,10570144944,Maximiliano Ramos,603-991-6150,SIRELYF,Plan General,Alikal,Droga Genérica,10700,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,89,Otros,,false,6420
+708,1/24/2026,6309707288,Federico Giménez,197-253-4521,Apross,Plan General,Optamox,Amoxicilina,26192,0.4,Santander,0.2,Santander - Especial Farmacias,15,Antibióticos,,true,12572
+709,4/22/2026,3867533905,Santiago Pereyra,724-932-0862,OSECAC,PMO,Ibupirac,Ibuprofeno,10883,0.4,Macro,0.1,Macro - Beneficio Select,38,Analgésicos,,false,5877
+710,8/2/2025,6961624710,Diego Ruiz,961-689-7375,Apross,Plan General,Buscapina,Droga Genérica,9894,0.4,Galicia,0.15,Galicia - Promo MODO,78,Gastrointestinal,,false,5046
+711,4/16/2026,444758265,Antonella Rojas,163-484-4843,OSFE,Plan General,Diclofenac Casasco,Droga Genérica,18904,0.4,Santander,0.2,Santander - Especial Farmacias,62,Otros,,false,9074
+712,1/30/2026,4828316654,Valentina Rodríguez,520-833-4529,Met,Diamond,Gadovist,Gadobutrol,17517,0.4,Santander,0.2,Santander - Especial Farmacias,67,Otros,,false,8408
+713,7/14/2025,222937596,Ariel Acosta,317-701-1128,OSPOCE,Plan General,Tafirol,Paracetamol,13986,0.4,"",0,Sin Promo,67,Analgésicos,,false,8392
+714,4/26/2025,6093250916,Sergio Sosa,961-703-6640,Medifé,Plan General,Mylanta,Droga Genérica,17455,0.4,Débito,0,Sin Promo,100,Gastrointestinal,,false,10473
+715,5/1/2025,4010849767,Gustavo Gutiérrez,546-911-3819,Caja de Abogados de Córdoba,Plan General,Graneodín,Droga Genérica,14542,0.4,Macro,0.1,Macro - Beneficio Select,71,Otros,,false,7853
+716,7/22/2025,9717950284,Micaela Medina,642-568-5222,Sipssa,P2MIL,Ciriax,Droga Genérica,18526,0.4,Efectivo,0,Sin Promo,91,Otros,,false,11116
+717,8/26/2025,9802380789,Marcelo Aguirre,478-293-6146,OSPLAD,Plan General,Rosuvastatina Bagó,Droga Genérica,28734,0.4,Santander,0.2,Santander - Especial Farmacias,59,Otros,,false,13792
+718,2/7/2026,13427520769,Giuliana Acosta,665-828-4142,OSIT,Plan General,Enalapril Gador,Enalapril,28381,0.4,Banco Provincia,0,Sin Promo,80,Cardiología,,true,17029
+719,3/15/2026,12992783029,Estela Quiroga,805-675-3752,OSECAC,PMO,Gadovist,Gadobutrol,27560,0.4,Santander,0.2,Santander - Especial Farmacias,64,Otros,,false,13229
+720,5/29/2025,5008017845,María Belén Pérez,325-706-4879,OSECAC,PMO,Kitadol,Paracetamol,11773,0.4,Banco Provincia,0,Sin Promo,87,Otros,,false,7064
+721,7/20/2025,7757400440,Ariel Acosta,120-898-6022,Swiss Medical,SMG20,Kitadol,Paracetamol,15442,0.4,Galicia,0.15,Galicia - Promo MODO,98,Otros,,false,7875
+722,3/30/2026,12056199910,Solange Martínez,310-246-0387,OSFE,Plan General,Bagó+ Vital,Multivitamínico,47649,0.4,Galicia,0.15,Galicia - Promo MODO,21,Otros,,false,24301
+723,11/13/2025,11890060797,Carina Gómez,709-749-9437,PAMI,PMO,Amoxidal,Amoxicilina,33560,0.9,Nación,0.25,BNA+ Semana Nación,98,Antibióticos,,true,2517
+724,5/14/2025,6286762345,Horacio González,448-690-6508,OSPLYFC,Plan General,Bagóhepato,Droga Genérica,10192,0.4,Nación,0.25,BNA+ Semana Nación,97,Gastrointestinal,,false,4586
+725,4/26/2025,15592510761,Valentina Álvarez,285-645-7463,Galeno,Azul 200,"",Droga Genérica,11031,0.4,"",0,Sin Promo,85,Otros,,false,6619
+726,4/8/2026,5181591482,Joaquín Gómez,887-682-7195,SIRELYF,Plan General,Ibupirac,Ibuprofeno,14370,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,59,Analgésicos,,false,8622
+727,7/2/2025,13254077282,Graciela Aguirre,767-479-6149,OSECAC,PMO,Mylanta,Droga Genérica,16539,0.4,Galicia,0.15,Galicia - Promo MODO,61,Gastrointestinal,,false,8435
+728,10/3/2025,11777546536,Rodrigo Gómez,341-823-8499,OSECAC,PMO,Diclofenac Casasco,Droga Genérica,16469,0.4,Débito,0,Sin Promo,47,Otros,,false,9881
+729,3/18/2026,4140524155,Juana Flores,219-101-0838,OSECAC,PMO,Alikal,Droga Genérica,17228,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,40,Otros,,false,10337
+730,1/19/2026,3639826156,Mirta Sosa,501-428-7828,Met,Diamond,Optamox,Amoxicilina,25538,0.4,Débito,0,Sin Promo,38,Antibióticos,,true,15323
+731,9/11/2025,28697131,Silvina Medina,915-990-0398,Apross,Plan 360,Buscapina,Droga Genérica,14161,0.4,Débito,0,Sin Promo,21,Gastrointestinal,,false,8497
+732,4/29/2025,6060203719,Juan Carlos Gómez,574-154-9417,Federada Salud,Plan General,Ciriax,Droga Genérica,14662,0.4,Efectivo,0,Sin Promo,61,Otros,,false,8797
+733,2/19/2026,2536711109,Morena Aguirre,764-921-7906,DASPU,Plan General,Vastarel,Droga Genérica,11669,0.4,Macro,0.1,Macro - Beneficio Select,56,Cardiología,,true,6301
+734,12/10/2025,6761907419,Bautista Álvarez,572-571-5473,UOCRA,PMO,"",Droga Genérica,11091,0.4,Débito,0,Sin Promo,25,Otros,,false,6655
+735,9/16/2025,8112827034,Lucía Sosa,669-648-5091,OSDE,510,Centrum,Multivitamínico,33403,0.4,Santander,0.2,Santander - Especial Farmacias,47,Vitaminas,,false,16033
+736,5/5/2025,1550126566,Romina Romero,516-253-2118,OSECAC,PMO,Atenolol,Droga Genérica,17615,0.4,Efectivo,0,Sin Promo,95,Cardiología,,true,10569
+737,11/22/2025,9364319674,Valentina Torres,704-417-3430,OSUTHGRA,Plan General,Ibupirac,Ibuprofeno,9465,0.4,Banco Provincia,0,Sin Promo,57,Analgésicos,,false,5679
+738,9/2/2025,8354042539,Martina Gómez,156-762-3795,Federada Salud,Plan General,Meiact,Droga Genérica,27796,0.4,Macro,0.1,Macro - Beneficio Select,24,Otros,,false,15010
+739,11/13/2025,12571699954,Ariel Rodríguez,701-874-5635,IOMA,PMO,Taural,Droga Genérica,19028,0.4,Macro,0.1,Macro - Beneficio Select,74,Gastrointestinal,,false,10275
+740,1/3/2026,2882214088,Natalia Castro,520-744-3515,SIRELYF,Plan General,Reliverán,Metoclopramida,13764,0.4,"",0,Sin Promo,75,Otros,,false,8258
+741,10/18/2025,2273952723,Fabián González,509-938-4962,OSDEPYM,410,Ibuevanol,Ibuprofeno,9342,0.4,Nación,0.25,BNA+ Semana Nación,2,Analgésicos,,false,4204
+742,3/13/2026,13279148112,Juana Acosta,404-928-6592,Ensalud,Plan General,Diclofenac Casasco,Droga Genérica,16853,0.4,Santander,0.2,Santander - Especial Farmacias,73,Otros,,false,8089
+743,10/10/2025,908146168,Lucía Quiroga,257-148-1177,OSPRERA,PMO,Bagóhepato,Droga Genérica,19703,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,36,Gastrointestinal,,false,11822
+744,6/29/2025,7803576671,Emiliano García,414-499-2853,Particular,Plan General,Atenolol,Droga Genérica,19695,0,Efectivo,0,Sin Promo,46,Cardiología,,true,19695
+745,4/10/2026,8044838049,Fabián Acosta,226-502-0456,OSDE,510,Graneodín,Droga Genérica,17914,0.4,"",0,Sin Promo,77,Otros,,false,10748
+746,1/10/2026,1803030658,Antonella Aguirre,764-964-8256,Apross,Plan 360,Amoxidal,Amoxicilina,35503,0.4,Macro,0.1,Macro - Beneficio Select,74,Antibióticos,,true,19172
+747,7/29/2025,8211301257,Roxana López,975-321-4295,Met,Gold,Bagóhepato,Droga Genérica,19211,0.4,Galicia,0.15,Galicia - Promo MODO,86,Gastrointestinal,,false,9798
+748,5/26/2025,10387026695,Lourdes Ramos,863-242-8472,GEA,Plan General,Mylanta,Droga Genérica,11175,0.4,Galicia,0.15,Galicia - Promo MODO,14,Gastrointestinal,,false,5699
+749,12/7/2025,6016610861,Gonzalo Pereyra,921-229-9695,CPCE Córdoba,Plan General,Losartán,Droga Genérica,13406,0.4,Santander,0.2,Santander - Especial Farmacias,13,Otros,,false,6435
+750,3/29/2026,7124413452,Daniela Ortiz,751-755-7265,OSPLAD,Plan General,Graneodín,Droga Genérica,18465,0.4,Efectivo,0,Sin Promo,15,Otros,,false,11079
+751,9/20/2025,9030524647,Mirta Flores,444-774-3152,Parque Salud,Plan General,Redoxon,Multivitamínico,18254,0.4,"",0,Sin Promo,82,Vitaminas,,false,10952
+752,6/25/2025,6674460473,Mirta Pereyra,371-978-5940,Nobis,Plan General,Ciriax,Droga Genérica,10671,0.4,Débito,0,Sin Promo,34,Otros,,false,6403
+753,2/23/2026,2133385757,Victoria Fernández,267-400-4709,ANDAR,Plan General,Graneodín,Droga Genérica,12426,0.4,Débito,0,Sin Promo,78,Otros,,false,7456
+754,11/18/2025,7010627797,Nicolás Acosta,416-933-1963,DASPU,Plan General,Graneodín,Droga Genérica,12310,0.4,Débito,0,Sin Promo,100,Otros,,false,7386
+755,12/27/2025,6618832715,Roxana Herrera,516-718-6861,Apross,Plan 360,Mylanta,Droga Genérica,12940,0.4,"",0,Sin Promo,20,Gastrointestinal,,false,7764
+756,4/26/2025,14829170462,Leandro Díaz,713-691-0930,Caja Notarial de Córdoba,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,17806,0.4,Débito,0,Sin Promo,19,Otros,,false,10684
+757,9/30/2025,7615761568,Maximiliano Gómez,905-125-4831,Swiss Medical,SMG40,Alprazolam,Droga Genérica,12502,0.4,Galicia,0.15,Galicia - Promo MODO,5,Otros,,false,6376
+758,4/27/2025,5461068208,Jorgelina Pérez,373-985-7147,Swiss Medical,SMG70,Rosuvastatina Bagó,Droga Genérica,27736,0.4,Nación,0.25,BNA+ Semana Nación,21,Otros,,false,12481
+759,8/30/2025,3019536920,Camila Álvarez,505-844-5949,PAMI,PMO,Berocca,Droga Genérica,51623,0.9,Macro,0.1,Macro - Beneficio Select,70,Vitaminas,,false,4646
+760,6/9/2025,3912328350,Matías Aguirre,669-873-4418,Hospital Privado,Plan General,Lotrial,Enalapril,18075,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,72,Cardiología,,true,10845
+761,5/4/2025,5458837454,Paola Aguirre,961-936-0414,OSECAC,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,16809,0.4,Nación,0.25,BNA+ Semana Nación,82,Otros,,false,7564
+762,6/11/2025,12818657767,Sofía Medina,533-555-6393,Nobis,Plan General,Gadovist,Gadobutrol,24239,0.4,"",0,Sin Promo,77,Otros,,false,14543
+763,3/13/2026,14579703513,Roxana Castro,860-419-0702,OSDE,510,Tafirol,Paracetamol,13970,0.4,"",0,Sin Promo,70,Analgésicos,,false,8382
+764,4/2/2026,3463174288,Giuliana Álvarez,140-956-9381,Apross,Plan General,Taural,Droga Genérica,19368,0.4,Nación,0.25,BNA+ Semana Nación,45,Gastrointestinal,,false,8716
+765,5/8/2025,12420511379,Romina Ortiz,889-874-6468,Apross,Plan 360,Diclofenac Casasco,Droga Genérica,13857,0.4,Banco Provincia,0,Sin Promo,48,Otros,,false,8314
+766,7/20/2025,5038853743,Juana Sosa,682-605-1330,OSECAC,PMO,Lotrial,Enalapril,24853,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,9,Cardiología,,true,14912
+767,9/19/2025,10065465555,Roxana Castro,559-973-9707,Swiss Medical,SMG40,Graneodín,Droga Genérica,19805,0.4,Santander,0.2,Santander - Especial Farmacias,39,Otros,,false,9506
+768,9/1/2025,13413669426,Florencia Giménez,293-853-5381,Swiss Medical,SMG70,Losartán,Droga Genérica,17944,0.4,Efectivo,0,Sin Promo,48,Otros,,false,10766
+769,10/6/2025,7492548085,Milagros Díaz,613-981-3610,OSECAC,PMO,Tafirol,Paracetamol,8342,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,10,Analgésicos,,false,5005
+770,10/4/2025,14617441618,Leandro Gutiérrez,669-715-7322,Bramed,Plan General,Ciriax,Droga Genérica,11025,0.4,Débito,0,Sin Promo,96,Otros,,false,6615
+771,7/25/2025,11743871931,Marcelo Díaz,342-383-2099,OSPE,Plan General,Amoxidal,Amoxicilina,33264,0.4,Débito,0,Sin Promo,53,Antibióticos,,true,19958
+772,1/27/2026,14960869074,Lourdes Fernández,643-393-0223,OSDE,410,Diclofenac Casasco,Droga Genérica,19442,0.4,Débito,0,Sin Promo,60,Otros,,false,11665
+773,5/29/2025,12276587835,Morena Rodríguez,584-840-5884,PAMI,PMO,Ibuevanol,Ibuprofeno,14897,0.9,Efectivo,0,Sin Promo,22,Analgésicos,,false,1490
+774,7/24/2025,2127057929,Claudio García,392-205-2027,Caja de Abogados de Córdoba,Plan General,Sertal Compuesto,Droga Genérica,11284,0.4,Macro,0.1,Macro - Beneficio Select,64,Gastrointestinal,,false,6093
+775,11/29/2025,14181602562,Martina Aguirre,476-756-3863,OSECAC,PMO,Buscapina,Droga Genérica,13629,0.4,Banco Provincia,0,Sin Promo,63,Gastrointestinal,,false,8177
+776,9/26/2025,9867327902,Natalia Ruiz,745-249-3452,OSPOCE,Plan General,Graneodín,Droga Genérica,17826,0.4,Galicia,0.15,Galicia - Promo MODO,60,Otros,,false,9091
+777,5/28/2025,11733708698,Juan Carlos Torres,784-243-2135,OSUTHGRA,Plan General,Alikal,Droga Genérica,17927,0.4,Santander,0.2,Santander - Especial Farmacias,16,Otros,,false,8605
+778,1/10/2026,3980838468,Daniela Quiroga,694-955-5438,OSCHOCA,Plan General,Ibuevanol,Ibuprofeno,13471,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,37,Analgésicos,,false,8083
+779,4/6/2026,5079873671,Joaquín Quiroga,455-926-2594,Bramed,Plan General,Sertal Compuesto,Droga Genérica,11696,0.4,Débito,0,Sin Promo,90,Gastrointestinal,,false,7018
+780,8/14/2025,6099635397,Gustavo García,804-618-7851,OSIT,Plan General,Losartán,Droga Genérica,18552,0.4,"",0,Sin Promo,48,Otros,,false,11131
+781,2/16/2026,3062568729,Giuliana Herrera,291-336-9571,OSPAT,Plan General,Rosuvastatina Bagó,Droga Genérica,21462,0.4,"",0,Sin Promo,35,Otros,,false,12877
+782,10/24/2025,7366652297,Bautista Martínez,992-797-4267,OSPE,Plan General,Amoxidal,Amoxicilina,34681,0.4,Galicia,0.15,Galicia - Promo MODO,60,Antibióticos,,true,17687
+783,7/20/2025,4117336688,Milagros Medina,701-307-8949,DASUTEN (UTN),Plan General,Kitadol,Paracetamol,11515,0.4,Efectivo,0,Sin Promo,78,Otros,,false,6909
+784,10/4/2025,11102544166,,362-215-7993,Hospital Privado,Plan General,Taural,Droga Genérica,17870,0.4,Macro,0.1,Macro - Beneficio Select,57,Gastrointestinal,,false,9650
+785,9/1/2025,4414828931,,310-389-2261,Swiss Medical,SMG70,Mylanta,Droga Genérica,17337,0.4,Santander,0.2,Santander - Especial Farmacias,71,Gastrointestinal,,false,8322
+786,3/8/2026,400582964,Sergio Torres,295-130-7472,Boreal,Plan General,Berocca,Droga Genérica,54111,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,75,Vitaminas,,false,32467
+787,8/23/2025,11991312034,Juana Fernández,533-475-1973,Nobis,Plan General,Actron 600,Ibuprofeno,12649,0.4,Galicia,0.15,Galicia - Promo MODO,45,Analgésicos,,false,6451
+788,2/19/2026,3665556646,Juan Carlos Acosta,610-292-8342,OSUTHGRA,Plan General,Ibupirac,Ibuprofeno,8086,0.4,Nación,0.25,BNA+ Semana Nación,59,Analgésicos,,false,3639
+789,1/14/2026,6723398075,Paola Ramírez,863-589-7553,PAMI,PMO,Gadovist,Gadobutrol,25931,0.9,Efectivo,0,Sin Promo,49,Otros,,false,2593
+790,12/3/2025,14726006431,Horacio Giménez,988-608-5368,Bramed,Plan General,Bagóhepato,Droga Genérica,10047,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,98,Gastrointestinal,,false,6028
+791,9/30/2025,5967693013,Carina Ramírez,915-810-9699,OSPLYFC,Plan General,Vastarel,Droga Genérica,16007,0.4,Nación,0.25,BNA+ Semana Nación,84,Cardiología,,true,7203
+792,2/22/2026,13454436439,Roberto Rodríguez,583-343-1080,OSMATA,PMO,Bagó+ Vital,Multivitamínico,45264,0.4,Débito,0,Sin Promo,25,Otros,,false,27158
+793,9/5/2025,11371151442,Marcela Castro,859-552-0822,OSITAC,Plan General,Rosuvastatina Bagó,Droga Genérica,17857,0.4,Débito,0,Sin Promo,66,Otros,,false,10714
+794,9/12/2025,9912135521,Jorge Aguirre,322-194-8986,ANDAR,Plan General,Gadovist,Gadobutrol,25191,0.4,Galicia,0.15,Galicia - Promo MODO,38,Otros,,false,12847
+795,1/18/2026,886998869,Rodrigo González,232-533-1850,Swiss Medical,SMG40,Losartán,Droga Genérica,12782,0.4,Macro,0.1,Macro - Beneficio Select,11,Otros,,false,6902
+796,5/27/2025,12437446116,Julián Flores,713-141-3891,Jerárquicos Salud,Plan General,Losartán,Droga Genérica,11026,0.4,Débito,0,Sin Promo,64,Otros,,false,6616
+797,5/29/2025,14354475183,Antonella Fernández,313-188-6850,Apross,Plan 360,Alprazolam,Droga Genérica,19750,0.4,Débito,0,Sin Promo,40,Otros,,false,11850
+798,10/3/2025,9629262986,Julián Quiroga,747-491-2593,OSDE,510,Rosuvastatina Bagó,Droga Genérica,23478,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,2,Otros,,false,14087
+799,11/8/2025,5040887961,Romina Fernández,563-946-0417,OSDE,310,Taural,Droga Genérica,10315,0.4,Débito,0,Sin Promo,50,Gastrointestinal,,false,6189
+800,2/13/2026,15537617232,Alejandro Giménez,623-256-0175,OSDE,410,Lotrial,Enalapril,22888,0.4,Galicia,0.15,Galicia - Promo MODO,63,Cardiología,,true,11673
+801,10/19/2025,5107096067,Gonzalo Acosta,606-188-4131,PAMI,PMO,Atenolol,Droga Genérica,18904,0.9,Efectivo,0,Sin Promo,57,Cardiología,,true,1890
+802,4/18/2026,5260467517,Matías González,442-226-4523,PAMI,PMO,"",Droga Genérica,14243,0.9,Débito,0,Sin Promo,89,Otros,,false,1424
+803,7/31/2025,229751242,Jorgelina Acosta,988-619-7083,Ensalud,Plan General,"",Droga Genérica,16296,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,29,Otros,,false,9778
+804,11/15/2025,14463423865,José Luis Torres,542-307-9387,OSPAT,Plan General,Bayaspirina,Droga Genérica,19405,0.4,"",0,Sin Promo,77,Analgésicos,,false,11643
+805,4/10/2026,7018747655,Facundo García,944-324-1662,UOCRA,PMO,Enalapril Gador,Enalapril,26170,0.4,Banco Provincia,0,Sin Promo,94,Cardiología,,true,15702
+806,7/18/2025,5779879685,Morena Pérez,804-953-0569,Swiss Medical,SMG70,Enalapril Gador,Enalapril,20982,0.4,Banco Provincia,0,Sin Promo,87,Cardiología,,true,12589
+807,5/31/2025,1847586314,Roberto Aguirre,711-657-4941,OSDE,410,Redoxon,Multivitamínico,11850,0.4,Banco Provincia,0,Sin Promo,24,Vitaminas,,false,7110
+808,7/5/2025,13741490506,Sergio Aguirre,849-869-5886,Particular,Plan General,Bayaspirina,Droga Genérica,15992,0,Nación,0.25,BNA+ Semana Nación,7,Analgésicos,,false,11994
+809,7/12/2025,11210038277,Juana Sánchez,551-114-6963,PAMI,PMO,Actron 600,Ibuprofeno,12542,0.9,Banco Provincia,0,Sin Promo,86,Analgésicos,,false,1254
+810,1/3/2026,12670089722,María Belén Sosa,408-282-2059,SanCor Salud,4000,Ciriax,Droga Genérica,19198,0.4,Débito,0,Sin Promo,58,Otros,,false,11519
+811,11/5/2025,14956057591,Milagros García,956-550-1250,DASUTEN (UTN),Plan General,Vastarel,Droga Genérica,11197,0.4,Macro,0.1,Macro - Beneficio Select,89,Cardiología,,true,6046
+812,10/18/2025,8570720852,Jorgelina Díaz,488-408-7712,PAMI,PMO,Ponstan,Droga Genérica,18113,0.9,Santander,0.2,Santander - Especial Farmacias,75,Otros,,false,1449
+813,8/4/2025,6583587699,Fabián Álvarez,191-264-3133,OSDE,210,Enalapril Gador,Enalapril,22945,0.4,Nación,0.25,BNA+ Semana Nación,75,Cardiología,,true,10325
+814,1/31/2026,13348695633,Claudio Ramírez,405-131-2628,OSECAC,PMO,Gadovist,Gadobutrol,25383,0.4,Santander,0.2,Santander - Especial Farmacias,39,Otros,,false,12184
+815,7/31/2025,15119098935,Fabián Aguirre,332-425-8743,DASUTEN (UTN),Plan General,Alikal,Droga Genérica,13502,0.4,Santander,0.2,Santander - Especial Farmacias,17,Otros,,false,6481
+816,9/28/2025,9500131580,Marcelo González,641-586-0073,SanCor Salud,1000,Rosuvastatina Bagó,Droga Genérica,21522,0.4,Macro,0.1,Macro - Beneficio Select,27,Otros,,false,11622
+817,11/13/2025,2247766433,Micaela Sánchez,761-128-3369,Integral Salud,Plan General,Diclofenac Casasco,Droga Genérica,15773,0.4,Nación,0.25,BNA+ Semana Nación,43,Otros,,false,7098
+818,7/27/2025,10445468294,Gustavo Álvarez,235-474-4738,OSECAC,PMO,Actron 600,Ibuprofeno,13515,0.4,Santander,0.2,Santander - Especial Farmacias,11,Analgésicos,,false,6487
+819,5/14/2025,4214104526,Marcela Giménez,264-128-5590,Bramed,Plan General,Bagóhepato,Droga Genérica,15422,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,97,Gastrointestinal,,false,9253
+820,12/25/2025,12623456298,Alejandro Pérez,196-707-3184,OSPE,Plan General,Ibuevanol,Ibuprofeno,8591,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,63,Analgésicos,,false,5155
+821,2/19/2026,13230756074,Nicolás Benítez,656-461-9686,Apross,Plan 360,Ponstan,Droga Genérica,12831,0.4,Nación,0.25,BNA+ Semana Nación,10,Otros,,false,5774
+822,5/10/2025,7430369594,Sofía Benítez,547-622-6930,Swiss Medical,SMG70,Graneodín,Droga Genérica,14076,0.4,Efectivo,0,Sin Promo,81,Otros,,false,8446
+823,3/30/2026,2521066929,Diego Romero,817-348-2326,Swiss Medical,SMG40,Optamox,Amoxicilina,26401,0.4,Efectivo,0,Sin Promo,39,Antibióticos,,true,15841
+824,7/13/2025,13729720924,Carina Aguirre,646-274-0123,Apross,Plan 360,Berocca,Droga Genérica,42281,0.4,Efectivo,0,Sin Promo,76,Vitaminas,,false,25369
+825,10/12/2025,9268827714,Gonzalo García,936-732-3971,Nobis,Plan General,Mylanta,Droga Genérica,11821,0.4,Nación,0.25,BNA+ Semana Nación,34,Gastrointestinal,,false,5319
+826,3/29/2026,14475412568,Yanina González,609-149-9713,OSUTHGRA,Plan General,Lotrial,Enalapril,24077,0.4,Macro,0.1,Macro - Beneficio Select,5,Cardiología,,true,13002
+827,5/8/2025,11073412280,Micaela Benítez,790-407-0362,PAMI,PMO,Meiact,Droga Genérica,30377,0.9,"",0,Sin Promo,86,Otros,,false,3038
+828,11/20/2025,1163065162,Daniela Ortiz,299-883-5203,OSSURRBAC,Plan General,Ibuevanol,Ibuprofeno,9114,0.4,Santander,0.2,Santander - Especial Farmacias,85,Analgésicos,,false,4375
+829,11/14/2025,14916103974,Sergio Sánchez,167-656-9944,Particular,Plan General,Enalapril Gador,Enalapril,17197,0,"",0,Sin Promo,51,Cardiología,,true,17197
+830,5/13/2025,13210092310,José Luis Ortiz,985-238-9710,Apross,Plan 360,Meiact,Droga Genérica,43372,0.4,Santander,0.2,Santander - Especial Farmacias,70,Otros,,false,20819
+831,6/10/2025,180018546,Marcela Rojas,409-514-1141,OSPLYFC,Plan General,Mylanta,Droga Genérica,19769,0.4,Efectivo,0,Sin Promo,47,Gastrointestinal,,false,11861
+832,9/8/2025,173818907,Solange Martínez,361-622-9046,Galeno,Plata 300,Atenolol,Droga Genérica,29247,0.4,"",0,Sin Promo,81,Cardiología,,true,17548
+833,2/17/2026,9836731145,Maximiliano Ramos,821-463-6256,OSPAT,Plan General,Ibupirac,Ibuprofeno,13579,0.4,Santander,0.2,Santander - Especial Farmacias,71,Analgésicos,,false,6518
+834,7/29/2025,10348225054,Natalia Castro,830-163-0494,PAMI,PMO,"",Droga Genérica,14901,0.9,Galicia,0.15,Galicia - Promo MODO,19,Otros,,false,1267
+835,3/14/2026,6369692992,Agustina Sánchez,169-437-7524,Apross,Plan 360,Diclofenac Casasco,Droga Genérica,14877,0.4,Santander,0.2,Santander - Especial Farmacias,76,Otros,,false,7141
+836,2/14/2026,9863469598,Micaela Sánchez,347-577-5052,OSECAC,PMO,"",Droga Genérica,13808,0.4,Banco Provincia,0,Sin Promo,100,Otros,,false,8285
+837,5/4/2025,7048255930,Nahuel Ruiz,504-158-6271,DASUTEN (UTN),Plan General,Ciriax,Droga Genérica,11484,0.4,Macro,0.1,Macro - Beneficio Select,21,Otros,,false,6201
+838,11/27/2025,3382299453,Matías Torres,610-305-0459,PAMI,PMO,Centrum,Multivitamínico,35280,0.9,Nación,0.25,BNA+ Semana Nación,46,Vitaminas,,false,2646
+839,8/25/2025,12337901512,Camila Ruiz,447-914-0787,OSDOP,Plan General,Mylanta,Droga Genérica,13954,0.4,Efectivo,0,Sin Promo,42,Gastrointestinal,,false,8372
+840,3/2/2026,6848574440,Lourdes Sosa,852-146-9920,Sipssa,P4MIL,Optamox,Amoxicilina,36855,0.4,Galicia,0.15,Galicia - Promo MODO,38,Antibióticos,,true,18796
+841,5/6/2025,9606668909,José Luis Sánchez,999-151-3596,Apross,Plan 360,Ciriax,Droga Genérica,19044,0.4,Galicia,0.15,Galicia - Promo MODO,96,Otros,,false,9712
+842,2/19/2026,5163279737,Juan Carlos Torres,537-840-2908,OSPLAD,Plan General,Diclofenac Casasco,Droga Genérica,19949,0.4,"",0,Sin Promo,15,Otros,,false,11969
+843,6/22/2025,13518679819,Solange Acosta,851-636-5614,Medifé,Plan General,Alprazolam,Droga Genérica,13078,0.4,Efectivo,0,Sin Promo,96,Otros,,false,7847
+844,6/27/2025,1283164589,Diego Pérez,240-468-9313,PAMI,PMO,Losartán,Droga Genérica,17826,0.9,Santander,0.2,Santander - Especial Farmacias,91,Otros,,false,1426
+845,8/12/2025,782362197,Marcelo Pérez,832-322-4631,Integral Salud,Plan General,Bagóhepato,Droga Genérica,15941,0.4,Banco Provincia,0,Sin Promo,85,Gastrointestinal,,false,9565
+846,2/13/2026,7199833272,Federico Romero,356-441-3122,Caja de Abogados de Córdoba,Plan General,Bayaspirina,Droga Genérica,13145,0.4,Santander,0.2,Santander - Especial Farmacias,69,Analgésicos,,false,6310
+847,4/8/2026,10310685233,Giuliana Acosta,169-746-4637,OSSURRBAC,Plan General,Sertal Compuesto,Droga Genérica,14921,0.4,Efectivo,0,Sin Promo,97,Gastrointestinal,,false,8953
+848,6/7/2025,1289949715,Florencia González,374-197-7812,OSPLAD,Plan General,Alikal,Droga Genérica,11040,0.4,Efectivo,0,Sin Promo,28,Otros,,false,6624
+849,8/3/2025,6344647770,Claudio Benítez,937-425-9436,Omint,Plan General,Reliverán,Metoclopramida,10101,0.4,Galicia,0.15,Galicia - Promo MODO,30,Otros,,false,5152
+850,10/16/2025,1079241400,Milagros Benítez,243-586-4788,Galeno,Plata 300,Gadovist,Gadobutrol,25589,0.4,Efectivo,0,Sin Promo,30,Otros,,false,15353
+851,9/24/2025,4892766505,Gustavo Ramos,820-371-9816,OSDE,410,Mylanta,Droga Genérica,16844,0.4,Nación,0.25,BNA+ Semana Nación,84,Gastrointestinal,,false,7580
+852,5/7/2025,15328256378,Lucas Ortiz,449-826-1792,ANDAR,Plan General,Redoxon,Multivitamínico,14804,0.4,Banco Provincia,0,Sin Promo,66,Vitaminas,,false,8882
+853,5/8/2025,2925872385,Giuliana Ruiz,148-242-8527,Swiss Medical,SMG70,Centrum,Multivitamínico,52347,0.4,Nación,0.25,BNA+ Semana Nación,69,Vitaminas,,false,23556
+854,12/10/2025,13490322906,Diego Pereyra,942-747-6880,Jerárquicos Salud,Plan General,Enalapril Gador,Enalapril,21833,0.4,Galicia,0.15,Galicia - Promo MODO,42,Cardiología,,true,11135
+855,6/23/2025,11214041062,José Luis Quiroga,481-113-6398,Swiss Medical,SMG70,Taural,Droga Genérica,16262,0.4,Galicia,0.15,Galicia - Promo MODO,12,Gastrointestinal,,false,8294
+856,1/22/2026,8340975435,Maximiliano Quiroga,796-147-8172,Obras Sociales,Plan General,Bagó+ Vital,Multivitamínico,50040,0.4,Banco Provincia,0,Sin Promo,65,Otros,,false,30024
+857,12/15/2025,8820128936,Julián Herrera,280-889-8399,Apross,Plan General,Taural,Droga Genérica,18844,0.4,Santander,0.2,Santander - Especial Farmacias,66,Gastrointestinal,,false,9045
+858,3/26/2026,4951404317,Natalia Fernández,915-921-0826,Sipssa,P4MIL,Graneodín,Droga Genérica,16055,0.4,"",0,Sin Promo,38,Otros,,false,9633
+859,7/19/2025,11984727174,Emiliano Herrera,755-132-5652,PAMI,PMO,Bayaspirina,Droga Genérica,13465,0.9,Nación,0.25,BNA+ Semana Nación,96,Analgésicos,,false,1010
+860,1/24/2026,9917970297,Diego Rojas,545-252-8698,Apross,Plan 360,Clonazepam (Venta Bajo Receta),Droga Genérica,16108,0.4,Banco Provincia,0,Sin Promo,82,Otros,,false,9665
+861,5/18/2025,13119000712,Joaquín Benítez,163-410-7051,Swiss Medical,SMG20,Actron 600,Ibuprofeno,11006,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,82,Analgésicos,,false,6604
+862,5/10/2025,4593813575,Marcelo Gómez,270-318-9540,Federada Salud,Plan General,Ciriax,Droga Genérica,12809,0.4,Efectivo,0,Sin Promo,11,Otros,,false,7685
+863,12/29/2025,8728740145,Fabián Herrera,683-475-9136,Apross,Plan 360,Buscapina,Droga Genérica,15702,0.4,Santander,0.2,Santander - Especial Farmacias,25,Gastrointestinal,,false,7537
+864,1/15/2026,15136426742,Natalia González,312-905-1655,OSECAC,PMO,Actron 600,Ibuprofeno,12603,0.4,Efectivo,0,Sin Promo,38,Analgésicos,,false,7562
+865,7/19/2025,9449792130,Emiliano Pérez,911-423-1463,OSDE,210,Centrum,Multivitamínico,46669,0.4,Débito,0,Sin Promo,83,Vitaminas,,false,28001
+866,10/4/2025,11718498547,Yanina Rodríguez,136-497-0687,Federada Salud,Plan General,Mylanta,Droga Genérica,16265,0.4,Galicia,0.15,Galicia - Promo MODO,82,Gastrointestinal,,false,8295
+867,12/5/2025,14706351688,María Belén Ramírez,944-390-8546,Obras Sociales,Plan General,Rosuvastatina Bagó,Droga Genérica,18078,0.4,Galicia,0.15,Galicia - Promo MODO,58,Otros,,false,9220
+868,10/25/2025,2830255251,Victoria Gutiérrez,375-673-6520,Apross,Plan General,Alprazolam,Droga Genérica,15918,0.4,"",0,Sin Promo,32,Otros,,false,9551
+869,2/17/2026,611018831,Claudio Pérez,647-666-0251,IOSFA,Plan General,Bagóhepato,Droga Genérica,10656,0.4,"",0,Sin Promo,14,Gastrointestinal,,false,6394
+870,6/18/2025,5426505089,Julián Ruiz,902-910-8966,OBSBA,Plan General,Ciriax,Droga Genérica,15393,0.4,Efectivo,0,Sin Promo,4,Otros,,false,9236
+871,5/18/2025,422545700,María Belén Sosa,925-962-4073,Boreal,Plan General,Diclofenac Casasco,Droga Genérica,11792,0.4,Efectivo,0,Sin Promo,87,Otros,,false,7075
+872,8/22/2025,14624773306,Victoria Medina,353-302-4433,Omint,Plan General,Gadovist,Gadobutrol,23760,0.4,Banco Provincia,0,Sin Promo,79,Otros,,false,14256
+873,9/17/2025,14015683425,Estela Ortiz,985-406-8595,Federada Salud,Plan General,Gadovist,Gadobutrol,20432,0.4,"",0,Sin Promo,84,Otros,,false,12259
+874,10/23/2025,10402580728,Diego Ramírez,728-339-9107,Caja de Abogados de Córdoba,Plan General,Gadovist,Gadobutrol,28466,0.4,Banco Provincia,0,Sin Promo,31,Otros,,false,17080
+875,5/8/2025,184329777,Romina Gómez,188-480-4663,Swiss Medical,SMG20,Bagó+ Vital,Multivitamínico,34843,0.4,Efectivo,0,Sin Promo,21,Otros,,false,20906
+876,1/30/2026,3961304930,Morena Ruiz,533-221-0226,Apross,Plan 360,Centrum,Multivitamínico,36568,0.4,Efectivo,0,Sin Promo,34,Vitaminas,,false,21941
+877,10/18/2025,5992751663,Nicolás López,392-579-4217,Jerárquicos Salud,Plan General,Enalapril Gador,Enalapril,24556,0.4,Macro,0.1,Macro - Beneficio Select,94,Cardiología,,true,13260
+878,9/4/2025,8501678024,María Belén Quiroga,417-724-0916,Nobis,Plan General,Bagó+ Vital,Multivitamínico,39268,0.4,Nación,0.25,BNA+ Semana Nación,8,Otros,,false,17671
+879,9/30/2025,7343001369,Marcelo Flores,520-883-9555,OSDE,210,Meiact,Droga Genérica,30256,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,75,Otros,,false,18154
+880,5/19/2025,14828893821,Rodrigo Pereyra,243-501-5412,Hospital Privado,Plan General,Reliverán,Metoclopramida,15351,0.4,Efectivo,0,Sin Promo,34,Otros,,false,9211
+881,1/9/2026,8834056338,Joaquín Castro,871-917-8066,PAMI,PMO,Reliverán,Metoclopramida,17727,0.9,"",0,Sin Promo,13,Otros,,false,1773
+882,12/9/2025,4779808432,Joaquín González,566-809-4028,Medicus,Plan General,"",Droga Genérica,14458,0.4,Banco Provincia,0,Sin Promo,49,Otros,,false,8675
+883,1/13/2026,1914123344,Julián Sánchez,118-578-2792,OSECAC,PMO,Actron 600,Ibuprofeno,8909,0.4,Banco Provincia,0,Sin Promo,40,Analgésicos,,false,5345
+884,9/15/2025,4218231896,Gonzalo Medina,100-923-2748,Apross,Plan General,Ciriax,Droga Genérica,13006,0.4,Santander,0.2,Santander - Especial Farmacias,100,Otros,,false,6243
+885,9/16/2025,3526413464,Lourdes Pereyra,316-491-3898,Luis Pasteur,Plan General,Atenolol,Droga Genérica,25729,0.4,"",0,Sin Promo,12,Cardiología,,true,15437
+886,7/30/2025,6498652289,Morena Flores,952-664-2285,PAMI,PMO,Kitadol,Paracetamol,17171,0.9,Galicia,0.15,Galicia - Promo MODO,80,Otros,,false,1460
+887,5/19/2025,3973295515,Daniela Torres,240-390-9133,Avalian,Plan General,Atenolol,Droga Genérica,29104,0.4,Macro,0.1,Macro - Beneficio Select,77,Cardiología,,true,15716
+888,8/17/2025,9154628892,,861-864-8798,OSECAC,PMO,Meiact,Droga Genérica,29742,0.4,Nación,0.25,BNA+ Semana Nación,45,Otros,,false,13384
+889,2/9/2026,8958177569,Juana Giménez,573-629-0921,OSDE,310,Tafirol,Paracetamol,13401,0.4,Nación,0.25,BNA+ Semana Nación,9,Analgésicos,,false,6030
+890,9/2/2025,12514072138,Matías Flores,693-225-3847,Swiss Medical,SMG20,Centrum,Multivitamínico,46757,0.4,Nación,0.25,BNA+ Semana Nación,39,Vitaminas,,false,21041
+891,11/24/2025,14074461981,Federico Giménez,338-429-3145,Avalian,Plan General,Enalapril Gador,Enalapril,26617,0.4,Galicia,0.15,Galicia - Promo MODO,54,Cardiología,,true,13575
+892,3/7/2026,13549240451,Claudio Ortiz,738-133-0123,OSPJN,Plan General,Ponstan,Droga Genérica,16743,0.4,Efectivo,0,Sin Promo,92,Otros,,false,10046
+893,3/30/2026,4093646661,Carina Pereyra,739-361-7780,OSCHOCA,Plan General,Alikal,Droga Genérica,18302,0.4,Efectivo,0,Sin Promo,14,Otros,,false,10981
+894,4/28/2025,573521811,Graciela Ortiz,512-471-0356,OSIT,Plan General,Ibupirac,Ibuprofeno,11009,0.4,"",0,Sin Promo,68,Analgésicos,,false,6605
+895,11/22/2025,6920787699,Julián Aguirre,783-104-0036,OSITAC,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,19746,0.4,Efectivo,0,Sin Promo,19,Otros,,false,11848
+896,4/24/2025,2239456693,Carina Torres,474-978-7065,OSECAC,PMO,Taural,Droga Genérica,12441,0.4,Débito,0,Sin Promo,70,Gastrointestinal,,false,7465
+897,10/8/2025,3348902704,Bautista González,538-894-6065,Met,One,Redoxon,Multivitamínico,16538,0.4,Santander,0.2,Santander - Especial Farmacias,12,Vitaminas,,false,7938
+898,3/14/2026,13101673928,Emiliano Quiroga,407-193-2259,OSPAT,Plan General,"",Droga Genérica,18005,0.4,Banco Provincia,0,Sin Promo,7,Otros,,false,10803
+899,2/13/2026,12354262259,Juana Aguirre,328-676-7974,DASUTEN (UTN),Plan General,Alprazolam,Droga Genérica,14014,0.4,Efectivo,0,Sin Promo,43,Otros,,false,8408
+900,4/8/2026,1540314523,Giuliana Acosta,808-503-9934,OSMATA,PMO,Bayaspirina,Droga Genérica,15159,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,81,Analgésicos,,false,9095
+901,11/30/2025,4335401488,Camila Flores,612-473-6694,OSECAC,PMO,Optamox,Amoxicilina,26920,0.4,Galicia,0.15,Galicia - Promo MODO,73,Antibióticos,,true,13729
+902,12/31/2025,8467026839,Solange Pérez,236-464-3135,OSDE,210,Clonazepam (Venta Bajo Receta),Droga Genérica,14811,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,40,Otros,,false,8887
+903,8/27/2025,7550399025,Horacio Benítez,820-855-2223,OSPLAD,Plan General,Meiact,Droga Genérica,28883,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,23,Otros,,false,17330
+904,6/30/2025,638864432,Joaquín García,397-703-8689,OSPE,Plan General,Losartán,Droga Genérica,10884,0.4,"",0,Sin Promo,85,Otros,,false,6530
+905,5/9/2025,10158867088,Federico Castro,850-543-2204,GEA,Plan General,Diclofenac Casasco,Droga Genérica,18560,0.4,Banco Provincia,0,Sin Promo,41,Otros,,false,11136
+906,5/19/2025,11313051340,Natalia Ortiz,512-799-4673,OSSURRBAC,Plan General,Bagóhepato,Droga Genérica,15447,0.4,Efectivo,0,Sin Promo,31,Gastrointestinal,,false,9268
+907,5/11/2025,7553905615,Alejandro Romero,277-958-7695,OSUTHGRA,Plan General,Reliverán,Metoclopramida,16319,0.4,Galicia,0.15,Galicia - Promo MODO,84,Otros,,false,8323
+908,1/17/2026,7409042970,Joaquín Díaz,966-941-1661,Bramed,Plan General,Taural,Droga Genérica,18178,0.4,Macro,0.1,Macro - Beneficio Select,61,Gastrointestinal,,false,9816
+909,1/4/2026,4329050459,Santiago Álvarez,270-211-5350,UOCRA,PMO,Clonazepam (Venta Bajo Receta),Droga Genérica,12709,0.4,"",0,Sin Promo,75,Otros,,false,7625
+910,3/19/2026,14355854790,Graciela Sosa,356-513-2125,OSSURRBAC,Plan General,Redoxon,Multivitamínico,10700,0.4,Efectivo,0,Sin Promo,95,Vitaminas,,false,6420
+911,10/3/2025,10954367179,Leandro González,684-948-8645,PAMI,PMO,Ponstan,Droga Genérica,16101,0.9,Santander,0.2,Santander - Especial Farmacias,13,Otros,,false,1288
+912,1/18/2026,13256555984,Lourdes Gutiérrez,464-346-5411,Caja Notarial de Córdoba,Plan General,Gadovist,Gadobutrol,27052,0.4,Galicia,0.15,Galicia - Promo MODO,79,Otros,,false,13797
+913,7/23/2025,12368429086,Jorgelina Rojas,276-439-8069,OSECAC,PMO,Lotrial,Enalapril,28695,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,21,Cardiología,,true,17217
+914,10/20/2025,12682257756,Morena Pérez,338-307-1060,OSECAC,PMO,Lotrial,Enalapril,15648,0.4,"",0,Sin Promo,39,Cardiología,,true,9389
+915,8/2/2025,4505124805,Maximiliano Medina,644-941-2212,PAMI,PMO,Reliverán,Metoclopramida,16444,0.9,Efectivo,0,Sin Promo,98,Otros,,false,1644
+916,12/15/2025,5555445079,Claudio Benítez,512-520-9593,Parque Salud,Plan General,Bayaspirina,Droga Genérica,18498,0.4,Macro,0.1,Macro - Beneficio Select,13,Analgésicos,,false,9989
+917,8/18/2025,3001022158,Victoria Romero,181-620-0668,OSPJN,Plan General,Centrum,Multivitamínico,49404,0.4,Santander,0.2,Santander - Especial Farmacias,45,Vitaminas,,false,23714
+918,4/6/2026,5326720164,Agustina Sosa,390-413-2071,PAMI,PMO,Actron 600,Ibuprofeno,11058,0.9,"",0,Sin Promo,88,Analgésicos,,false,1106
+919,2/14/2026,4320796288,Joaquín López,148-167-4221,Apross,Plan 360,Amoxidal,Amoxicilina,40577,0.4,Galicia,0.15,Galicia - Promo MODO,71,Antibióticos,,true,20694
+920,3/21/2026,4802220482,Paola Sosa,744-320-6125,Apross,Plan 360,Redoxon,Multivitamínico,17851,0.4,Macro,0.1,Macro - Beneficio Select,48,Vitaminas,,false,9640
+921,1/11/2026,6733668444,Juana Benítez,345-675-1525,Apross,Plan 360,Bayaspirina,Droga Genérica,13737,0.4,Macro,0.1,Macro - Beneficio Select,49,Analgésicos,,false,7418
+922,4/6/2026,12738593170,Rodrigo González,413-299-5006,OSECAC,PMO,Ponstan,Droga Genérica,19893,0.4,Macro,0.1,Macro - Beneficio Select,71,Otros,,false,10742
+923,12/16/2025,1456666013,Federico Flores,947-689-7173,OSPOCE,Plan General,Berocca,Droga Genérica,40146,0.4,Efectivo,0,Sin Promo,4,Vitaminas,,false,24088
+924,4/26/2025,2621003740,Claudio Castro,535-154-1933,Federada Salud,Plan General,Atenolol,Droga Genérica,18354,0.4,Débito,0,Sin Promo,89,Cardiología,,true,11012
+925,2/8/2026,11649704683,Ariel Gómez,714-294-1148,Swiss Medical,SMG70,Enalapril Gador,Enalapril,24329,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,95,Cardiología,,true,14597
+926,5/3/2025,14449276894,Sofía Álvarez,727-147-8075,Obras Sociales,Plan General,Enalapril Gador,Enalapril,28838,0.4,Macro,0.1,Macro - Beneficio Select,24,Cardiología,,true,15573
+927,6/30/2025,3742180353,Alejandro Aguirre,564-428-7242,ANDAR,Plan General,Ibuevanol,Ibuprofeno,10031,0.4,Santander,0.2,Santander - Especial Farmacias,44,Analgésicos,,false,4815
+928,11/17/2025,663741954,,583-577-4975,OSPAT,Plan General,Kitadol,Paracetamol,16356,0.4,Galicia,0.15,Galicia - Promo MODO,87,Otros,,false,8342
+929,8/30/2025,13089411539,Bautista Díaz,786-857-3882,OSDE,510,Ciriax,Droga Genérica,19381,0.4,Débito,0,Sin Promo,16,Otros,,false,11629
+930,5/2/2025,1322059836,María Belén Giménez,135-618-6374,OSECAC,PMO,Taural,Droga Genérica,10242,0.4,Banco Provincia,0,Sin Promo,9,Gastrointestinal,,false,6145
+931,5/6/2025,2187035864,Oscar Romero,258-851-5997,Swiss Medical,SMG40,Enalapril Gador,Enalapril,28928,0.4,Banco Provincia,0,Sin Promo,46,Cardiología,,true,17357
+932,8/20/2025,8359127322,Romina Gómez,877-573-9921,PAMI,PMO,Bayaspirina,Droga Genérica,10849,0.9,Macro,0.1,Macro - Beneficio Select,7,Analgésicos,,false,976
+933,10/16/2025,5149807129,Marcelo Gutiérrez,141-336-3412,Federada Salud,Plan General,Sertal Compuesto,Droga Genérica,13744,0.4,"",0,Sin Promo,37,Gastrointestinal,,false,8246
+934,10/11/2025,8134473790,Antonella Aguirre,919-501-6623,Swiss Medical,SMG70,Vastarel,Droga Genérica,11342,0.4,Santander,0.2,Santander - Especial Farmacias,64,Cardiología,,true,5444
+935,3/15/2026,14884780558,Ariel Díaz,212-630-8583,Federada Salud,Plan General,Taural,Droga Genérica,13551,0.4,Nación,0.25,BNA+ Semana Nación,87,Gastrointestinal,,false,6098
+936,3/23/2026,3982366912,Graciela Quiroga,761-280-5600,Caja de Abogados de Córdoba,Plan General,Diclofenac Casasco,Droga Genérica,10344,0.4,"",0,Sin Promo,83,Otros,,false,6206
+937,4/2/2026,6033568873,Agustina Ramírez,940-889-5597,Sipssa,PMIL,Alprazolam,Droga Genérica,10072,0.4,Santander,0.2,Santander - Especial Farmacias,41,Otros,,false,4835
+938,2/14/2026,11704557514,Santiago Ortiz,387-141-1087,Jerárquicos Salud,Plan General,Ciriax,Droga Genérica,12450,0.4,Macro,0.1,Macro - Beneficio Select,13,Otros,,false,6723
+939,9/28/2025,12710999477,Santiago García,318-275-8257,OSECAC,PMO,Ibupirac,Ibuprofeno,9796,0.4,Macro,0.1,Macro - Beneficio Select,14,Analgésicos,,false,5290
+940,4/25/2025,3473736985,Maximiliano Ruiz,837-390-9150,Swiss Medical,SMG70,Actron 600,Ibuprofeno,10169,0.4,Macro,0.1,Macro - Beneficio Select,76,Analgésicos,,false,5491
+941,4/28/2025,5039745955,Jorgelina Martínez,900-454-6668,OSFE,Plan General,Lotrial,Enalapril,27774,0.4,"",0,Sin Promo,99,Cardiología,,true,16664
+942,6/16/2025,2459241277,Leandro Sánchez,643-193-3419,PAMI,PMO,Ibupirac,Ibuprofeno,12018,0.9,Efectivo,0,Sin Promo,99,Analgésicos,,false,1202
+943,4/16/2026,7641950906,Natalia González,588-694-5570,Medicus,Plan General,Rosuvastatina Bagó,Droga Genérica,27395,0.4,Débito,0,Sin Promo,31,Otros,,false,16437
+944,10/27/2025,5406368229,Giuliana Aguirre,794-780-5241,OSPE,Plan General,Atenolol,Droga Genérica,22239,0.4,Efectivo,0,Sin Promo,41,Cardiología,,true,13343
+945,8/6/2025,8165367851,Sergio Ruiz,120-376-2302,OSPE,Plan General,Rosuvastatina Bagó,Droga Genérica,28840,0.4,Efectivo,0,Sin Promo,73,Otros,,false,17304
+946,12/8/2025,4641644269,Gustavo Sosa,442-395-0416,Medifé,Plan General,Ibuevanol,Ibuprofeno,14696,0.4,Efectivo,0,Sin Promo,95,Analgésicos,,false,8818
+947,4/27/2025,15164472357,Marcelo Álvarez,721-756-9126,OSPJN,Plan General,Ciriax,Droga Genérica,11981,0.4,Santander,0.2,Santander - Especial Farmacias,83,Otros,,false,5751
+948,9/8/2025,12381920758,Valentina Fernández,592-416-4018,Parque Salud,Plan General,Vastarel,Droga Genérica,16282,0.4,Débito,0,Sin Promo,37,Cardiología,,true,9769
+949,10/1/2025,2228032704,Bautista Torres,314-688-5841,Swiss Medical,SMG20,Taural,Droga Genérica,18428,0.4,Banco Provincia,0,Sin Promo,57,Gastrointestinal,,false,11057
+950,2/17/2026,3419616035,Morena Ramírez,415-890-4052,OSMATA,PMO,Amoxidal,Amoxicilina,29349,0.4,Galicia,0.15,Galicia - Promo MODO,23,Antibióticos,,true,14968
+951,10/30/2025,10422236525,Joaquín Quiroga,833-479-7927,DASPU,Plan General,Bayaspirina,Droga Genérica,13568,0.4,Nación,0.25,BNA+ Semana Nación,98,Analgésicos,,false,6106
+952,12/14/2025,11378620612,Claudio Quiroga,539-151-4259,OSPECOR,Plan General,Bagó+ Vital,Multivitamínico,42881,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,97,Otros,,false,25729
+953,2/27/2026,15417024707,Natalia Romero,767-556-0967,DASUTEN (UTN),Plan General,Alprazolam,Droga Genérica,16458,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,69,Otros,,false,9875
+954,8/3/2025,10261447798,Milagros Gutiérrez,586-834-3572,Apross,Plan 360,"",Droga Genérica,10222,0.4,Santander,0.2,Santander - Especial Farmacias,16,Otros,,false,4907
+955,2/12/2026,10498202226,,757-561-8104,Galeno,Azul 200,Mylanta,Droga Genérica,17559,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,92,Gastrointestinal,,false,10535
+956,12/21/2025,7882801969,Ariel Álvarez,857-118-2125,OSUTHGRA,Plan General,Graneodín,Droga Genérica,12335,0.4,Débito,0,Sin Promo,47,Otros,,false,7401
+957,4/9/2026,8301547436,Natalia Martínez,746-183-1623,OSPRERA,PMO,Gadovist,Gadobutrol,19786,0.4,Banco Provincia,0,Sin Promo,93,Otros,,false,11872
+958,1/4/2026,12667984203,Matías Flores,867-546-2937,GEA,Plan General,Ponstan,Droga Genérica,15564,0.4,Banco Provincia,0,Sin Promo,43,Otros,,false,9338
+959,3/17/2026,685985889,Gustavo Flores,544-331-6235,Parque Salud,Plan General,Ibuevanol,Ibuprofeno,8606,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,53,Analgésicos,,false,5164
+960,3/10/2026,5486874624,Paola González,291-990-8183,Apross,Plan 360,Enalapril Gador,Enalapril,23539,0.4,Nación,0.25,BNA+ Semana Nación,99,Cardiología,,true,10593
+961,2/3/2026,2369703169,Juana Quiroga,868-754-5402,Ensalud,Plan General,Reliverán,Metoclopramida,17483,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,23,Otros,,false,10490
+962,8/21/2025,6217400467,Santiago Aguirre,552-922-1826,Caja de Abogados de Córdoba,Plan General,Taural,Droga Genérica,14815,0.4,Nación,0.25,BNA+ Semana Nación,51,Gastrointestinal,,false,6667
+963,6/25/2025,619493056,Natalia Benítez,777-396-3661,Bramed,Plan General,Vastarel,Droga Genérica,13652,0.4,Nación,0.25,BNA+ Semana Nación,3,Cardiología,,true,6143
+964,9/6/2025,3144257952,Jorge Romero,794-310-7771,Met,One,Meiact,Droga Genérica,37442,0.4,Banco Provincia,0,Sin Promo,36,Otros,,false,22465
+965,3/3/2026,2577450770,María Belén Ramírez,778-745-6586,OSPECOR,Plan General,Lotrial,Enalapril,15894,0.4,Efectivo,0,Sin Promo,82,Cardiología,,true,9536
+966,5/22/2025,2797364782,Bautista Pérez,533-502-9415,Ensalud,Plan General,Rosuvastatina Bagó,Droga Genérica,23981,0.4,Banco Provincia,0,Sin Promo,89,Otros,,false,14389
+967,11/23/2025,78328125,Mirta Sánchez,180-621-3991,Met,Diamond,Redoxon,Multivitamínico,17507,0.4,"",0,Sin Promo,18,Vitaminas,,false,10504
+968,12/20/2025,10801431680,Roberto Medina,694-627-3612,OSECAC,PMO,Ciriax,Droga Genérica,11377,0.4,"",0,Sin Promo,43,Otros,,false,6826
+969,12/11/2025,13188345660,Sofía Ruiz,876-775-3654,Nobis Salud,Plan General,Reliverán,Metoclopramida,16322,0.4,Banco Provincia,0,Sin Promo,17,Otros,,false,9793
+970,12/12/2025,7994497649,Romina Rojas,875-781-6279,PAMI,PMO,Centrum,Multivitamínico,38266,0.9,Débito,0,Sin Promo,29,Vitaminas,,false,3827
+971,8/1/2025,8723504093,Emiliano Gómez,147-930-8180,Particular,Plan General,Atenolol,Droga Genérica,28981,0,Santander,0.2,Santander - Especial Farmacias,27,Cardiología,,true,23185
+972,10/31/2025,2457526321,Marcela Torres,282-922-9726,SanCor Salud,3000,Tafirol,Paracetamol,12629,0.4,Banco Provincia,0,Sin Promo,95,Analgésicos,,false,7577
+973,3/29/2026,13902788110,María Belén Herrera,496-930-0856,Omint,Plan General,Ibupirac,Ibuprofeno,14791,0.4,Débito,0,Sin Promo,36,Analgésicos,,false,8875
+974,8/4/2025,1908254108,Marcela Ortiz,183-591-1265,OSSURRBAC,Plan General,Gadovist,Gadobutrol,28105,0.4,Santander,0.2,Santander - Especial Farmacias,23,Otros,,false,13490
+975,11/1/2025,14908372141,Julián Gómez,586-735-9988,Medifé,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,10132,0.4,Galicia,0.15,Galicia - Promo MODO,46,Otros,,false,5167
+976,10/18/2025,9318689288,Morena Ramos,588-643-3692,OSPAT,Plan General,Meiact,Droga Genérica,38763,0.4,Santander,0.2,Santander - Especial Farmacias,52,Otros,,false,18606
+977,9/1/2025,12246673140,María Belén Castro,471-311-4466,Met,Diamond,Ibupirac,Ibuprofeno,10362,0.4,Macro,0.1,Macro - Beneficio Select,18,Analgésicos,,false,5595
+978,6/9/2025,7127606782,Horacio Castro,293-492-8411,Boreal,Plan General,Reliverán,Metoclopramida,15369,0.4,Galicia,0.15,Galicia - Promo MODO,96,Otros,,false,7838
+979,7/19/2025,3516215015,Agustina Martínez,665-725-4472,OSPOCE,Plan General,Redoxon,Multivitamínico,17018,0.4,Débito,0,Sin Promo,84,Vitaminas,,false,10211
+980,1/3/2026,5610558441,Ariel Acosta,269-267-9780,OSDE,510,Berocca,Droga Genérica,42041,0.4,Nación,0.25,BNA+ Semana Nación,11,Vitaminas,,false,18918
+981,3/31/2026,9647713909,Jorgelina Castro,159-822-6794,Luis Pasteur,Plan General,Gadovist,Gadobutrol,23726,0.4,Santander,0.2,Santander - Especial Farmacias,43,Otros,,false,11388
+982,9/12/2025,8637589212,,616-716-6646,IOMA,PMO,Alprazolam,Droga Genérica,17892,0.4,Macro,0.1,Macro - Beneficio Select,50,Otros,,false,9662
+983,1/25/2026,7196826308,Giuliana González,672-969-3659,OSDE,410,Tafirol,Paracetamol,11357,0.4,Efectivo,0,Sin Promo,86,Analgésicos,,false,6814
+984,5/10/2025,1993271586,Agustina Pereyra,837-305-7618,Integral Salud,Plan General,Atenolol,Droga Genérica,27298,0.4,Nación,0.25,BNA+ Semana Nación,81,Cardiología,,true,12284
+985,6/28/2025,15274629934,Ariel Pérez,497-951-4308,Apross,Plan General,Centrum,Multivitamínico,54233,0.4,Débito,0,Sin Promo,97,Vitaminas,,false,32540
+986,10/12/2025,5486288806,José Luis Ruiz,466-561-9186,Apross,Plan General,Sertal Compuesto,Droga Genérica,15841,0.4,"",0,Sin Promo,85,Gastrointestinal,,false,9505
+987,7/11/2025,450382541,Lucas Torres,523-347-1921,OSDE,410,Ibupirac,Ibuprofeno,13342,0.4,Débito,0,Sin Promo,43,Analgésicos,,false,8005
+988,5/27/2025,9981700504,José Luis Díaz,625-808-0150,SanCor Salud,1000,Ponstan,Droga Genérica,19192,0.4,Macro,0.1,Macro - Beneficio Select,51,Otros,,false,10364
+989,1/25/2026,11533491365,Julián Romero,225-517-9585,DASPU,Plan General,Kitadol,Paracetamol,14228,0.4,"",0,Sin Promo,7,Otros,,false,8537
+990,4/28/2025,2572967912,Horacio Acosta,631-471-3036,Medicus,Plan General,Actron 600,Ibuprofeno,11854,0.4,Banco Provincia,0,Sin Promo,80,Analgésicos,,false,7112
+991,5/11/2025,1842201107,Estela García,513-815-0038,OSPECOR,Plan General,Kitadol,Paracetamol,13500,0.4,Efectivo,0,Sin Promo,48,Otros,,false,8100
+992,7/27/2025,12716026684,Romina Flores,392-464-7391,Swiss Medical,SMG40,Graneodín,Droga Genérica,17760,0.4,Santander,0.2,Santander - Especial Farmacias,81,Otros,,false,8525
+993,12/1/2025,8499451900,Alejandro Rodríguez,937-435-8878,OSDEPYM,310,Rosuvastatina Bagó,Droga Genérica,25384,0.4,Efectivo,0,Sin Promo,47,Otros,,false,15230
+994,7/28/2025,7516180559,Julián Torres,417-599-9818,PAMI,PMO,Centrum,Multivitamínico,53794,0.9,Débito,0,Sin Promo,74,Vitaminas,,false,5379
+995,2/18/2026,10119674003,Graciela Benítez,777-769-7681,Unión Personal,Plan General,Bagó+ Vital,Multivitamínico,50283,0.4,Efectivo,0,Sin Promo,6,Otros,,false,30170
+996,4/26/2025,446982042,Lucas González,776-798-3981,Apross,Plan General,Alprazolam,Droga Genérica,19318,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,35,Otros,,false,11591
+997,10/18/2025,9741965216,Roberto Sosa,664-816-3104,ASE,Plan General,Buscapina,Droga Genérica,16659,0.4,Banco Provincia,0,Sin Promo,100,Gastrointestinal,,false,9995
+998,9/3/2025,2644362066,Agustina Giménez,706-595-2818,Apross,Plan 360,Centrum,Multivitamínico,34025,0.4,"",0,Sin Promo,66,Vitaminas,,false,20415
+999,6/6/2025,7146387608,Nahuel Herrera,293-880-3950,Medicus,Plan General,Clonazepam (Venta Bajo Receta),Droga Genérica,18999,0.4,Banco Provincia,0,Sin Promo,80,Otros,,false,11399
+1000,5/9/2025,771179789,Ricardo Benítez,998-945-3241,Integral Salud,Plan General,Vastarel,Droga Genérica,14507,0.4,Billetera Virtual (MODO/Mercado Pago),0,Sin Promo,92,Cardiología,,true,8704
