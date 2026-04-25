@@ -14,10 +14,19 @@ Grupo: Sintax Error
 - Negro Clarisa  
 
 ## 📁 Estructura del repositorio
-📦 repositorio
-┣ 📂 Datos
-┃ ┗ 📄 dataset.csv
-┗ 📄 README.md
+
+```bash
+repositorio/
+├── Datos/
+│   └── farmacia.csv
+└── README.md
+```
+
+## 💊 Dataset — Consultas de Farmacia
+
+Este dataset contiene consultas de clientes en una farmacia argentina sobre el precio de medicamentos según su obra social. Cada fila representa una consulta con datos del cliente, el producto, la cobertura aplicada, el medio de pago y si terminó en venta.
+
+Contiene 1000 registros con 19 columnas que cubren información del cliente, del producto, precios, descuentos y resultado de la consulta.
 
 ## 🎯 Objetivo del Proyecto
 
