@@ -1,5 +1,8 @@
 # =============================================================================
-# ANALISTA DE DATOS I — ISPC | Grupo: SintaxError
+# ESPACIOS CURRICULARES
+# - CIENCIA DE DATOS I | Grupo: Syntax Error
+# - ANALISTA DE DATOS I | Grupo: 19
+# Instituto Superior Politécnico Córdoba - ISPC
 # SECCIÓN 1: IMPORTACIÓN DE DATOS
 # =============================================================================
 
