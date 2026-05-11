@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 
 HERE    = os.path.dirname(os.path.abspath(__file__))
-ENTRADA = os.path.join(HERE, "..", "01_importacion", "farmacia_importado.csv")
+ENTRADA = "https://raw.githubusercontent.com/NegroClari/AD1_SintaxError/main/Datos/farmacia.csv"
 SALIDA  = os.path.join(HERE, "farmacia_limpio.csv")
 
 
