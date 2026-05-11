@@ -24,11 +24,11 @@ def limpiar_datos(df: pd.DataFrame) -> pd.DataFrame:
       4. Elimina filas completamente duplicadas
     """
     df = df.copy()
-     # --- MEJORA 1: ELIMINACIÓN DE COLUMNA CONVERTIDA
+     #  ELIMINACIÓN DE COLUMNA CONVERTIDA
     if 'convertida' in df.columns:
         df.drop(columns=['convertida'], inplace=True)
 
-    # --- MEJORA 2: ESTANDARIZACIÓN DE CATEGORÍAS 
+    #  ESTANDARIZACIÓN DE CATEGORÍAS 
     cols_estandarizar = ["obra_social", "metodo_pago", "banco_promocion", "categoria"]
     for col in cols_estandarizar:
         if col in df.columns:
