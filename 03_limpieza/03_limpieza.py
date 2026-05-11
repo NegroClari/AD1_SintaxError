@@ -21,6 +21,16 @@ def limpiar_datos(df: pd.DataFrame) -> pd.DataFrame:
       4. Elimina filas completamente duplicadas
     """
     df = df.copy()
+     # --- MEJORA 1: ELIMINACIÓN DE COLUMNA CONVERTIDA
+    if 'convertida' in df.columns:
+        df.drop(columns=['convertida'], inplace=True)
+
+    # --- MEJORA 2: ESTANDARIZACIÓN DE CATEGORÍAS 
+    cols_estandarizar = ["obra_social", "metodo_pago", "banco_promocion", "categoria"]
+    for col in cols_estandarizar:
+        if col in df.columns:
+            df[col] = df[col].astype(str).str.strip().str.title().replace("Nan", np.nan)
+    
     df.replace("", np.nan, inplace=True)
     df["fecha"] = pd.to_datetime(df["fecha"])
     df["requiere_receta"] = (
