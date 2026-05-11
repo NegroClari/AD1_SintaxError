@@ -6,6 +6,7 @@
 # SECCIÓN 1: IMPORTACIÓN DE DATOS
 # =============================================================================
 
+import os
 import pandas as pd
 
 ENTRADA = "https://raw.githubusercontent.com/NegroClari/AD1_SintaxError/main/Datos/farmacia.csv"
