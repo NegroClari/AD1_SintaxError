@@ -18,30 +18,41 @@ SALIDA  = os.path.join(HERE, "farmacia_limpio.csv")
 def limpiar_datos(df: pd.DataFrame) -> pd.DataFrame:
     """
     Pasos de la limpieza:
-      1. Reemplaza strings vacíos por NaN
-      2. Convierte 'fecha' a datetime
-      3. Convierte 'requiere_receta' a bool
-      4. Elimina filas completamente duplicadas
+      1. Eliminación de columna 'convertida' (100% nula).
+      2. Estandarización de textos (Title Case y limpieza de espacios).
+      3. Reemplazo de strings vacíos por NaN.
+      4. Conversión de 'fecha' a formato datetime.
+      5. Mapeo de 'requiere_receta' a valores booleanos (True/False).
+      6. Eliminación de filas duplicadas y reseteo de índice.
     """
     df = df.copy()
-     #  ELIMINACIÓN DE COLUMNA CONVERTIDA
+    
+    # 1. ELIMINACIÓN DE COLUMNA CONVERTIDA
     if 'convertida' in df.columns:
         df.drop(columns=['convertida'], inplace=True)
 
-    #  ESTANDARIZACIÓN DE CATEGORÍAS 
+    # 2. ESTANDARIZACIÓN DE CATEGORÍAS 
     cols_estandarizar = ["obra_social", "metodo_pago", "banco_promocion", "categoria"]
     for col in cols_estandarizar:
         if col in df.columns:
             df[col] = df[col].astype(str).str.strip().str.title().replace("Nan", np.nan)
     
+    # 3. REEMPLAZO DE VACÍOS
     df.replace("", np.nan, inplace=True)
+
+    # 4. FECHA A DATETIME
     df["fecha"] = pd.to_datetime(df["fecha"])
+
+    # 5. REQUIERE RECETA A BOOL
     df["requiere_receta"] = (
         df["requiere_receta"].astype(str).str.lower().str.strip()
         .map({"true": True, "false": False})
     )
+
+    # 6. DUPLICADOS
     df.drop_duplicates(inplace=True)
     df.reset_index(drop=True, inplace=True)
+
     return df
 
 
