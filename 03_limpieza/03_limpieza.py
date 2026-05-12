@@ -26,29 +26,23 @@ def limpiar_datos(df: pd.DataFrame) -> pd.DataFrame:
       6. Eliminación de filas duplicadas y reseteo de índice.
     """
     df = df.copy()
-    
     # 1. ELIMINACIÓN DE COLUMNA CONVERTIDA
     if 'convertida' in df.columns:
         df.drop(columns=['convertida'], inplace=True)
-
     # 2. ESTANDARIZACIÓN DE CATEGORÍAS 
     cols_estandarizar = ["obra_social", "metodo_pago", "banco_promocion", "categoria"]
     for col in cols_estandarizar:
         if col in df.columns:
             df[col] = df[col].astype(str).str.strip().str.title().replace("Nan", np.nan)
-    
     # 3. REEMPLAZO DE VACÍOS
     df.replace("", np.nan, inplace=True)
-
     # 4. FECHA A DATETIME
     df["fecha"] = pd.to_datetime(df["fecha"])
-
     # 5. REQUIERE RECETA A BOOL
     df["requiere_receta"] = (
         df["requiere_receta"].astype(str).str.lower().str.strip()
         .map({"true": True, "false": False})
     )
-
     # 6. DUPLICADOS
     df.drop_duplicates(inplace=True)
     df.reset_index(drop=True, inplace=True)
